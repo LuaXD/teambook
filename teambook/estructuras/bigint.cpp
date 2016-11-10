@@ -4,10 +4,8 @@
 Contain a useful big int, overload all operators, including cin, cout,
 comparator, build via string (prefer this metod) or long long, for now this not have a
 to_string method
-
 Problem for practice: UVA 494
 */
-
 // base and base_digits must be consistent
 const int base = 1000000000;
 const int base_digits = 9;
@@ -358,14 +356,13 @@ struct bigint {
 
 int main() {
     bigint a=0;
-    //("99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999");
+    //("99999999999999999999999999999999999999999999");
     bigint b;
-    //("19999999999999999999999999999999999999999999999999999999999999999999999999999999999999998");
+    //("19999999999999999999999999999999999999998");
     bigint n;
-    while(cin>>n)
-    {
+    while(cin >> n) {
         if(n==0){break;}
-        a+=n;
-        }
-    cout<<a<<endl;
+        a += n;
     }
+    cout<<a<<endl;
+}
