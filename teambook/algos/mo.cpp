@@ -78,5 +78,3 @@ int main(){
 	}
 	for(int i = 0; i < q;i++)printf("%d\n",ans[i]);
 }
-
-

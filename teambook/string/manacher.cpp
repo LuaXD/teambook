@@ -42,7 +42,7 @@ vector<int> manacher(const string &_s) {
   }
   return P;
 }
-bool is_pal(const vector<int> &mnch_vec, int i, int j) {//[i, j] - i <= j
+bool is_pal(const vector<int> &mnch_vec, int i, int j) {//[i, j] - i<=j
   int len = j - i + 1;
   i = (i + 1) * 2;//idx to manacher vec idx
   j = (j + 1) * 2;
