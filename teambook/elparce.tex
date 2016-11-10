@@ -435,51 +435,82 @@ $\sigma_1(9896040)$ = 44323200 ; $\sigma_1(9959040)$ = 44553600 ; $\sigma_1(9979
 
 
 \section{Grafos}%%%%%%%%%%%%%%%%%%GRAFOS%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Dijkstra}
-\cppfile{grafos/dijkstra.cpp}
 \subsection{Bellman-Ford}
 \cppfile{grafos/bellman.ford.cpp}
-\subsection{Floyd-Warshall}
-\cppfile{grafos/floyd.warshall.cpp}
-\subsection{Kruskal}
-\cppfile[27-41]{grafos/kruskal.cpp}
+\subsection{dijkstra grafos densos}
+\subsection{2 SAT definitivamente no con Tarjan}
+\cppfile{grafos/twosat.cpp}
 \subsection{Prim}
-\cppfile[23-40]{grafos/prim.cpp}
-\subsection{2-SAT + Tarjan SCC}
-\cppfile{grafos/2sat.cpp}
-\subsection{Articulation Points}
-\cppfile{grafos/articulaciones.cpp}
-\subsection{Comp. Biconexas y Puentes}
-\cppfile[28-76]{grafos/biconexas.bridge.cpp}
-\subsection{LCA + Climb}
-\cppfile{grafos/lca.climb.cpp}
-\subsection{Heavy Light Decomposition}
-\cppfile[21-56]{grafos/heavylight.cpp}
-\subsection{Centroid Decomposition}
-\cppfile[17-36]{grafos/centroid.cpp}
-\subsection{Euler Cycle}
+\subsection{Articulataion Points (desgraciadamente tarjan)}
+\cppfile{grafos/articulationpointsandbridges.cpp}
+\subsection{componentes biconexas y puentes (block cut tree)}
+\subsection{ LCA saltitos potencias de 2}
+\subsection{LCA sparse table query O(1)}
+\subsection{HLD}
+\cppfile{grafos/hld.cpp}
+\subsection{centroid descomposition}
+\subsection{euler cycle}
 \cppfile{grafos/euler.cpp}
-\subsection{Diametro árbol}
-\cppfile[17-48]{grafos/diametro.cpp}
-\subsection{Chu-liu}
-\cppfile{grafos/chuliu.cpp}
-\subsection{Hungarian}
-\cppfile[5-59]{grafos/hungarian.cpp}
-\subsection{Dynamic Conectivity}
-\cppfile[17-78]{grafos/dynamic.conectivity.cpp}
-
-
-\section{Network Flow}%%%%%%%%%%%%%%%%%%FLOW%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{diámetro y centro de un árbol}
+\cppfile{grafos/diameterANDcenter.cpp}
+\subsection{algoritmo hungaro}
+\subsection{union find dinámico}
+\cppfile{grafos/dynamic.conectivity.cpp}
+\subsection{truquitos estúpidos por ejemplo second MST es con LCA }
+\subsection{erdos galloi}
+\cppfile{grafos/erdosgalloi.cpp}
+\subsection{grafo funcional hallar k-esimo partiendo de un nodo}
+\subsection{konig}
+\subsection{min-vertex cover bipartitos}
+\subsection{max-flow (min cost versión)}
+\cppfile{grafos/maxflowmincost.cpp}
+\subsection{max-flow corto con matriz}
+\cppfile{grafos/maxflowMVEK.cpp}
+\subsection{max-flow sin matriz}
+\cppfile{grafos/maxflowNOEK.cpp}
 \subsection{Dinic}
 \cppfile[10-76]{flow/dinic.cpp}
-\subsection{Konig}
-\cppfile[98-122]{flow/konig.cpp}
-\subsection{Edmonds Karp's}
-\cppfile{flow/edmonds.karps.cpp}
-\subsection{Push-Relabel O(N3)}
-\cppfile{flow/push.relabel.cpp}
-\subsection{Min-cost Max-flow}
-\cppfile[16-66]{flow/min.cost.max.flow.cpp}
+\subsection{máximo emparejamiento bipartito}
+\cppfile{grafos/bipartitematching.cpp}
+\subsection{max-independent set en bipartitos}
+\subsection{min-path cover (ver tópicos raros de halim)}
+\subsection{min-cost arborescence}
+\subsection{lema de diapositivas de nico de grafos funcionales }
+\subsection{minimax y maximini con kruskal y dijkstra}
+\cppfile{grafos/maximini.cpp}
+%\subsection{Dijkstra}
+%\cppfile{grafos/dijkstra.cpp}
+%\subsection{Bellman-Ford}
+%\cppfile{grafos/bellman.ford.cpp}
+%\subsection{Floyd-Warshall}
+%\cppfile{grafos/floyd.warshall.cpp}
+%\subsection{Kruskal}
+%\cppfile[27-41]{grafos/kruskal.cpp}
+%\subsection{Prim}
+%\cppfile[23-40]{grafos/prim.cpp}
+%\subsection{2-SAT + Tarjan SCC}
+%\cppfile{grafos/2sat.cpp}
+%\subsection{Articulation Points}
+%\cppfile{grafos/articulaciones.cpp}
+%\subsection{Comp. Biconexas y Puentes}
+%\cppfile[28-76]{grafos/biconexas.bridge.cpp}
+%\subsection{LCA + Climb}
+%\cppfile{grafos/lca.climb.cpp}
+%\subsection{Heavy Light Decomposition}
+%\cppfile[21-56]{grafos/heavylight.cpp}
+%\subsection{Centroid Decomposition}
+%\cppfile[17-36]{grafos/centroid.cpp}
+%\subsection{Euler Cycle}
+%\cppfile{grafos/euler.cpp}
+%\subsection{Diametro árbol}
+%\cppfile[17-48]{grafos/diametro.cpp}
+%\subsection{Chu-liu}
+%\cppfile{grafos/chuliu.cpp}
+%\subsection{Hungarian}
+%\cppfile[5-59]{grafos/hungarian.cpp}
+%\subsection{Dynamic Conectivity}%
+%\cppfile[17-78]{grafos/dynamic.conectivity.cpp}
+
 
 
 \section{Template}%%%%%%%%%%%%%%%%%%TEMPLATE%%%%%%%%%%%%%%%%
