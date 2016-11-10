@@ -1,0 +1,152 @@
+2. Estructuras 3
+1.1 Sparse table (RMQ static)
+1.2 Segment tree (iterativo, recursivo) versión 2D sin tamaño
+1.3 lazy básico
+1.4 segment tree persistente
+1.5 Fenwick tree (y 2D)
+1.6 union find con rank
+1.7 big int C++ (aumentar to_string)
+1.8 unorderd_set (hash para pares)
+1.9 como usar un ordered_set
+1.10 treap modo set
+1.12 treap implícito
+1.13 convex hull trick normal
+1.14 convex hull trick dinámico
+1.15 misoft_tree
+1.16 número de elementos <= a X en log(N)
+
+
+
+
+3 algoritmos
+3.1 LIS n*logN con reconstrucción
+3.2 Mo's algorithm 
+
+4 Strings
+4.1 Manacher
+4.2 KMP
+4.3 Z 
+4.4 Trie (con punteros con bfs)
+4.5 suffix array O(n * log(n)) con LCP (kasai) O(N)
+4.5.1 mínima rotación lexicogáfica (Branimir lo codeo Sam)
+4.6 matching
+4.6.1 string matching con suffix array
+4.6.2 Burrow wheeler transform
+4.6.3 string matching con BWT
+4.6.4 string matching con aho corasic
+4.7 suffix automaton (LCSubstring)
+4.8 k-esima permutación de una cadena
+
+5. geometría
+5.1 copiar plantilla de roy palacios http://github.com/roypalacios
+5.2 intersección de círculos
+5.3 graham scam
+5.4 cortar polígono
+5.5 sacar de la plantilla de branimir http://github.com/BranimirE
+5.6 parametrización de rectas
+
+6. matemáticas 
+6.1 identidades, teoremas y propiedades
+6.1.1 sumatoria coprimos menores a N
+6.2 ecuación característica
+6.3 combinatorio con lucas
+6.4 multiplicación de matrices
+6.5 fibonaccis log(N)
+6.6 Gauss Jordan
+6.7 Simplex
+6.8 teorema chino del resto (caja negra valor que cumple todas las ecuaciones de congruencia)
+6.9 Utilidades de criba
+6.9.1 Phi euler
+6.9.2 factorizar
+6.9.3 suma de divisores
+6.9.4 contar divisores
+6.10 bactracking generar divisores
+6.11 suma de divisores
+6.12 phi euler O(sqrt(N))
+6.13 phollar rolando
+6.14 miller rabin
+6.15 extended euclid (y casos especiales)
+6.15.1 resolver para varios parámetros (generalización para n incógnitas, cualquiera, mínima solución)
+6.15.2 todo positivo
+6.15.3 minimizar, maximizar x.
+6.16 inverso modular (primos y no primos)
+6.17 integral de simpsons
+6.18 clase fraction
+6.19 Polinomios
+6.19.1 resolver polinomio
+6.19.2 interpolar polinomio
+6.19.3 FFT (el de mario)
+6.19.4 karatsuba (robarle a mija)
+6.20 exponenciación a un número estúpidamente grande módulo algo
+6.21 longitud de los números de 1 a N
+6.22 ecuación tridiagonal
+6.23 máximos mínimos con derivadas
+6.24 tablas y cotas
+6.25 inversos modulares en O(mod)
+6.26 triángulo trinomial (The triangle corresponds to the number of possible paths that can be taken by the king in a game of chess. The entry in a cell represents the number of different paths (using a minimum number of moves) the king can take to reach the ce)
+6.27 multplicación entero con string
+6.28 inclusión exclusión
+6.29 rotaciones de un cubo
+
+
+7. Grafos
+7.1 Bellman-Ford
+7.2 dijkstra grafos densos
+7.3 2 SAT definitivamente no con Tarjan
+7.4 Prim
+7.5 Articulataion Points (desgraciadamente tarjan)
+7.6 componentes biconexas y puentes (block cut tree)
+7.7 LCA saltitos potencias de 2
+7.8 LCA sparse table query O(1)
+7.9 HLD
+7.10 centroid descomposition
+7.11 euler cycle
+7.12 diámetro y centro de un árbol
+7.13 algoritmo hungaro 
+7.14 union find dinámico
+7.15 truquitos estúpidos por ejemplo second MST es con LCA 
+7.16 erdos galloi
+7.17 grafo funcional hallar k-esimo partiendo de un nodo
+7.18 konig, 
+7.18.1 min-vertex cover bipartitos
+7.19 max-flow (min cost versión)
+7.20 max-flow corto con matriz
+7.21 máximo emparejamiento bipartito
+7.22 max-independent set en bipartitos
+7.23 min-path cover (ver tópicos raros de halim)
+7.24 min-cost arborescence
+7.25 lema de diapositivas de nico de grafos funcionales 
+7.26 minimax y maximini con kruskal y dijkstra
+
+8. teoría de juegos
+8.1 teorema fundamental de los juegos óptimos
+8.2 como calcular grundy
+
+
+9. probabilidad
+9.1 formulas clave 
+
+10. otros
+10.1 josephus
+10.1.1 josephus para k = 2
+10.2 poker
+10.3 simulación de jueguitos de mierda
+10.4 iterar subconjuntos de una máscara
+10.5 como reconstruir un DP 
+10.6 muajaja con j
+10.7 como comparar doubles para idiotas
+10.8 entrada rápida
+10.9 template
+10.11 file setup
+10.12 infix to postfix
+10.13 números romanos
+10.14 hallar cual es la k-esima permutación
+10.15 sliding window casos especiales
+10.16 permutaciones de un dado
+10.17 submatriz de 0's
+10.18 ternary search
+10.19 lliebre y tortuga
+10.20 lis 2d
+10.21 dancing links
+10.22 cosos de printf
+10.23 java
