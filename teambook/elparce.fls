@@ -365,6 +365,9 @@ INPUT grafos/biconnected.cpp
 INPUT grafos/hld.cpp
 INPUT grafos/hld.cpp
 INPUT grafos/hld.cpp
+INPUT grafos/centroide.cpp
+INPUT grafos/centroide.cpp
+INPUT grafos/centroide.cpp
 INPUT grafos/euler.cpp
 INPUT grafos/euler.cpp
 INPUT grafos/euler.cpp

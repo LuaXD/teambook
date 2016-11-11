@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 14:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1043,81 +1043,102 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 175.
 
-[46]) (./grafos/euler.cpp) (./grafos/diameterANDcenter.cpp
+[46]) (./grafos/centroide.cpp
 
-LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 26.
+! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
+h LaTeX.
 
-[47]) (./grafos/dynamic.conectivity.cpp
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     Esta implementación 
+                              halla el centroide y elimina el centroide
+? 
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36     Esta implementación 
+                              halla el centroide y elimina el centroide
+? 
+
+! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
+h LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ... "contar(u, -1)" para preprocesar tamaños
+                                                  
+? 
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ... "contar(u, -1)" para preprocesar tamaños
+                                                  
+? 
+) (./grafos/euler.cpp
+
+LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 16.
+
+[47]) (./grafos/diameterANDcenter.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 48.
+LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 503.
 
-[48]
+[48] (./grafos/dynamic.conectivity.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 78.
+
+[49]) (./grafos/erdosgalloi.cpp) (./grafos/maxflowmincost.cpp
+
+! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
+h LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 * Complexity O(v²*E
+                        *log(v))
+? 
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 * Complexity O(v²*E
+                        *log(v))
+? 
+
+LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 11.
+
+[50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(./grafos/erdosgalloi.cpp
+(./grafos/maxflowMVEK.cpp
 
-LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 19.
-
-[49]) (./grafos/maxflowmincost.cpp
-
-! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
-h LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 * Complexity O(v²*E
-                        *log(v))
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 * Complexity O(v²*E
-                        *log(v))
-? 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 57.
-
-[50]) (./grafos/maxflowMVEK.cpp
-
-! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
-h LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 * Complexity O(N²*E
-                        )
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 * Complexity O(N²*E
-                        )
-? 
-) (./grafos/maxflowNOEK.cpp
-
-LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 6.
+LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 4.
 
 [51]
 
@@ -1142,69 +1163,97 @@ Type  H <return>  for immediate help.
 l.7 * Complexity O(N²*E
                         )
 ? 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 )
-(./flow/dinic.cpp
-
-LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 18.
-
-[52]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(./grafos/bipartitematching.cpp
-
-LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 30.
-
-[53]) (./grafos/maximini.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+(./grafos/maxflowNOEK.cpp
 
-LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 43.
+! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
+h LaTeX.
 
-[54])
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 * Complexity O(N²*E
+                        )
+? 
 
-LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 606.
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 * Complexity O(N²*E
+                        )
+? 
+
+LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 42.
+
+[52]) (./flow/dinic.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 51.
+
+[53]) (./grafos/bipartitematching.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 525.
+
+[54] (./grafos/maximini.cpp)
+
+LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 565.
 
 [55]
 
-LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 673.
+LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 627.
 
-[56] (./others/infixpostfix.cpp
+[56]
 
-LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 37.
+LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 699.
 
-[57]) (./others/romano.cpp) (./others/getkthpermutation.cpp
-
-LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 19.
-
-[58])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 793.
+[57] (./others/infixpostfix.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 793.
+
+LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 720.
+
+[58] (./others/romano.cpp) (./others/getkthpermutation.cpp)
+
+LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 743.
 
 [59]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 793.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 794.
+
+
+LaTeX Warning: Reference `LastPage' on page 60 undefined on input line 794.
+
+[60]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 794.
  (./elparce.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 793.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 793.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 794.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 794.
 Package rerunfilecheck Info: File `elparce.out' has not changed.
 (rerunfilecheck)             Checksum: 48F79D90E1E806E72AF98B79C078CD99;10064.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 793.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 794.
  ) 
 Here is how much of TeX's memory you used:
- 15704 strings out of 495028
- 218764 string characters out of 6181497
+ 15768 strings out of 495028
+ 219723 string characters out of 6181497
  632876 words of memory out of 5000000
- 14061 multiletter control sequences out of 15000+600000
+ 14074 multiletter control sequences out of 15000+600000
  12653 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  39i,13n,58p,357b,1931s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1225,10 +1274,10 @@ r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on elparce.pdf (59 pages, 626702 bytes).
+Output written on elparce.pdf (60 pages, 630651 bytes).
 PDF statistics:
- 6277 PDF objects out of 7423 (max. 8388607)
- 6135 compressed objects within 62 object streams
- 4487 named destinations out of 5155 (max. 500000)
+ 6337 PDF objects out of 7423 (max. 8388607)
+ 6194 compressed objects within 62 object streams
+ 4535 named destinations out of 5155 (max. 500000)
  1126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
