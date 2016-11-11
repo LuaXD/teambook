@@ -1,4 +1,3 @@
-\select@language {spanish}
 \contentsline {section}{\numberline {1}algorithm}{3}{section.1}
 \contentsline {section}{\numberline {2}Estructuras}{3}{section.2}
 \contentsline {subsection}{\numberline {2.1}RMQ (static)}{3}{subsection.2.1}
@@ -66,7 +65,7 @@
 \contentsline {subsection}{\numberline {6.14}GCD}{33}{subsection.6.14}
 \contentsline {subsection}{\numberline {6.15}Extended Euclid}{33}{subsection.6.15}
 \contentsline {subsection}{\numberline {6.16}LCM}{33}{subsection.6.16}
-\contentsline {subsection}{\numberline {6.17}Inversos}{34}{subsection.6.17}
+\contentsline {subsection}{\numberline {6.17}Inversos}{33}{subsection.6.17}
 \contentsline {subsection}{\numberline {6.18}Simpson}{34}{subsection.6.18}
 \contentsline {subsection}{\numberline {6.19}Fraction}{34}{subsection.6.19}
 \contentsline {subsection}{\numberline {6.20}Polinomio}{34}{subsection.6.20}
@@ -103,7 +102,7 @@
 \contentsline {subsection}{\numberline {7.21}max-flow corto con matriz}{47}{subsection.7.21}
 \contentsline {subsection}{\numberline {7.22}max-flow sin matriz}{48}{subsection.7.22}
 \contentsline {subsection}{\numberline {7.23}Dinic}{49}{subsection.7.23}
-\contentsline {subsection}{\numberline {7.24}m\IeC {\'a}ximo emparejamiento bipartito}{50}{subsection.7.24}
+\contentsline {subsection}{\numberline {7.24}m\IeC {\'a}ximo emparejamiento bipartito}{49}{subsection.7.24}
 \contentsline {subsection}{\numberline {7.25}max-independent set en bipartitos}{50}{subsection.7.25}
 \contentsline {subsection}{\numberline {7.26}min-path cover (ver t\IeC {\'o}picos raros de halim)}{50}{subsection.7.26}
 \contentsline {subsection}{\numberline {7.27}min-cost arborescence}{50}{subsection.7.27}
@@ -112,25 +111,34 @@
 \contentsline {section}{\numberline {8}Teoria de juegos}{51}{section.8}
 \contentsline {subsection}{\numberline {8.1}Teorema fundamental de los juegos optimos}{51}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Como calcular grundy}{51}{subsection.8.2}
-\contentsline {section}{\numberline {9}Probabilidad}{52}{section.9}
-\contentsline {subsection}{\numberline {9.1}Formulas clave}{52}{subsection.9.1}
+\contentsline {section}{\numberline {9}Algunas formulas de probabilidad}{51}{section.9}
+\contentsline {paragraph}{Importante}{51}{section*.7}
+\contentsline {subsection}{\numberline {9.1}Regla general de la probabilidad}{52}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Teorema de bayes (Probabilidad condicional)}{52}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Regla de la suma}{52}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Regla de la multiplicacion}{52}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Esperanza matematica}{52}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}Ley de la esperanza total}{52}{subsection.9.6}
+\contentsline {subsection}{\numberline {9.7}Esperanza de variables independientes}{52}{subsection.9.7}
+\contentsline {subsection}{\numberline {9.8}Varianza}{52}{subsection.9.8}
+\contentsline {subsection}{\numberline {9.9}Distribucion Binomial}{52}{subsection.9.9}
 \contentsline {section}{\numberline {10}Otros/utilitarios}{52}{section.10}
 \contentsline {subsection}{\numberline {10.1}josephus}{52}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}josephus k = 2}{52}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}poker}{52}{subsection.10.3}
-\contentsline {subsection}{\numberline {10.4}iterar subconjuntos}{52}{subsection.10.4}
-\contentsline {subsection}{\numberline {10.5}como reconstruir una DP (normal)}{52}{subsection.10.5}
-\contentsline {subsection}{\numberline {10.6}muajaja con j}{52}{subsection.10.6}
+\contentsline {subsection}{\numberline {10.2}josephus k = 2}{53}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}poker}{53}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}iterar subconjuntos}{53}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}como reconstruir una DP (normal)}{53}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.6}muajaja con j}{53}{subsection.10.6}
 \contentsline {subsection}{\numberline {10.7}comparar doubles for noobs}{53}{subsection.10.7}
 \contentsline {subsection}{\numberline {10.8}infix to postfix}{53}{subsection.10.8}
-\contentsline {subsection}{\numberline {10.9}numeros romanos}{53}{subsection.10.9}
-\contentsline {subsection}{\numberline {10.10}get k-th permutacion}{54}{subsection.10.10}
-\contentsline {subsection}{\numberline {10.11}sliding window}{54}{subsection.10.11}
-\contentsline {subsection}{\numberline {10.12}permutaciones de un dado}{54}{subsection.10.12}
-\contentsline {subsection}{\numberline {10.13}ternary search}{55}{subsection.10.13}
-\contentsline {subsection}{\numberline {10.14}liebre y el tortugo}{55}{subsection.10.14}
-\contentsline {subsection}{\numberline {10.15}como usar printf}{55}{subsection.10.15}
-\contentsline {subsection}{\numberline {10.16}java}{55}{subsection.10.16}
-\contentsline {subsection}{\numberline {10.17}python}{55}{subsection.10.17}
-\contentsline {subsection}{\numberline {10.18}template}{55}{subsection.10.18}
-\contentsline {subsection}{\numberline {10.19}file setup}{55}{subsection.10.19}
+\contentsline {subsection}{\numberline {10.9}numeros romanos}{54}{subsection.10.9}
+\contentsline {subsection}{\numberline {10.10}get k-th permutacion}{55}{subsection.10.10}
+\contentsline {subsection}{\numberline {10.11}sliding window}{55}{subsection.10.11}
+\contentsline {subsection}{\numberline {10.12}permutaciones de un dado}{55}{subsection.10.12}
+\contentsline {subsection}{\numberline {10.13}ternary search}{56}{subsection.10.13}
+\contentsline {subsection}{\numberline {10.14}liebre y el tortugo}{56}{subsection.10.14}
+\contentsline {subsection}{\numberline {10.15}como usar printf}{56}{subsection.10.15}
+\contentsline {subsection}{\numberline {10.16}java}{56}{subsection.10.16}
+\contentsline {subsection}{\numberline {10.17}python}{56}{subsection.10.17}
+\contentsline {subsection}{\numberline {10.18}template}{56}{subsection.10.18}
+\contentsline {subsection}{\numberline {10.19}file setup}{56}{subsection.10.19}
