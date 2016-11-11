@@ -314,6 +314,9 @@ INPUT grafos/twosat.cpp
 INPUT grafos/articulationpointsandbridges.cpp
 INPUT grafos/articulationpointsandbridges.cpp
 INPUT grafos/articulationpointsandbridges.cpp
+INPUT grafos/biconnected.cpp
+INPUT grafos/biconnected.cpp
+INPUT grafos/biconnected.cpp
 INPUT grafos/hld.cpp
 INPUT grafos/hld.cpp
 INPUT grafos/hld.cpp
