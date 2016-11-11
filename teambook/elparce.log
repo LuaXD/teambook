@@ -1,15 +1,20 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 15:25
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 15:22
+>>>>>>> 4367c9a39632f011db1516498ba7dc640e060d71
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **elparce.tex
-(./elparce.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
-(./preamble.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/home/problem/github/teambook/teambook/elparce.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/home/problem/github/teambook/teambook/preamble.tex
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -72,7 +77,7 @@ Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
@@ -143,44 +148,38 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip43
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/12/03 3.9h The Babel package
+Package: babel 2014/09/25 3.9l The Babel package
 
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
 
-! Package babel Error: Unknown option `spanish'. Either you misspelled it
-(babel)                or the language definition file spanish.ldf was not foun
-d.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.296 \ProcessOptions*
-                      
-? 
-
-! Package babel Error: You haven't specified a language option.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.329 ...ry to proceed from here, type x to quit.}
-                                                  
-? 
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count97
+\U@D=\dimen107
+)
+\es@quottoks=\toks15
+\es@quotdepth=\count98
+Package babel Info: Making " an active character on input line 516.
+Package babel Info: Making . an active character on input line 617.
+Package babel Info: Making < an active character on input line 662.
+Package babel Info: Making > an active character on input line 662.
+Package babel Info: Making ' an active character on input line 680.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -330,7 +329,7 @@ Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -361,7 +360,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -397,69 +396,65 @@ Now handling font encoding PD1 ...
 \f@ncyO@olf=\skip51
 \f@ncyO@orf=\skip52
 )
-
-! LaTeX Error: File `lastpage.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count97
+\lst@mode=\count99
 \lst@gtempboxa=\box26
-\lst@token=\toks17
-\lst@length=\count98
-\lst@currlwidth=\dimen107
-\lst@column=\count99
-\lst@pos=\count100
-\lst@lostspace=\dimen108
-\lst@width=\dimen109
-\lst@newlines=\count101
-\lst@lineno=\count102
-\lst@maxwidth=\dimen110
+\lst@token=\toks18
+\lst@length=\count100
+\lst@currlwidth=\dimen108
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen109
+\lst@width=\dimen110
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen111
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
-\c@lstnumber=\count103
-\lst@skipnumbers=\count104
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
 \lst@framebox=\box27
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2013/08/26 1.5b listings configuration
+File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
-Package: listings 2013/08/26 1.5b (Carsten Heinz)
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks18
+\@emptytoks=\toks19
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 142.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count105
+\Gread@gobject=\count107
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
@@ -467,18 +462,19 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 )
-\Gin@req@height=\dimen111
-\Gin@req@width=\dimen112
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
 )
-
-! LaTeX Error: File `wrapfig.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen114
+\WF@size=\dimen115
+\c@WF@wrappedlines=\count108
+\WF@box=\box28
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip53
@@ -489,66 +485,70 @@ Package: amstext 2000/06/29 v2.01
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks19
-\ex@=\dimen113
+\@emptytoks=\toks21
+\ex@=\dimen116
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen114
+\pmbraise@=\dimen117
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count106
+\inf@bad=\count109
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count107
-\leftroot@=\count108
+\uproot@=\count110
+\leftroot@=\count111
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count109
-\DOTSCASE@=\count110
+\classnum@=\count112
+\DOTSCASE@=\count113
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box28
-\strutbox@=\box29
-\big@size=\dimen115
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen118
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count111
-\c@MaxMatrixCols=\count112
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
 \dotsspace@=\muskip11
-\c@parentequation=\count113
-\dspbrk@lvl=\count114
-\tag@help=\toks20
-\row@=\count115
-\column@=\count116
-\maxfields@=\count117
-\andhelp@=\toks21
-\eqnshift@=\dimen116
-\alignsep@=\dimen117
-\tagshift@=\dimen118
-\tagwidth@=\dimen119
-\totwidth@=\dimen120
-\lineht@=\dimen121
-\@envbody=\toks22
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
+\tag@help=\toks22
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
+\andhelp@=\toks23
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks24
 \multlinegap=\skip54
 \multlinetaggap=\skip55
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2013/08/26 1.5b listings language file
+File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2013/08/26 1.5b listings language file
+File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
-)) (./elparce.aux)
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+))
+(/home/problem/github/teambook/teambook/elparce.aux
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+)
 \openout1 = `elparce.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -565,39 +565,46 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring OFF on input line 5.
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count118
+\c@section@level=\count121
 )
 LaTeX Info: Redefining \ref on input line 5.
 LaTeX Info: Redefining \pageref on input line 5.
 LaTeX Info: Redefining \nameref on input line 5.
 
-(./elparce.out) (./elparce.out)
+(/home/problem/github/teambook/teambook/elparce.out)
+(/home/problem/github/teambook/teambook/elparce.out)
 \@outlinefile=\write3
 \openout3 = `elparce.out'.
 
-\c@lstlisting=\count119
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 5.
+\c@lstlisting=\count122
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count120
-\scratchdimen=\dimen122
-\scratchbox=\box31
-\nofMPsegments=\count121
-\nofMParguments=\count122
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count123
-\MPscratchDim=\dimen123
-\MPnumerator=\count124
-\makeMPintoPDFobject=\count125
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count123
+\scratchdimen=\dimen125
+\scratchbox=\box32
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen126
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -613,146 +620,216 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<snc.jpg, id=558, 501.875pt x 259.97125pt>
+<snc.jpg, id=566, 501.875pt x 259.97125pt>
 File: snc.jpg Graphic file (type jpg)
  <use snc.jpg>
 Package pdftex.def Info: snc.jpg used on input line 7.
 (pdftex.def)             Requested size: 284.52756pt x 147.39178pt.
- (./elparce.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+(/home/problem/github/teambook/teambook/elparce.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 68.
+ </home/problem/github/teambook/teambook/snc.jpg>]
+Overfull \hbox (2.55557pt too wide) detected at line 139
+\OT1/cmr/m/n/10 10.10. 
+ []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./snc.jpg>])
+Overfull \hbox (2.55557pt too wide) detected at line 140
+\OT1/cmr/m/n/10 10.11. 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 141
+\OT1/cmr/m/n/10 10.12. 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 142
+\OT1/cmr/m/n/10 10.13. 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 143
+\OT1/cmr/m/n/10 10.14. 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 144
+\OT1/cmr/m/n/10 10.15. 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 145
+\OT1/cmr/m/n/10 10.16. 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 146
+\OT1/cmr/m/n/10 10.17. 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 147
+\OT1/cmr/m/n/10 10.18. 
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `elparce.toc'.
 
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 8.
-
-[2] (./algorithm.tex)
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ [2] (/home/problem/github/teambook/teambook/algorithm.tex)
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 17.
- (./estructuras/rmq.static.cpp) (./estructuras/strec.cpp
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 21.
+(/home/problem/github/teambook/teambook/estructuras/rmq.static.cpp)
+(/home/problem/github/teambook/teambook/estructuras/strec.cpp
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [3])
+(/home/problem/github/teambook/teambook/estructuras/segtreeiter.cpp)
+(/home/problem/github/teambook/teambook/estructuras/ST_casi_lazy.cpp)
+(/home/problem/github/teambook/teambook/estructuras/segmenttree_punteros.cpp
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
 
-[3]) (./estructuras/segtreeiter.cpp) (./estructuras/ST_casi_lazy.cpp)
-(./estructuras/segmenttree_punteros.cpp
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 42.
-
-[4]) (./estructuras/st2d.cpp
+[4]) (/home/problem/github/teambook/teambook/estructuras/st2d.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+ [5])
+(/home/problem/github/teambook/teambook/estructuras/stlazysuma.cpp)
+(/home/problem/github/teambook/teambook/estructuras/stlazypaint.cpp
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [6])
+(/home/problem/github/teambook/teambook/estructuras/persistent.cpp)
+(/home/problem/github/teambook/teambook/estructuras/fenwick.cpp)
+(/home/problem/github/teambook/teambook/estructuras/BIT2d.cpp)
+(/home/problem/github/teambook/teambook/estructuras/union_find_rank.cpp
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 57.
-
-[5]) (./estructuras/stlazysuma.cpp) (./estructuras/stlazypaint.cpp
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 25.
-
-[6]) (./estructuras/persistent.cpp) (./estructuras/fenwick.cpp)
-(./estructuras/BIT2d.cpp) (./estructuras/union_find_rank.cpp
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 8.
-
-[7]) (./estructuras/bigint.cpp
+[7]) (/home/problem/github/teambook/teambook/estructuras/bigint.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 60.
-
-[8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 142.
-
-[9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 227.
-
-[10]
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 312.
-
-[11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(./estructuras/unordered_set.cpp) (./estructuras/ordered_set.cpp
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 9.
-
-[12]) (./estructuras/treapmodoset.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 76.
-
-[13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 61.
-
-[14] (./estructuras/rope.cpp) (./estructuras/tobbystones.cpp
-
-LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 32.
-
-[15]
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+ [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 114.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[16]
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
+ [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(./estructuras/convexhulltrick.cpp
+(/home/problem/github/teambook/teambook/estructuras/unordered_set.cpp)
+(/home/problem/github/teambook/teambook/estructuras/ordered_set.cpp
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [12])
+(/home/problem/github/teambook/teambook/estructuras/treapmodoset.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 8.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [14]
+(/home/problem/github/teambook/teambook/estructuras/rope.cpp)
+(/home/problem/github/teambook/teambook/estructuras/tobbystones.cpp
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(/home/problem/github/teambook/teambook/estructuras/convexhulltrick.cpp
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 
 [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -760,30 +837,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 88.
-
-[18]) (./estructuras/convexhulltrick_dynamic.cpp) (./estructuras/misof_tree.cpp
-
-Underfull \vbox (badness 4556) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 16.
-
-[19]) (./estructuras/SQRT_Decomposition_basic.cpp
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+ [18])
+(/home/problem/github/teambook/teambook/estructuras/convexhulltrick_dynamic.cpp
+) (/home/problem/github/teambook/teambook/estructuras/misof_tree.cpp
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [19])
+(/home/problem/github/teambook/teambook/estructuras/SQRT_Decomposition_basic.cp
+p
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 67.
-
-[20])
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 78.
-
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+ [20])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 78.
@@ -796,212 +870,272 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 78.
 
-(./estructuras/leqset.cpp) (./algos/lisyreconstruccion.cpp) (./algos/mo.cpp
 
-LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 13.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 78.
 
-[21]
+(/home/problem/github/teambook/teambook/estructuras/leqset.cpp)
+(/home/problem/github/teambook/teambook/algos/lisyreconstruccion.cpp)
+(/home/problem/github/teambook/teambook/algos/mo.cpp
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(./algos/ternarysearch_reales.cpp)
+(/home/problem/github/teambook/teambook/algos/ternarysearch_reales.cpp)
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
 
-LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 127.
+[22] (/home/problem/github/teambook/teambook/algos/ternarysearch_enteros.cpp)
+(/home/problem/github/teambook/teambook/string/manacher.cpp)
+(/home/problem/github/teambook/teambook/string/trie.cpp
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [23])
+(/home/problem/github/teambook/teambook/string/suffixarray.cpp)
+(/home/problem/github/teambook/teambook/string/aplicacionSA.cpp
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [24])
+(/home/problem/github/teambook/teambook/string/minrotlex.cpp)
+(/home/problem/github/teambook/teambook/string/kmp.cpp
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+ [25])
+(/home/problem/github/teambook/teambook/string/hashstr.cpp)
+(/home/problem/github/teambook/teambook/string/suffarraymatch.cpp)
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
+ [26]
+(/home/problem/github/teambook/teambook/string/bwtmatch.cpp)
+(/home/problem/github/teambook/teambook/string/corasick.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[22] (./algos/ternarysearch_enteros.cpp) (./string/manacher.cpp)
-(./string/trie.cpp
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+ [27]
+(/home/problem/github/teambook/teambook/string/SuffixAutomata.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 18.
-
-[23]) (./string/suffixarray.cpp) (./string/minrotlex.cpp
-
-LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 5.
-
-[24]) (./string/kmp.cpp) (./string/hashstr.cpp
-
-LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 19.
-
-[25]) (./string/suffarraymatch.cpp) (./string/bwtmatch.cpp
-
-LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 28.
-
-[26]) (./string/corasick.cpp) (./string/SuffixAutomata.cpp
-
-LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 40.
-
-[27]
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+ [28])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+(/home/problem/github/teambook/teambook/string/k_permutacion.cpp)
+(/home/problem/github/teambook/teambook/geometria/cut.polygon.cpp)
+(/home/problem/github/teambook/teambook/geometria/rect_inter.cpp
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [29])
+(/home/problem/github/teambook/teambook/geometria/rectaparametrizada.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 124.
-
-[28]) (./string/k_permutacion.cpp) (./geometria/cut.polygon.cpp)
-(./geometria/rect_inter.cpp) (./geometria/rectaparametrizada.cpp
-
-LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 10.
-
-[29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(./geometria/dist_point_line.cpp) (./geometria/dist_point_segment.cpp
-
-LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 12.
-
-[30])
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+ [30])
+(/home/problem/github/teambook/teambook/geometria/dist_point_line.cpp)
+(/home/problem/github/teambook/teambook/geometria/dist_point_segment.cpp)
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 277.
+(amsmath)                 on input line 280.
 
-(./math/combinatorio.cpp) (./math/exp.mod.cpp) (./math/matrix2x2andfibo.cpp)
-(./math/gauss.cpp
-
-LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 8.
-
-[31]) (./math/tridiagonal.cpp) (./math/simplex.cpp
-
-LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 26.
-
-[32]
+(/home/problem/github/teambook/teambook/math/combinatorio.cpp)
+(/home/problem/github/teambook/teambook/math/exp.mod.cpp
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [31])
+(/home/problem/github/teambook/teambook/math/matrix2x2andfibo.cpp)
+(/home/problem/github/teambook/teambook/math/gauss.cpp)
+(/home/problem/github/teambook/teambook/math/tridiagonal.cpp
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [32])
+(/home/problem/github/teambook/teambook/math/simplex.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 105.
-
-[33])
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 318.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 318.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 318.
-
-(./math/determinante.cpp) (./math/criba.cpp
-
-LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 21.
-
-[34]) (./math/func.primos.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 93.
-
-[35]) (./math/phollards.rho.cpp)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 331.
-
-[36] (./math/extended.euclid.cpp) (./math/inversos.cpp) (./math/simpson.cpp
-
-LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 32.
-
-[37]) (./math/frac.cpp) (./math/polinomio.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 76.
-
-[38]) (./math/eclineales.cpp) (./math/karatsuba.cpp
-
-LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 41.
-
-[39]) (./math/fft.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 55.
-
-[40])
-Underfull \vbox (badness 8075) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 481.
-
-[41] (./grafos/bellman.ford.cpp) (./grafos/twosat.cpp
-
-! Package inputenc Error: Unicode char \u8:�\lst@FillFixed@ not set up for use 
-with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 if u,v < 0 then is equivalent to ¬u,
-                                          ¬v
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 if u,v < 0 then is equivalent to ¬u,
-                                          ¬v
-? 
-
-! Package inputenc Error: Unicode char \u8:�\lst@FillFixed@ not set up for use 
-with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 if u,v < 0 then is equivalent to ¬u, ¬v
-                                             
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 if u,v < 0 then is equivalent to ¬u, ¬v
-                                             
-? 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 55.
-
-[42]
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+ [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(./grafos/articulationpointsandbridges.cpp
 
-LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 24.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 320.
 
-[43]) (./grafos/biconnected.cpp) (./grafos/lcapot2.cpp
 
-LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 11.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 320.
 
-[44])
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 320.
+
+(/home/problem/github/teambook/teambook/math/determinante.cpp
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [34])
+(/home/problem/github/teambook/teambook/math/criba.cpp)
+(/home/problem/github/teambook/teambook/math/func.primos.cpp
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [35])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(/home/problem/github/teambook/teambook/math/phollards.rho.cpp
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [36])
+(/home/problem/github/teambook/teambook/math/extended.euclid.cpp)
+(/home/problem/github/teambook/teambook/math/Euclides_N_variables.java
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(/home/problem/github/teambook/teambook/math/inversos.cpp)
+(/home/problem/github/teambook/teambook/math/simpson.cpp
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [38])
+(/home/problem/github/teambook/teambook/math/frac.cpp)
+(/home/problem/github/teambook/teambook/math/polinomio.cpp
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+ [39])
+(/home/problem/github/teambook/teambook/math/eclineales.cpp)
+(/home/problem/github/teambook/teambook/math/karatsuba.cpp
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(/home/problem/github/teambook/teambook/math/fft.cpp
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [41])
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
+ [42]
+(/home/problem/github/teambook/teambook/grafos/bellman.ford.cpp)
+(/home/problem/github/teambook/teambook/grafos/dijkstrasinheap.cpp)
+(/home/problem/github/teambook/teambook/grafos/twosat.cpp
+
+! Package inputenc Error: Unicode char \u8:�\lst@FillFixed@ not set up for use 
+with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 if u,v < 0 then is equivalent to ¬u,
+                                          ¬v
+? 
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 if u,v < 0 then is equivalent to ¬u,
+                                          ¬v
+? 
+
+! Package inputenc Error: Unicode char \u8:�\lst@FillFixed@ not set up for use 
+with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 if u,v < 0 then is equivalent to ¬u, ¬v
+                                             
+? 
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 if u,v < 0 then is equivalent to ¬u, ¬v
+                                             
+? 
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+[43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [44])
+(/home/problem/github/teambook/teambook/grafos/articulationpointsandbridges.cpp
+) (/home/problem/github/teambook/teambook/grafos/biconnected.cpp
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [45])
+(/home/problem/github/teambook/teambook/grafos/lcapot2.cpp)
 
 ! Package inputenc Error: Unicode char \u8:�\lst@FillFixed@\lst@EC� not set up 
 for use with LaTeX.
@@ -1010,7 +1144,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...h[v], v} is appeared is s[v] and s[v] <
+l.514 ...h[v], v} is appeared is s[v] and s[v] <
                                                    s[u] then LCA(v, u)�...
 
 ? 
@@ -1022,7 +1156,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...h[v], v} is appeared is s[v] and s[v] <
+l.514 ...h[v], v} is appeared is s[v] and s[v] <
                                                    s[u] then LCA(v, u)�...
 
 ? 
@@ -1034,7 +1168,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ... v} is appeared is s[v] and s[v] < s[
+l.514 ... v} is appeared is s[v] and s[v] < s[
                                                   u] then LCA(v, u) = ...
 
 ? 
@@ -1046,7 +1180,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ... v} is appeared is s[v] and s[v] < s[
+l.514 ... v} is appeared is s[v] and s[v] < s[
                                                   u] then LCA(v, u) = ...
 
 ? 
@@ -1058,7 +1192,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...s[v] and s[v] < s[u] then LCA(v, u)
+l.514 ...s[v] and s[v] < s[u] then LCA(v, u)
                                                    = (mini = s[v]s[u...
 
 ? 
@@ -1070,7 +1204,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...s[v] and s[v] < s[u] then LCA(v, u)
+l.514 ...s[v] and s[v] < s[u] then LCA(v, u)
                                                    = (mini = s[v]s[u...
 
 ? 
@@ -1082,7 +1216,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ... and s[v] < s[u] then LCA(v, u) =
+l.514 ... and s[v] < s[u] then LCA(v, u) =
                                                    (mini = s[v]s[u]eul...
 
 ? 
@@ -1094,7 +1228,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ... and s[v] < s[u] then LCA(v, u) =
+l.514 ... and s[v] < s[u] then LCA(v, u) =
                                                    (mini = s[v]s[u]eul...
 
 ? 
@@ -1106,7 +1240,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ... s[v] < s[u] then LCA(v, u) = (
+l.514 ... s[v] < s[u] then LCA(v, u) = (
                                                   mini = s[v]s[u]euler[i...
 
 ? 
@@ -1118,7 +1252,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ... s[v] < s[u] then LCA(v, u) = (
+l.514 ... s[v] < s[u] then LCA(v, u) = (
                                                   mini = s[v]s[u]euler[i...
 
 ? 
@@ -1130,7 +1264,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...< s[u] then LCA(v, u) = (mini =
+l.514 ...< s[u] then LCA(v, u) = (mini =
                                                    s[v]s[u]euler[i]).second.
 ? 
 
@@ -1141,7 +1275,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...< s[u] then LCA(v, u) = (mini =
+l.514 ...< s[u] then LCA(v, u) = (mini =
                                                    s[v]s[u]euler[i]).second.
 ? 
 
@@ -1152,7 +1286,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...< s[u] then LCA(v, u) = (mini =
+l.514 ...< s[u] then LCA(v, u) = (mini =
                                                    s[v]s[u]euler[i]).second.
 ? 
 
@@ -1163,7 +1297,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...[u] then LCA(v, u) = (mini = s[
+l.514 ...[u] then LCA(v, u) = (mini = s[
                                                   v]s[u]euler[i]).second.
 ? 
 
@@ -1174,10 +1308,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ...[u] then LCA(v, u) = (mini = s[
+l.514 ...[u] then LCA(v, u) = (mini = s[
                                                   v]s[u]euler[i]).second.
 ? 
-(./grafos/hld.cpp
+LaTeX Info: Redefining \. on input line 516.
+LaTeX Info: Redefining \% on input line 516.
+LaTeX Info: Redefining \. on input line 516.
+LaTeX Info: Redefining \% on input line 516.
+[46] (/home/problem/github/teambook/teambook/grafos/hld.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
 h LaTeX.
@@ -1201,27 +1339,24 @@ l.5 Complexity: O(N*log²(
                           N))
 ? 
 
-LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 42.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[45]
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [47]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 127.
-
-[46]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(./grafos/centroide.cpp
-
-LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 15.
-
-[47]
+LaTeX Info: Redefining \. on input line 166.
+LaTeX Info: Redefining \% on input line 166.
+LaTeX Info: Redefining \. on input line 166.
+LaTeX Info: Redefining \% on input line 166.
+ [48])
+(/home/problem/github/teambook/teambook/grafos/centroide.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
 h LaTeX.
@@ -1266,27 +1401,35 @@ Type  H <return>  for immediate help.
 l.42 ... "contar(u, -1)" para preprocesar tamaños
                                                   
 ? 
-) (./grafos/euler.cpp) (./grafos/diameterANDcenter.cpp
-
-LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 14.
-
-[48]
+) (/home/problem/github/teambook/teambook/grafos/euler.cpp
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ [49])
+(/home/problem/github/teambook/teambook/grafos/diameterANDcenter.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(./grafos/dynamic.conectivity.cpp
-
-LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 37.
-
-[49]
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [50])
+(/home/problem/github/teambook/teambook/grafos/dynamic.conectivity.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(./grafos/erdosgalloi.cpp
-
-LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 7.
-
-[50]) (./grafos/maxflowmincost.cpp
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [51])
+(/home/problem/github/teambook/teambook/grafos/erdosgalloi.cpp)
+(/home/problem/github/teambook/teambook/grafos/maxflowmincost.cpp
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+ [52]
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
 h LaTeX.
@@ -1313,10 +1456,14 @@ l.7 * Complexity O(v²*E
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 46.
-
-[51]) (./grafos/maxflowMVEK.cpp
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+ [53])
+(/home/problem/github/teambook/teambook/grafos/maxflowMVEK.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
 h LaTeX.
@@ -1339,14 +1486,7 @@ Type  H <return>  for immediate help.
 l.7 * Complexity O(N²*E
                         )
 ? 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 42.
-
-[52]) (./grafos/maxflowNOEK.cpp
+) (/home/problem/github/teambook/teambook/grafos/maxflowNOEK.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
 h LaTeX.
@@ -1369,42 +1509,32 @@ Type  H <return>  for immediate help.
 l.7 * Complexity O(N²*E
                         )
 ? 
-) (./flow/dinic.cpp
-
-LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 13.
-
-[53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(./grafos/bipartitematching.cpp
-
-LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 19.
-
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
 [54])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(./grafos/maximini.cpp
-
-LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 33.
-
-[55])
-
-LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 612.
-
-[56]
-
-LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 675.
-
-[57] (./others/infixpostfix.cpp
-
-LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 24.
-
-[58])
+(/home/problem/github/teambook/teambook/flow/dinic.cpp
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+ [55])
+(/home/problem/github/teambook/teambook/grafos/bipartitematching.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+ [56])
+(/home/problem/github/teambook/teambook/grafos/maximini.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
 (./others/romano.cpp) (./others/getkthpermutation.cpp
 
 LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 6.
@@ -1426,12 +1556,58 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 808.
  (./elparce.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 808.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 808.
+=======
+LaTeX Info: Redefining \. on input line 586.
+LaTeX Info: Redefining \% on input line 586.
+LaTeX Info: Redefining \. on input line 586.
+LaTeX Info: Redefining \% on input line 586.
+ [57]
+LaTeX Info: Redefining \. on input line 643.
+LaTeX Info: Redefining \% on input line 643.
+
+[58]
+LaTeX Info: Redefining \. on input line 707.
+LaTeX Info: Redefining \% on input line 707.
+LaTeX Info: Redefining \. on input line 707.
+LaTeX Info: Redefining \% on input line 707.
+ [59] (/home/problem/github/teambook/teambook/others/infixpostfix.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+ [60])
+(/home/problem/github/teambook/teambook/others/romano.cpp)
+(/home/problem/github/teambook/teambook/others/getkthpermutation.cpp
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [61])
+
+AED: lastpage setting LastPage
+LaTeX Info: Redefining \. on input line 817.
+LaTeX Info: Redefining \% on input line 817.
+LaTeX Info: Redefining \. on input line 817.
+LaTeX Info: Redefining \% on input line 817.
+[62]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 817.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 817.
+ (/home/problem/github/teambook/teambook/elparce.aux
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 817.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 817.
+>>>>>>> 4367c9a39632f011db1516498ba7dc640e060d71
 Package rerunfilecheck Info: File `elparce.out' has not changed.
-(rerunfilecheck)             Checksum: 7AB125B4FC6593E208B76EA44F4A4C22;9940.
+(rerunfilecheck)             Checksum: B8E0F43118294627C4E247E08EB09E0C;10103.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 808.
  ) 
 Here is how much of TeX's memory you used:
@@ -1465,4 +1641,43 @@ PDF statistics:
  6258 compressed objects within 63 object streams
  4591 named destinations out of 5155 (max. 500000)
  1110 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 817.
+ ) 
+Here is how much of TeX's memory you used:
+ 16852 strings out of 493085
+ 241594 string characters out of 6136917
+ 641607 words of memory out of 5000000
+ 15228 multiletter control sequences out of 15000+600000
+ 12653 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,14n,58p,357b,2007s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{page.63} has been referenced but does not exist, 
+replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on /home/problem/github/teambook/teambook/elparce.pdf (62 pages,
+ 649907 bytes).
+PDF statistics:
+ 6616 PDF objects out of 7423 (max. 8388607)
+ 6468 compressed objects within 65 object streams
+ 4707 named destinations out of 5155 (max. 500000)
+ 1126 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 4367c9a39632f011db1516498ba7dc640e060d71
 

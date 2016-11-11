@@ -149,7 +149,10 @@ $f[x]$ increases and then decreases, and we want the maximum value of $f[x]$.
 \cppfile{string/trie.cpp}
 
 \subsection{Suffix Array O(n log n) con LCP (Kasai) O(n)}
-\cppfile{string/suffixarray.cpp}
+\cppfile[8-78]{string/suffixarray.cpp}
+
+\subsection{Algunas aplicaciones de SA}
+\cppfile{string/aplicacionSA.cpp}
 
 \subsection{Minima rotacion lexicografica}
 \cppfile{string/minrotlex.cpp}
@@ -314,12 +317,12 @@ Las constantes $c_{ij}$ se determinan por los casos base.
 \subsection{Simplex}
 \cppfile{math/simplex.cpp}
 
-
 \subsection{Matrices y determinante $O(n^3)$}
 \cppfile[17-77]{math/determinante.cpp}
 
 \subsection{Teorema Chino del Resto}
 $$y=\sum_{j=1}^n (x_j*(\prod_{i=1, i\neq j}^n m_i)_{m_j}^{-1}*\prod_{i=1, i\neq j}^n m_i)$$
+
 \subsection{Criba}
 \cppfile[19-39]{math/criba.cpp}
 \subsection{Funciones de primos}
@@ -333,6 +336,10 @@ tipo gcd(tipo a, tipo b){return a?gcd(b %a, a):b;}
 \end{code}
 \subsection{Extended Euclid}
 \cppfile{math/extended.euclid.cpp}
+
+\subsection{Extended Euclid - N variables}
+\cppfile[4-69]{math/Euclides_N_variables.java}
+
 \subsection{LCM}
 \begin{code}
 tipo lcm(tipo a, tipo b){return a / gcd(a,b) * b;}
@@ -479,7 +486,10 @@ $\sigma_1(9896040)$ = 44323200 ; $\sigma_1(9959040)$ = 44553600 ; $\sigma_1(9979
 \section{Grafos}%%%%%%%%%%%%%%%%%%GRAFOS%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Bellman-Ford}
 \cppfile{grafos/bellman.ford.cpp}
-\subsection{dijkstra grafos densos}
+
+\subsection{Dijkstra para grafos densos}
+\cppfile{grafos/dijkstrasinheap.cpp}
+
 \subsection{2 SAT definitivamente no con Tarjan}
 \cppfile{grafos/twosat.cpp}
 \subsection{Articulataion Points (desgraciadamente tarjan)}
@@ -506,9 +516,9 @@ For this propose we can use RMQ problem, and the best algorithm for that, is to 
 \end{code}
 \subsection{HLD}
 \cppfile{grafos/hld.cpp}
-\subsection{centroid descomposition}
+\subsection{Centroid descomposition}
 \cppfile{grafos/centroide.cpp}
-\subsection{euler cycle}
+\subsection{Euler cycle}
 \cppfile{grafos/euler.cpp}
 \subsection{diámetro y centro de un árbol}
 \cppfile{grafos/diameterANDcenter.cpp}
