@@ -362,6 +362,9 @@ INPUT grafos/articulationpointsandbridges.cpp
 INPUT grafos/biconnected.cpp
 INPUT grafos/biconnected.cpp
 INPUT grafos/biconnected.cpp
+INPUT grafos/lcapot2.cpp
+INPUT grafos/lcapot2.cpp
+INPUT grafos/lcapot2.cpp
 INPUT grafos/hld.cpp
 INPUT grafos/hld.cpp
 INPUT grafos/hld.cpp
