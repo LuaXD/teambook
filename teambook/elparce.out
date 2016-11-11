@@ -33,108 +33,108 @@
 \BOOKMARK [2][-]{subsection.4.1}{Manacher}{section.4}% 33
 \BOOKMARK [2][-]{subsection.4.2}{Trie\(estatico\)}{section.4}% 34
 \BOOKMARK [2][-]{subsection.4.3}{Suffix Array O\(n log n\) con LCP \(Kasai\) O\(n\)}{section.4}% 35
-\BOOKMARK [2][-]{subsection.4.4}{Minima rotacion lexicografica}{section.4}% 36
-\BOOKMARK [2][-]{subsection.4.5}{Matching}{section.4}% 37
-\BOOKMARK [3][-]{subsubsection.4.5.1}{KMP}{subsection.4.5}% 38
-\BOOKMARK [3][-]{subsubsection.4.5.2}{Z - Por aprender}{subsection.4.5}% 39
-\BOOKMARK [3][-]{subsubsection.4.5.3}{Matching con hash}{subsection.4.5}% 40
-\BOOKMARK [3][-]{subsubsection.4.5.4}{Matching con suffix array}{subsection.4.5}% 41
-\BOOKMARK [3][-]{subsubsection.4.5.5}{Matching con BWT}{subsection.4.5}% 42
-\BOOKMARK [3][-]{subsubsection.4.5.6}{Matching con Aho-Corasick}{subsection.4.5}% 43
-\BOOKMARK [2][-]{subsection.4.6}{Suffix Automaton}{section.4}% 44
-\BOOKMARK [2][-]{subsection.4.7}{K-esima permutacion de una cadena}{section.4}% 45
-\BOOKMARK [1][-]{section.5}{Geometria}{}% 46
-\BOOKMARK [2][-]{subsection.5.1}{Cortar Poligono}{section.5}% 47
-\BOOKMARK [2][-]{subsection.5.2}{Interseccion de rectangulos}{section.5}% 48
-\BOOKMARK [2][-]{subsection.5.3}{Otra representacion de rectas y segmentos}{section.5}% 49
-\BOOKMARK [2][-]{subsection.5.4}{Distancia punto-recta}{section.5}% 50
-\BOOKMARK [2][-]{subsection.5.5}{Distancia punto-segmento}{section.5}% 51
-\BOOKMARK [1][-]{section.6}{Math}{}% 52
-\BOOKMARK [2][-]{subsection.6.1}{Identidades}{section.6}% 53
-\BOOKMARK [2][-]{subsection.6.2}{Ec. Caracteristica}{section.6}% 54
-\BOOKMARK [2][-]{subsection.6.3}{Identidades de agustin y mario}{section.6}% 55
-\BOOKMARK [2][-]{subsection.6.4}{Combinatorio}{section.6}% 56
-\BOOKMARK [2][-]{subsection.6.5}{Exp. de Numeros Mod.}{section.6}% 57
-\BOOKMARK [2][-]{subsection.6.6}{Matrices de 2x2 y Fibonacci en log\(n\)}{section.6}% 58
-\BOOKMARK [2][-]{subsection.6.7}{Gauss Jordan}{section.6}% 59
-\BOOKMARK [2][-]{subsection.6.8}{Tridiangonal}{section.6}% 60
-\BOOKMARK [2][-]{subsection.6.9}{Simplex}{section.6}% 61
-\BOOKMARK [2][-]{subsection.6.10}{Matrices y determinante O\(n3\)}{section.6}% 62
-\BOOKMARK [2][-]{subsection.6.11}{Teorema Chino del Resto}{section.6}% 63
-\BOOKMARK [2][-]{subsection.6.12}{Criba}{section.6}% 64
-\BOOKMARK [2][-]{subsection.6.13}{Funciones de primos}{section.6}% 65
-\BOOKMARK [2][-]{subsection.6.14}{Phollard's Rho \(rolando\)}{section.6}% 66
-\BOOKMARK [2][-]{subsection.6.15}{GCD}{section.6}% 67
-\BOOKMARK [2][-]{subsection.6.16}{Extended Euclid}{section.6}% 68
-\BOOKMARK [2][-]{subsection.6.17}{LCM}{section.6}% 69
-\BOOKMARK [2][-]{subsection.6.18}{Inversos}{section.6}% 70
-\BOOKMARK [2][-]{subsection.6.19}{Simpson}{section.6}% 71
-\BOOKMARK [2][-]{subsection.6.20}{Fraction}{section.6}% 72
-\BOOKMARK [2][-]{subsection.6.21}{Polinomio}{section.6}% 73
-\BOOKMARK [2][-]{subsection.6.22}{Ec. Lineales}{section.6}% 74
-\BOOKMARK [2][-]{subsection.6.23}{Karatsuba}{section.6}% 75
-\BOOKMARK [2][-]{subsection.6.24}{FFT}{section.6}% 76
-\BOOKMARK [2][-]{subsection.6.25}{Tablas y cotas \(Primos, Divisores, Factoriales, etc\)}{section.6}% 77
-\BOOKMARK [1][-]{section.7}{Grafos}{}% 78
-\BOOKMARK [2][-]{subsection.7.1}{Bellman-Ford}{section.7}% 79
-\BOOKMARK [2][-]{subsection.7.2}{dijkstra grafos densos}{section.7}% 80
-\BOOKMARK [2][-]{subsection.7.3}{2 SAT definitivamente no con Tarjan}{section.7}% 81
-\BOOKMARK [2][-]{subsection.7.4}{Prim}{section.7}% 82
-\BOOKMARK [2][-]{subsection.7.5}{Articulataion Points \(desgraciadamente tarjan\)}{section.7}% 83
-\BOOKMARK [2][-]{subsection.7.6}{componentes biconexas y puentes \(block cut tree\)}{section.7}% 84
-\BOOKMARK [2][-]{subsection.7.7}{ LCA saltitos potencias de 2}{section.7}% 85
-\BOOKMARK [2][-]{subsection.7.8}{LCA sparse table query O\(1\)}{section.7}% 86
-\BOOKMARK [2][-]{subsection.7.9}{HLD}{section.7}% 87
-\BOOKMARK [2][-]{subsection.7.10}{centroid descomposition}{section.7}% 88
-\BOOKMARK [2][-]{subsection.7.11}{euler cycle}{section.7}% 89
-\BOOKMARK [2][-]{subsection.7.12}{di\341metro y centro de un \341rbol}{section.7}% 90
-\BOOKMARK [2][-]{subsection.7.13}{algoritmo hungaro}{section.7}% 91
-\BOOKMARK [2][-]{subsection.7.14}{union find din\341mico}{section.7}% 92
-\BOOKMARK [2][-]{subsection.7.15}{truquitos est\372pidos por ejemplo second MST es con LCA }{section.7}% 93
-\BOOKMARK [2][-]{subsection.7.16}{erdos galloi}{section.7}% 94
-\BOOKMARK [2][-]{subsection.7.17}{grafo funcional hallar k-esimo partiendo de un nodo}{section.7}% 95
-\BOOKMARK [2][-]{subsection.7.18}{konig}{section.7}% 96
-\BOOKMARK [2][-]{subsection.7.19}{min-vertex cover bipartitos}{section.7}% 97
-\BOOKMARK [2][-]{subsection.7.20}{max-flow \(min cost versi\363n\)}{section.7}% 98
-\BOOKMARK [2][-]{subsection.7.21}{max-flow corto con matriz}{section.7}% 99
-\BOOKMARK [2][-]{subsection.7.22}{max-flow sin matriz}{section.7}% 100
-\BOOKMARK [2][-]{subsection.7.23}{Dinic}{section.7}% 101
-\BOOKMARK [2][-]{subsection.7.24}{m\341ximo emparejamiento bipartito}{section.7}% 102
-\BOOKMARK [2][-]{subsection.7.25}{max-independent set en bipartitos}{section.7}% 103
-\BOOKMARK [2][-]{subsection.7.26}{min-path cover \(ver t\363picos raros de halim\)}{section.7}% 104
-\BOOKMARK [2][-]{subsection.7.27}{min-cost arborescence}{section.7}% 105
-\BOOKMARK [2][-]{subsection.7.28}{lema de diapositivas de nico de grafos funcionales }{section.7}% 106
-\BOOKMARK [2][-]{subsection.7.29}{minimax y maximini con kruskal y dijkstra}{section.7}% 107
-\BOOKMARK [1][-]{section.8}{Teoria de juegos}{}% 108
-\BOOKMARK [2][-]{subsection.8.1}{Teorema fundamental de los juegos optimos}{section.8}% 109
-\BOOKMARK [2][-]{subsection.8.2}{Como calcular grundy}{section.8}% 110
-\BOOKMARK [1][-]{section.9}{Algunas formulas de probabilidad}{}% 111
-\BOOKMARK [2][-]{subsection.9.1}{Regla general de la probabilidad}{section.9}% 112
-\BOOKMARK [2][-]{subsection.9.2}{Teorema de bayes \(Probabilidad condicional\)}{section.9}% 113
-\BOOKMARK [2][-]{subsection.9.3}{Regla de la suma}{section.9}% 114
-\BOOKMARK [2][-]{subsection.9.4}{Regla de la multiplicacion}{section.9}% 115
-\BOOKMARK [2][-]{subsection.9.5}{Esperanza matematica}{section.9}% 116
-\BOOKMARK [2][-]{subsection.9.6}{Ley de la esperanza total}{section.9}% 117
-\BOOKMARK [2][-]{subsection.9.7}{Esperanza de variables independientes}{section.9}% 118
-\BOOKMARK [2][-]{subsection.9.8}{Varianza}{section.9}% 119
-\BOOKMARK [2][-]{subsection.9.9}{Distribucion Binomial}{section.9}% 120
-\BOOKMARK [1][-]{section.10}{Otros/utilitarios}{}% 121
-\BOOKMARK [2][-]{subsection.10.1}{josephus}{section.10}% 122
-\BOOKMARK [2][-]{subsection.10.2}{josephus k = 2}{section.10}% 123
-\BOOKMARK [2][-]{subsection.10.3}{poker}{section.10}% 124
-\BOOKMARK [2][-]{subsection.10.4}{iterar subconjuntos}{section.10}% 125
-\BOOKMARK [2][-]{subsection.10.5}{como reconstruir una DP \(normal\)}{section.10}% 126
-\BOOKMARK [2][-]{subsection.10.6}{muajaja con j}{section.10}% 127
-\BOOKMARK [2][-]{subsection.10.7}{comparar doubles for noobs}{section.10}% 128
-\BOOKMARK [2][-]{subsection.10.8}{infix to postfix}{section.10}% 129
-\BOOKMARK [2][-]{subsection.10.9}{numeros romanos}{section.10}% 130
-\BOOKMARK [2][-]{subsection.10.10}{get k-th permutacion}{section.10}% 131
-\BOOKMARK [2][-]{subsection.10.11}{sliding window}{section.10}% 132
-\BOOKMARK [2][-]{subsection.10.12}{permutaciones de un dado}{section.10}% 133
-\BOOKMARK [2][-]{subsection.10.13}{ternary search}{section.10}% 134
-\BOOKMARK [2][-]{subsection.10.14}{liebre y el tortugo}{section.10}% 135
-\BOOKMARK [2][-]{subsection.10.15}{como usar printf}{section.10}% 136
-\BOOKMARK [2][-]{subsection.10.16}{java}{section.10}% 137
-\BOOKMARK [2][-]{subsection.10.17}{python}{section.10}% 138
-\BOOKMARK [2][-]{subsection.10.18}{template}{section.10}% 139
-\BOOKMARK [2][-]{subsection.10.19}{file setup}{section.10}% 140
+\BOOKMARK [2][-]{subsection.4.4}{Algunas aplicaciones de SA}{section.4}% 36
+\BOOKMARK [2][-]{subsection.4.5}{Minima rotacion lexicografica}{section.4}% 37
+\BOOKMARK [2][-]{subsection.4.6}{Matching}{section.4}% 38
+\BOOKMARK [3][-]{subsubsection.4.6.1}{KMP}{subsection.4.6}% 39
+\BOOKMARK [3][-]{subsubsection.4.6.2}{Z - Por aprender}{subsection.4.6}% 40
+\BOOKMARK [3][-]{subsubsection.4.6.3}{Matching con hash}{subsection.4.6}% 41
+\BOOKMARK [3][-]{subsubsection.4.6.4}{Matching con suffix array}{subsection.4.6}% 42
+\BOOKMARK [3][-]{subsubsection.4.6.5}{Matching con BWT}{subsection.4.6}% 43
+\BOOKMARK [3][-]{subsubsection.4.6.6}{Matching con Aho-Corasick}{subsection.4.6}% 44
+\BOOKMARK [2][-]{subsection.4.7}{Suffix Automaton}{section.4}% 45
+\BOOKMARK [2][-]{subsection.4.8}{K-esima permutacion de una cadena}{section.4}% 46
+\BOOKMARK [1][-]{section.5}{Geometria}{}% 47
+\BOOKMARK [2][-]{subsection.5.1}{Cortar Poligono}{section.5}% 48
+\BOOKMARK [2][-]{subsection.5.2}{Interseccion de rectangulos}{section.5}% 49
+\BOOKMARK [2][-]{subsection.5.3}{Otra representacion de rectas y segmentos}{section.5}% 50
+\BOOKMARK [2][-]{subsection.5.4}{Distancia punto-recta}{section.5}% 51
+\BOOKMARK [2][-]{subsection.5.5}{Distancia punto-segmento}{section.5}% 52
+\BOOKMARK [1][-]{section.6}{Math}{}% 53
+\BOOKMARK [2][-]{subsection.6.1}{Identidades}{section.6}% 54
+\BOOKMARK [2][-]{subsection.6.2}{Ec. Caracteristica}{section.6}% 55
+\BOOKMARK [2][-]{subsection.6.3}{Identidades de agustin y mario}{section.6}% 56
+\BOOKMARK [2][-]{subsection.6.4}{Combinatorio}{section.6}% 57
+\BOOKMARK [2][-]{subsection.6.5}{Exp. de Numeros Mod.}{section.6}% 58
+\BOOKMARK [2][-]{subsection.6.6}{Matrices de 2x2 y Fibonacci en log\(n\)}{section.6}% 59
+\BOOKMARK [2][-]{subsection.6.7}{Gauss Jordan}{section.6}% 60
+\BOOKMARK [2][-]{subsection.6.8}{Tridiangonal}{section.6}% 61
+\BOOKMARK [2][-]{subsection.6.9}{Simplex}{section.6}% 62
+\BOOKMARK [2][-]{subsection.6.10}{Matrices y determinante O\(n3\)}{section.6}% 63
+\BOOKMARK [2][-]{subsection.6.11}{Teorema Chino del Resto}{section.6}% 64
+\BOOKMARK [2][-]{subsection.6.12}{Criba}{section.6}% 65
+\BOOKMARK [2][-]{subsection.6.13}{Funciones de primos}{section.6}% 66
+\BOOKMARK [2][-]{subsection.6.14}{Phollard's Rho \(rolando\)}{section.6}% 67
+\BOOKMARK [2][-]{subsection.6.15}{GCD}{section.6}% 68
+\BOOKMARK [2][-]{subsection.6.16}{Extended Euclid}{section.6}% 69
+\BOOKMARK [2][-]{subsection.6.17}{Extended Euclid - N variables}{section.6}% 70
+\BOOKMARK [2][-]{subsection.6.18}{LCM}{section.6}% 71
+\BOOKMARK [2][-]{subsection.6.19}{Inversos}{section.6}% 72
+\BOOKMARK [2][-]{subsection.6.20}{Simpson}{section.6}% 73
+\BOOKMARK [2][-]{subsection.6.21}{Fraction}{section.6}% 74
+\BOOKMARK [2][-]{subsection.6.22}{Polinomio}{section.6}% 75
+\BOOKMARK [2][-]{subsection.6.23}{Ec. Lineales}{section.6}% 76
+\BOOKMARK [2][-]{subsection.6.24}{Karatsuba}{section.6}% 77
+\BOOKMARK [2][-]{subsection.6.25}{FFT}{section.6}% 78
+\BOOKMARK [2][-]{subsection.6.26}{Tablas y cotas \(Primos, Divisores, Factoriales, etc\)}{section.6}% 79
+\BOOKMARK [1][-]{section.7}{Grafos}{}% 80
+\BOOKMARK [2][-]{subsection.7.1}{Bellman-Ford}{section.7}% 81
+\BOOKMARK [2][-]{subsection.7.2}{Dijkstra para grafos densos}{section.7}% 82
+\BOOKMARK [2][-]{subsection.7.3}{2 SAT definitivamente no con Tarjan}{section.7}% 83
+\BOOKMARK [2][-]{subsection.7.4}{Articulataion Points \(desgraciadamente tarjan\)}{section.7}% 84
+\BOOKMARK [2][-]{subsection.7.5}{componentes biconexas y puentes \(block cut tree\)}{section.7}% 85
+\BOOKMARK [2][-]{subsection.7.6}{ LCA saltitos potencias de 2}{section.7}% 86
+\BOOKMARK [2][-]{subsection.7.7}{LCA sparse table query O\(1\)}{section.7}% 87
+\BOOKMARK [2][-]{subsection.7.8}{HLD}{section.7}% 88
+\BOOKMARK [2][-]{subsection.7.9}{Centroid descomposition}{section.7}% 89
+\BOOKMARK [2][-]{subsection.7.10}{Euler cycle}{section.7}% 90
+\BOOKMARK [2][-]{subsection.7.11}{di\341metro y centro de un \341rbol}{section.7}% 91
+\BOOKMARK [2][-]{subsection.7.12}{algoritmo hungaro}{section.7}% 92
+\BOOKMARK [2][-]{subsection.7.13}{union find din\341mico}{section.7}% 93
+\BOOKMARK [2][-]{subsection.7.14}{truquitos est\372pidos por ejemplo second MST es con LCA }{section.7}% 94
+\BOOKMARK [2][-]{subsection.7.15}{erdos galloi}{section.7}% 95
+\BOOKMARK [2][-]{subsection.7.16}{grafo funcional hallar k-esimo partiendo de un nodo}{section.7}% 96
+\BOOKMARK [2][-]{subsection.7.17}{konig}{section.7}% 97
+\BOOKMARK [2][-]{subsection.7.18}{Min-vertex cover en bipartitos}{section.7}% 98
+\BOOKMARK [2][-]{subsection.7.19}{max-flow \(min cost versi\363n\)}{section.7}% 99
+\BOOKMARK [2][-]{subsection.7.20}{max-flow corto con matriz}{section.7}% 100
+\BOOKMARK [2][-]{subsection.7.21}{max-flow sin matriz}{section.7}% 101
+\BOOKMARK [2][-]{subsection.7.22}{Dinic}{section.7}% 102
+\BOOKMARK [2][-]{subsection.7.23}{m\341ximo emparejamiento bipartito}{section.7}% 103
+\BOOKMARK [2][-]{subsection.7.24}{max-independent set en bipartitos}{section.7}% 104
+\BOOKMARK [2][-]{subsection.7.25}{min-path cover \(ver t\363picos raros de halim\)}{section.7}% 105
+\BOOKMARK [2][-]{subsection.7.26}{min-cost arborescence}{section.7}% 106
+\BOOKMARK [2][-]{subsection.7.27}{lema de diapositivas de nico de grafos funcionales }{section.7}% 107
+\BOOKMARK [2][-]{subsection.7.28}{minimax y maximini con kruskal y dijkstra}{section.7}% 108
+\BOOKMARK [1][-]{section.8}{Teoria de juegos}{}% 109
+\BOOKMARK [2][-]{subsection.8.1}{Teorema fundamental de los juegos optimos}{section.8}% 110
+\BOOKMARK [2][-]{subsection.8.2}{Como calcular grundy}{section.8}% 111
+\BOOKMARK [1][-]{section.9}{Algunas formulas de probabilidad}{}% 112
+\BOOKMARK [2][-]{subsection.9.1}{Regla general de la probabilidad}{section.9}% 113
+\BOOKMARK [2][-]{subsection.9.2}{Teorema de bayes \(Probabilidad condicional\)}{section.9}% 114
+\BOOKMARK [2][-]{subsection.9.3}{Regla de la suma}{section.9}% 115
+\BOOKMARK [2][-]{subsection.9.4}{Regla de la multiplicacion}{section.9}% 116
+\BOOKMARK [2][-]{subsection.9.5}{Esperanza matematica}{section.9}% 117
+\BOOKMARK [2][-]{subsection.9.6}{Ley de la esperanza total}{section.9}% 118
+\BOOKMARK [2][-]{subsection.9.7}{Esperanza de variables independientes}{section.9}% 119
+\BOOKMARK [2][-]{subsection.9.8}{Varianza}{section.9}% 120
+\BOOKMARK [2][-]{subsection.9.9}{Distribucion Binomial}{section.9}% 121
+\BOOKMARK [1][-]{section.10}{Otros/utilitarios}{}% 122
+\BOOKMARK [2][-]{subsection.10.1}{josephus}{section.10}% 123
+\BOOKMARK [2][-]{subsection.10.2}{josephus k = 2}{section.10}% 124
+\BOOKMARK [2][-]{subsection.10.3}{poker}{section.10}% 125
+\BOOKMARK [2][-]{subsection.10.4}{iterar subconjuntos}{section.10}% 126
+\BOOKMARK [2][-]{subsection.10.5}{como reconstruir una DP \(normal\)}{section.10}% 127
+\BOOKMARK [2][-]{subsection.10.6}{muajaja con j}{section.10}% 128
+\BOOKMARK [2][-]{subsection.10.7}{comparar doubles for noobs}{section.10}% 129
+\BOOKMARK [2][-]{subsection.10.8}{infix to postfix}{section.10}% 130
+\BOOKMARK [2][-]{subsection.10.9}{numeros romanos}{section.10}% 131
+\BOOKMARK [2][-]{subsection.10.10}{get k-th permutacion}{section.10}% 132
+\BOOKMARK [2][-]{subsection.10.11}{sliding window}{section.10}% 133
+\BOOKMARK [2][-]{subsection.10.12}{permutaciones de un dado}{section.10}% 134
+\BOOKMARK [2][-]{subsection.10.13}{liebre y el tortugo}{section.10}% 135
+\BOOKMARK [2][-]{subsection.10.14}{como usar printf}{section.10}% 136
+\BOOKMARK [2][-]{subsection.10.15}{java}{section.10}% 137
+\BOOKMARK [2][-]{subsection.10.16}{python}{section.10}% 138
+\BOOKMARK [2][-]{subsection.10.17}{template}{section.10}% 139
+\BOOKMARK [2][-]{subsection.10.18}{file setup}{section.10}% 140

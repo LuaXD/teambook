@@ -149,7 +149,10 @@ $f[x]$ increases and then decreases, and we want the maximum value of $f[x]$.
 \cppfile{string/trie.cpp}
 
 \subsection{Suffix Array O(n log n) con LCP (Kasai) O(n)}
-\cppfile{string/suffixarray.cpp}
+\cppfile[8-78]{string/suffixarray.cpp}
+
+\subsection{Algunas aplicaciones de SA}
+\cppfile{string/aplicacionSA.cpp}
 
 \subsection{Minima rotacion lexicografica}
 \cppfile{string/minrotlex.cpp}
@@ -314,12 +317,12 @@ Las constantes $c_{ij}$ se determinan por los casos base.
 \subsection{Simplex}
 \cppfile{math/simplex.cpp}
 
-
 \subsection{Matrices y determinante $O(n^3)$}
 \cppfile[17-77]{math/determinante.cpp}
 
 \subsection{Teorema Chino del Resto}
 $$y=\sum_{j=1}^n (x_j*(\prod_{i=1, i\neq j}^n m_i)_{m_j}^{-1}*\prod_{i=1, i\neq j}^n m_i)$$
+
 \subsection{Criba}
 \cppfile[19-39]{math/criba.cpp}
 \subsection{Funciones de primos}
@@ -333,6 +336,10 @@ tipo gcd(tipo a, tipo b){return a?gcd(b %a, a):b;}
 \end{code}
 \subsection{Extended Euclid}
 \cppfile{math/extended.euclid.cpp}
+
+\subsection{Extended Euclid - N variables}
+\cppfile[4-69]{math/Euclides_N_variables.java}
+
 \subsection{LCM}
 \begin{code}
 tipo lcm(tipo a, tipo b){return a / gcd(a,b) * b;}
@@ -479,7 +486,10 @@ $\sigma_1(9896040)$ = 44323200 ; $\sigma_1(9959040)$ = 44553600 ; $\sigma_1(9979
 \section{Grafos}%%%%%%%%%%%%%%%%%%GRAFOS%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Bellman-Ford}
 \cppfile{grafos/bellman.ford.cpp}
-\subsection{dijkstra grafos densos}
+
+\subsection{Dijkstra para grafos densos}
+\cppfile{grafos/dijkstrasinheap.cpp}
+
 \subsection{2 SAT definitivamente no con Tarjan}
 \cppfile{grafos/twosat.cpp}
 \subsection{Articulataion Points (desgraciadamente tarjan)}
@@ -490,11 +500,25 @@ $\sigma_1(9896040)$ = 44323200 ; $\sigma_1(9959040)$ = 44553600 ; $\sigma_1(9979
 \subsection{ LCA saltitos potencias de 2}
 \cppfile{grafos/lcapot2.cpp}
 \subsection{LCA sparse table query O(1)}
+\begin{code}
+/*Three) Sparse table O(NlogN),O(1)
+Let's introduce you an order of tree vertices, haas and I named it Euler order. It is like DFS order, but every time we enter a vertex, we write it's number down (even when we come from a child to this node in DFS).*/
+Code for calculate this :
+vector<int> euler;
+void dfs(int v,int p = -1){
+	euler.push_back(v);
+	for(auto u : adj[v])	if(p - u)
+		dfs(u,v), euler.push_back(v);
+}
+/*
+If we have a vector<pair<int,int> > instead of this and push {h[v], v} in the vector, and the first time {h[v], v} is appeared is s[v] and s[v] < s[u] then LCA(v, u) = (mini = s[v]s[u]euler[i]).second.
+For this propose we can use RMQ problem, and the best algorithm for that, is to use Sparse table.*/
+\end{code}
 \subsection{HLD}
 \cppfile{grafos/hld.cpp}
-\subsection{centroid descomposition}
+\subsection{Centroid descomposition}
 \cppfile{grafos/centroide.cpp}
-\subsection{euler cycle}
+\subsection{Euler cycle}
 \cppfile{grafos/euler.cpp}
 \subsection{diámetro y centro de un árbol}
 \cppfile{grafos/diameterANDcenter.cpp}
@@ -506,7 +530,8 @@ $\sigma_1(9896040)$ = 44323200 ; $\sigma_1(9959040)$ = 44553600 ; $\sigma_1(9979
 \cppfile{grafos/erdosgalloi.cpp}
 \subsection{grafo funcional hallar k-esimo partiendo de un nodo}
 \subsection{konig}
-\subsection{min-vertex cover bipartitos}
+\subsection{Min-vertex cover en bipartitos}
+\cppfile[22-82]{grafos/min_vertex_cover_bipartite.cpp}
 \subsection{max-flow (min cost versión)}
 \cppfile{grafos/maxflowmincost.cpp}
 \subsection{max-flow corto con matriz}
@@ -755,6 +780,7 @@ int p[][6] = {
 };
 \end{code}
 \subsection{liebre y el tortugo}
+\cppfile{math/liebretortuga.cpp}
 \subsection{como usar printf}
 \subsection{java}
 \subsection{python}
