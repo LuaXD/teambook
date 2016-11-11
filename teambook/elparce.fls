@@ -288,6 +288,9 @@ INPUT math/matrix2x2andfibo.cpp
 INPUT math/gauss.cpp
 INPUT math/gauss.cpp
 INPUT math/gauss.cpp
+INPUT math/tridiagonal.cpp
+INPUT math/tridiagonal.cpp
+INPUT math/tridiagonal.cpp
 INPUT math/simplex.cpp
 INPUT math/simplex.cpp
 INPUT math/simplex.cpp
