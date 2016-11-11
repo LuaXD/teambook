@@ -69,19 +69,19 @@
 \contentsline {subsection}{\numberline {6.17}LCM}{37}{subsection.6.17}
 \contentsline {subsection}{\numberline {6.18}Inversos}{37}{subsection.6.18}
 \contentsline {subsection}{\numberline {6.19}Simpson}{37}{subsection.6.19}
-\contentsline {subsection}{\numberline {6.20}Fraction}{37}{subsection.6.20}
+\contentsline {subsection}{\numberline {6.20}Fraction}{38}{subsection.6.20}
 \contentsline {subsection}{\numberline {6.21}Polinomio}{38}{subsection.6.21}
-\contentsline {subsection}{\numberline {6.22}Ec. Lineales}{38}{subsection.6.22}
+\contentsline {subsection}{\numberline {6.22}Ec. Lineales}{39}{subsection.6.22}
 \contentsline {subsection}{\numberline {6.23}Karatsuba}{39}{subsection.6.23}
 \contentsline {subsection}{\numberline {6.24}FFT}{40}{subsection.6.24}
-\contentsline {subsection}{\numberline {6.25}Tablas y cotas (Primos, Divisores, Factoriales, etc)}{40}{subsection.6.25}
-\contentsline {paragraph}{Factoriales}{40}{section*.2}
+\contentsline {subsection}{\numberline {6.25}Tablas y cotas (Primos, Divisores, Factoriales, etc)}{41}{subsection.6.25}
+\contentsline {paragraph}{Factoriales}{41}{section*.2}
 \contentsline {paragraph}{Primos}{41}{section*.3}
 \contentsline {paragraph}{Primos cercanos a $10^n$}{41}{section*.4}
 \contentsline {paragraph}{Cantidad de primos menores que $10^n$}{41}{section*.5}
 \contentsline {paragraph}{Divisores}{41}{section*.6}
-\contentsline {section}{\numberline {7}Grafos}{41}{section.7}
-\contentsline {subsection}{\numberline {7.1}Bellman-Ford}{41}{subsection.7.1}
+\contentsline {section}{\numberline {7}Grafos}{42}{section.7}
+\contentsline {subsection}{\numberline {7.1}Bellman-Ford}{42}{subsection.7.1}
 \contentsline {subsection}{\numberline {7.2}dijkstra grafos densos}{42}{subsection.7.2}
 \contentsline {subsection}{\numberline {7.3}2 SAT definitivamente no con Tarjan}{42}{subsection.7.3}
 \contentsline {subsection}{\numberline {7.4}Prim}{43}{subsection.7.4}
@@ -119,8 +119,8 @@
 \contentsline {subsection}{\numberline {9.2}Teorema de bayes (Probabilidad condicional)}{55}{subsection.9.2}
 \contentsline {subsection}{\numberline {9.3}Regla de la suma}{55}{subsection.9.3}
 \contentsline {subsection}{\numberline {9.4}Regla de la multiplicacion}{55}{subsection.9.4}
-\contentsline {subsection}{\numberline {9.5}Esperanza matematica}{55}{subsection.9.5}
-\contentsline {subsection}{\numberline {9.6}Ley de la esperanza total}{55}{subsection.9.6}
+\contentsline {subsection}{\numberline {9.5}Esperanza matematica}{56}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}Ley de la esperanza total}{56}{subsection.9.6}
 \contentsline {subsection}{\numberline {9.7}Esperanza de variables independientes}{56}{subsection.9.7}
 \contentsline {subsection}{\numberline {9.8}Varianza}{56}{subsection.9.8}
 \contentsline {subsection}{\numberline {9.9}Distribucion Binomial}{56}{subsection.9.9}
