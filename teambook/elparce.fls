@@ -252,6 +252,9 @@ INPUT string/manacher.cpp
 INPUT string/trie.cpp
 INPUT string/trie.cpp
 INPUT string/trie.cpp
+INPUT string/suffixarray.cpp
+INPUT string/suffixarray.cpp
+INPUT string/suffixarray.cpp
 INPUT string/minrotlex.cpp
 INPUT string/minrotlex.cpp
 INPUT string/minrotlex.cpp

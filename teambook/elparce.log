@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 13:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,31 +813,23 @@ LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 127.
 
 LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 18.
 
-[23])
+[23]) (./string/suffixarray.cpp) (./string/minrotlex.cpp
 
-! Package Listings Error: File `suffixarray(.cpp)' not found.
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 5.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: cpp)
+[24]) (./string/kmp.cpp) (./string/hashstr.cpp
 
-Enter file name: 
-(./string/minrotlex.cpp) (./string/kmp.cpp) (./string/hashstr.cpp
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 19.
 
-LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 6.
-
-[24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(./string/suffarraymatch.cpp) (./string/bwtmatch.cpp
-
-LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 16.
-
-[25]) (./string/corasick.cpp) (./string/SuffixAutomata.cpp
+[25]) (./string/suffarraymatch.cpp) (./string/bwtmatch.cpp
 
 LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 28.
 
-[26]
+[26]) (./string/corasick.cpp) (./string/SuffixAutomata.cpp
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 40.
+
+[27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -845,35 +837,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 113.
+LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 124.
 
-[27]) (./string/k_permutacion.cpp)
+[28]) (./string/k_permutacion.cpp) (./geometria/cut.polygon.cpp)
+(./geometria/rect_inter.cpp) (./geometria/rectaparametrizada.cpp
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 10.
+
+[29]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+)
+(./geometria/dist_point_line.cpp) (./geometria/dist_point_segment.cpp
 
-(./geometria/cut.polygon.cpp) (./geometria/rect_inter.cpp)
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 12.
 
-LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 208.
-
-[28] (./geometria/rectaparametrizada.cpp) (./geometria/dist_point_line.cpp)
-
-LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 221.
-
-[29] (./geometria/dist_point_segment.cpp)
+[30])
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 277.
 
-(./math/combinatorio.cpp) (./math/exp.mod.cpp) (./math/matrix2x2andfibo.cpp
+(./math/combinatorio.cpp) (./math/exp.mod.cpp) (./math/matrix2x2andfibo.cpp)
+(./math/gauss.cpp
 
-LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 14.
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 8.
 
-[30]) (./math/gauss.cpp) (./math/tridiagonal.cpp) (./math/simplex.cpp
+[31]) (./math/tridiagonal.cpp) (./math/simplex.cpp
 
-LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 15.
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 26.
 
-[31]
+[32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -881,9 +875,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 94.
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 105.
 
-[32])
+[33])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 318.
@@ -896,55 +890,55 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 318.
 
-(./math/determinante.cpp
+(./math/determinante.cpp) (./math/criba.cpp
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 21.
+
+[34]) (./math/func.primos.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 67.
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 93.
 
-[33]) (./math/criba.cpp) (./math/func.primos.cpp
+[35]) (./math/phollards.rho.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 82.
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 331.
 
-[34]) (./math/phollards.rho.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 76.
-
-[35]) (./math/extended.euclid.cpp) (./math/inversos.cpp) (./math/simpson.cpp)
+[36] (./math/extended.euclid.cpp) (./math/inversos.cpp) (./math/simpson.cpp)
 (./math/frac.cpp
 
-LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 13.
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 23.
 
-[36]) (./math/polinomio.cpp) (./math/eclineales.cpp
+[37]) (./math/polinomio.cpp) (./math/eclineales.cpp
+Underfull \vbox (badness 4556) has occurred while \output is active []
 
-LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 36.
 
-[37]) (./math/karatsuba.cpp
+
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 46.
+
+[38]) (./math/karatsuba.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 56.
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 67.
 
-[38]) (./math/fft.cpp)
+[39]) (./math/fft.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 359.
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 373.
 
-[39] (./grafos/bellman.ford.cpp
+[40] (./grafos/bellman.ford.cpp
 
-LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 14.
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 15.
 
-[40]) (./grafos/twosat.cpp
+[41]) (./grafos/twosat.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\lst@FillFixed@ not set up for use 
 with LaTeX.
@@ -994,17 +988,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 72.
+LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 73.
 
-[41])
+[42])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (./grafos/articulationpointsandbridges.cpp
 
-LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 38.
+LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 38.
 
-[42]) (./grafos/biconnected.cpp) (./grafos/hld.cpp
+[43]) (./grafos/biconnected.cpp) (./grafos/hld.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\expandafter not set up for use wit
 h LaTeX.
@@ -1028,17 +1022,7 @@ l.5 Complexity: O(N*logÂ²(
                           N))
 ? 
 
-LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 21.
-
-[43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 107.
+LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 21.
 
 [44]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1048,32 +1032,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 190.
+LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 107.
 
-[45]) (./grafos/euler.cpp)
+[45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 190.
+
+[46]) (./grafos/euler.cpp)
 Underfull \vbox (badness 4872) has occurred while \output is active []
 
 
 (./grafos/diameterANDcenter.cpp
 
-LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 40.
+LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 40.
 
-[46]) (./grafos/dynamic.conectivity.cpp
+[47]) (./grafos/dynamic.conectivity.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 61.
+LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 61.
 
-[47]
+[48]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (./grafos/erdosgalloi.cpp
 
-LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 32.
+LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 32.
 
-[48]) (./grafos/maxflowmincost.cpp
+[49]) (./grafos/maxflowmincost.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\expandafter not set up for use wit
 h LaTeX.
@@ -1101,9 +1095,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 71.
+LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 71.
 
-[49]) (./grafos/maxflowMVEK.cpp
+[50]) (./grafos/maxflowMVEK.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\expandafter not set up for use wit
 h LaTeX.
@@ -1150,17 +1144,17 @@ l.7 * Complexity O(NÂ²*E
                         )
 ? 
 
-LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 20.
+LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 20.
 
-[50]
+[51]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (./flow/dinic.cpp
 
-LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 29.
+LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 29.
 
-[51]) (./grafos/bipartitematching.cpp
+[52]) (./grafos/bipartitematching.cpp
 Underfull \vbox (badness 3148) has occurred while \output is active []
 
 
@@ -1168,46 +1162,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 44.
+LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 44.
 
-[52]) (./grafos/maximini.cpp
+[53]) (./grafos/maximini.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 57.
+LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 57.
 
-[53])
+[54])
 Underfull \vbox (badness 1019) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 615.
+LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 615.
 
-[54]
+[55]
 
-LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 681.
+LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 681.
 
-[55] (./others/infixpostfix.cpp
+[56] (./others/infixpostfix.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 46.
+LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 46.
 
-[56]) (./others/romano.cpp) (./others/getkthpermutation.cpp
+[57]) (./others/romano.cpp) (./others/getkthpermutation.cpp
 
-LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 28.
+LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 28.
 
-[57])
+[58])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 793.
 
 
-LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 793.
+LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 793.
 
-[58]
+[59]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 793.
  (./elparce.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 793.
@@ -1221,13 +1215,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 793.
  ) 
 Here is how much of TeX's memory you used:
- 15546 strings out of 495028
- 216625 string characters out of 6181497
- 639876 words of memory out of 5000000
- 14004 multiletter control sequences out of 15000+600000
+ 15660 strings out of 495028
+ 218218 string characters out of 6181497
+ 632876 words of memory out of 5000000
+ 14043 multiletter control sequences out of 15000+600000
  12653 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 39i,14n,58p,357b,1925s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,13n,58p,357b,1931s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -1245,10 +1239,10 @@ r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on elparce.pdf (58 pages, 620898 bytes).
+Output written on elparce.pdf (59 pages, 625682 bytes).
 PDF statistics:
- 6155 PDF objects out of 6186 (max. 8388607)
- 6015 compressed objects within 61 object streams
- 4388 named destinations out of 5155 (max. 500000)
+ 6246 PDF objects out of 7423 (max. 8388607)
+ 6104 compressed objects within 62 object streams
+ 4461 named destinations out of 5155 (max. 500000)
  1126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

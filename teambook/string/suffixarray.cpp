@@ -1,10 +1,3 @@
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <cstring>
-
-using namespace std;
-
 #define MAX_LEN 100000
 #define ALPH_SIZE 123
 typedef char tipo;
