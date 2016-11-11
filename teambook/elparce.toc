@@ -84,32 +84,31 @@
 \contentsline {subsection}{\numberline {7.1}Bellman-Ford}{42}{subsection.7.1}
 \contentsline {subsection}{\numberline {7.2}dijkstra grafos densos}{42}{subsection.7.2}
 \contentsline {subsection}{\numberline {7.3}2 SAT definitivamente no con Tarjan}{42}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Prim}{43}{subsection.7.4}
-\contentsline {subsection}{\numberline {7.5}Articulataion Points (desgraciadamente tarjan)}{43}{subsection.7.5}
-\contentsline {subsection}{\numberline {7.6}componentes biconexas y puentes (block cut tree)}{44}{subsection.7.6}
-\contentsline {subsection}{\numberline {7.7} LCA saltitos potencias de 2}{44}{subsection.7.7}
-\contentsline {subsection}{\numberline {7.8}LCA sparse table query O(1)}{45}{subsection.7.8}
-\contentsline {subsection}{\numberline {7.9}HLD}{45}{subsection.7.9}
-\contentsline {subsection}{\numberline {7.10}centroid descomposition}{47}{subsection.7.10}
-\contentsline {subsection}{\numberline {7.11}euler cycle}{48}{subsection.7.11}
-\contentsline {subsection}{\numberline {7.12}di\IeC {\'a}metro y centro de un \IeC {\'a}rbol}{48}{subsection.7.12}
-\contentsline {subsection}{\numberline {7.13}algoritmo hungaro}{49}{subsection.7.13}
-\contentsline {subsection}{\numberline {7.14}union find din\IeC {\'a}mico}{49}{subsection.7.14}
-\contentsline {subsection}{\numberline {7.15}truquitos est\IeC {\'u}pidos por ejemplo second MST es con LCA }{50}{subsection.7.15}
-\contentsline {subsection}{\numberline {7.16}erdos galloi}{50}{subsection.7.16}
-\contentsline {subsection}{\numberline {7.17}grafo funcional hallar k-esimo partiendo de un nodo}{51}{subsection.7.17}
-\contentsline {subsection}{\numberline {7.18}konig}{51}{subsection.7.18}
-\contentsline {subsection}{\numberline {7.19}min-vertex cover bipartitos}{51}{subsection.7.19}
-\contentsline {subsection}{\numberline {7.20}max-flow (min cost versi\IeC {\'o}n)}{51}{subsection.7.20}
-\contentsline {subsection}{\numberline {7.21}max-flow corto con matriz}{52}{subsection.7.21}
-\contentsline {subsection}{\numberline {7.22}max-flow sin matriz}{52}{subsection.7.22}
-\contentsline {subsection}{\numberline {7.23}Dinic}{53}{subsection.7.23}
-\contentsline {subsection}{\numberline {7.24}m\IeC {\'a}ximo emparejamiento bipartito}{54}{subsection.7.24}
-\contentsline {subsection}{\numberline {7.25}max-independent set en bipartitos}{55}{subsection.7.25}
-\contentsline {subsection}{\numberline {7.26}min-path cover (ver t\IeC {\'o}picos raros de halim)}{55}{subsection.7.26}
-\contentsline {subsection}{\numberline {7.27}min-cost arborescence}{55}{subsection.7.27}
-\contentsline {subsection}{\numberline {7.28}lema de diapositivas de nico de grafos funcionales }{55}{subsection.7.28}
-\contentsline {subsection}{\numberline {7.29}minimax y maximini con kruskal y dijkstra}{55}{subsection.7.29}
+\contentsline {subsection}{\numberline {7.4}Articulataion Points (desgraciadamente tarjan)}{43}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}componentes biconexas y puentes (block cut tree)}{44}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6} LCA saltitos potencias de 2}{44}{subsection.7.6}
+\contentsline {subsection}{\numberline {7.7}LCA sparse table query O(1)}{45}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}HLD}{45}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.9}centroid descomposition}{47}{subsection.7.9}
+\contentsline {subsection}{\numberline {7.10}euler cycle}{48}{subsection.7.10}
+\contentsline {subsection}{\numberline {7.11}di\IeC {\'a}metro y centro de un \IeC {\'a}rbol}{48}{subsection.7.11}
+\contentsline {subsection}{\numberline {7.12}algoritmo hungaro}{49}{subsection.7.12}
+\contentsline {subsection}{\numberline {7.13}union find din\IeC {\'a}mico}{49}{subsection.7.13}
+\contentsline {subsection}{\numberline {7.14}truquitos est\IeC {\'u}pidos por ejemplo second MST es con LCA }{50}{subsection.7.14}
+\contentsline {subsection}{\numberline {7.15}erdos galloi}{50}{subsection.7.15}
+\contentsline {subsection}{\numberline {7.16}grafo funcional hallar k-esimo partiendo de un nodo}{51}{subsection.7.16}
+\contentsline {subsection}{\numberline {7.17}konig}{51}{subsection.7.17}
+\contentsline {subsection}{\numberline {7.18}min-vertex cover bipartitos}{51}{subsection.7.18}
+\contentsline {subsection}{\numberline {7.19}max-flow (min cost versi\IeC {\'o}n)}{51}{subsection.7.19}
+\contentsline {subsection}{\numberline {7.20}max-flow corto con matriz}{52}{subsection.7.20}
+\contentsline {subsection}{\numberline {7.21}max-flow sin matriz}{53}{subsection.7.21}
+\contentsline {subsection}{\numberline {7.22}Dinic}{53}{subsection.7.22}
+\contentsline {subsection}{\numberline {7.23}m\IeC {\'a}ximo emparejamiento bipartito}{54}{subsection.7.23}
+\contentsline {subsection}{\numberline {7.24}max-independent set en bipartitos}{55}{subsection.7.24}
+\contentsline {subsection}{\numberline {7.25}min-path cover (ver t\IeC {\'o}picos raros de halim)}{55}{subsection.7.25}
+\contentsline {subsection}{\numberline {7.26}min-cost arborescence}{55}{subsection.7.26}
+\contentsline {subsection}{\numberline {7.27}lema de diapositivas de nico de grafos funcionales }{55}{subsection.7.27}
+\contentsline {subsection}{\numberline {7.28}minimax y maximini con kruskal y dijkstra}{55}{subsection.7.28}
 \contentsline {section}{\numberline {8}Teoria de juegos}{56}{section.8}
 \contentsline {subsection}{\numberline {8.1}Teorema fundamental de los juegos optimos}{56}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Como calcular grundy}{56}{subsection.8.2}
@@ -118,8 +117,8 @@
 \contentsline {subsection}{\numberline {9.1}Regla general de la probabilidad}{56}{subsection.9.1}
 \contentsline {subsection}{\numberline {9.2}Teorema de bayes (Probabilidad condicional)}{56}{subsection.9.2}
 \contentsline {subsection}{\numberline {9.3}Regla de la suma}{56}{subsection.9.3}
-\contentsline {subsection}{\numberline {9.4}Regla de la multiplicacion}{56}{subsection.9.4}
-\contentsline {subsection}{\numberline {9.5}Esperanza matematica}{56}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.4}Regla de la multiplicacion}{57}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Esperanza matematica}{57}{subsection.9.5}
 \contentsline {subsection}{\numberline {9.6}Ley de la esperanza total}{57}{subsection.9.6}
 \contentsline {subsection}{\numberline {9.7}Esperanza de variables independientes}{57}{subsection.9.7}
 \contentsline {subsection}{\numberline {9.8}Varianza}{57}{subsection.9.8}
@@ -129,7 +128,7 @@
 \contentsline {subsection}{\numberline {10.2}josephus k = 2}{57}{subsection.10.2}
 \contentsline {subsection}{\numberline {10.3}poker}{57}{subsection.10.3}
 \contentsline {subsection}{\numberline {10.4}iterar subconjuntos}{57}{subsection.10.4}
-\contentsline {subsection}{\numberline {10.5}como reconstruir una DP (normal)}{57}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.5}como reconstruir una DP (normal)}{58}{subsection.10.5}
 \contentsline {subsection}{\numberline {10.6}muajaja con j}{58}{subsection.10.6}
 \contentsline {subsection}{\numberline {10.7}comparar doubles for noobs}{58}{subsection.10.7}
 \contentsline {subsection}{\numberline {10.8}infix to postfix}{58}{subsection.10.8}
@@ -137,10 +136,9 @@
 \contentsline {subsection}{\numberline {10.10}get k-th permutacion}{59}{subsection.10.10}
 \contentsline {subsection}{\numberline {10.11}sliding window}{60}{subsection.10.11}
 \contentsline {subsection}{\numberline {10.12}permutaciones de un dado}{60}{subsection.10.12}
-\contentsline {subsection}{\numberline {10.13}ternary search}{60}{subsection.10.13}
-\contentsline {subsection}{\numberline {10.14}liebre y el tortugo}{60}{subsection.10.14}
-\contentsline {subsection}{\numberline {10.15}como usar printf}{60}{subsection.10.15}
-\contentsline {subsection}{\numberline {10.16}java}{60}{subsection.10.16}
-\contentsline {subsection}{\numberline {10.17}python}{60}{subsection.10.17}
-\contentsline {subsection}{\numberline {10.18}template}{60}{subsection.10.18}
-\contentsline {subsection}{\numberline {10.19}file setup}{60}{subsection.10.19}
+\contentsline {subsection}{\numberline {10.13}liebre y el tortugo}{60}{subsection.10.13}
+\contentsline {subsection}{\numberline {10.14}como usar printf}{60}{subsection.10.14}
+\contentsline {subsection}{\numberline {10.15}java}{60}{subsection.10.15}
+\contentsline {subsection}{\numberline {10.16}python}{60}{subsection.10.16}
+\contentsline {subsection}{\numberline {10.17}template}{60}{subsection.10.17}
+\contentsline {subsection}{\numberline {10.18}file setup}{61}{subsection.10.18}
