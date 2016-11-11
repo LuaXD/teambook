@@ -103,6 +103,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /home/problem/github/teambook/teambook/elparce.aux
 INPUT /home/problem/github/teambook/teambook/elparce.aux
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 OUTPUT /home/problem/github/teambook/teambook/elparce.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -127,7 +131,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /home/problem/github/teambook/teambook/snc.jpg
 INPUT /home/problem/github/teambook/teambook/snc.jpg
 INPUT /home/problem/github/teambook/teambook/snc.jpg
-INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/problem/github/teambook/teambook/elparce.toc
@@ -378,6 +381,9 @@ INPUT /home/problem/github/teambook/teambook/grafos/biconnected.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/hld.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/hld.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/hld.cpp
+INPUT /home/problem/github/teambook/teambook/grafos/centroide.cpp
+INPUT /home/problem/github/teambook/teambook/grafos/centroide.cpp
+INPUT /home/problem/github/teambook/teambook/grafos/centroide.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/euler.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/euler.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/euler.cpp
@@ -437,4 +443,5 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
