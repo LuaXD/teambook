@@ -250,6 +250,9 @@ INPUT /home/problem/github/teambook/teambook/algos/mo.cpp
 INPUT /home/problem/github/teambook/teambook/algos/ternarysearch_reales.cpp
 INPUT /home/problem/github/teambook/teambook/algos/ternarysearch_reales.cpp
 INPUT /home/problem/github/teambook/teambook/algos/ternarysearch_reales.cpp
+INPUT /home/problem/github/teambook/teambook/algos/ternarysearch_enteros.cpp
+INPUT /home/problem/github/teambook/teambook/algos/ternarysearch_enteros.cpp
+INPUT /home/problem/github/teambook/teambook/algos/ternarysearch_enteros.cpp
 INPUT /home/problem/github/teambook/teambook/string/manacher.cpp
 INPUT /home/problem/github/teambook/teambook/string/manacher.cpp
 INPUT /home/problem/github/teambook/teambook/string/manacher.cpp
@@ -301,6 +304,9 @@ INPUT /home/problem/github/teambook/teambook/math/matrix2x2andfibo.cpp
 INPUT /home/problem/github/teambook/teambook/math/gauss.cpp
 INPUT /home/problem/github/teambook/teambook/math/gauss.cpp
 INPUT /home/problem/github/teambook/teambook/math/gauss.cpp
+INPUT /home/problem/github/teambook/teambook/math/tridiagonal.cpp
+INPUT /home/problem/github/teambook/teambook/math/tridiagonal.cpp
+INPUT /home/problem/github/teambook/teambook/math/tridiagonal.cpp
 INPUT /home/problem/github/teambook/teambook/math/simplex.cpp
 INPUT /home/problem/github/teambook/teambook/math/simplex.cpp
 INPUT /home/problem/github/teambook/teambook/math/simplex.cpp

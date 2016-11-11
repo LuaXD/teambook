@@ -302,6 +302,8 @@ Las constantes $c_{ij}$ se determinan por los casos base.
 
 \subsection{Gauss Jordan}
 \cppfile[5-42]{math/gauss.cpp}
+\subsection{Tridiangonal}
+\cppfile{math/tridiagonal.cpp}
 \subsection{Simplex}
 \cppfile{math/simplex.cpp}
 
@@ -570,9 +572,54 @@ int grundyNumber(position pos) {
     return ret;
 }
 \end{code}
-\section{Probabilidad}
-\subsection{Formulas clave}
 
+\section{Algunas formulas de probabilidad}
+\paragraph{Importante} \ \\
+Verificar la independencia de eventos.\\
+\subsection{Regla general de la probabilidad}{
+$$P(E) = \frac{\newline Nro. casos favorables}{\newline Nro. casos posibles}$$
+\subsection{Teorema de bayes (Probabilidad condicional)}
+$$P(A/B) = \frac{P(A \cap B)}{P(B)}$$
+}
+
+\subsection{Regla de la suma}{
+Se suman 2 probabilidades cuando los eventos no pueden ocurrir al mismo tiempo\\
+"Pasa el evento X o pasa el evento Y"\\
+$$P(A) \cup P(B) = P(A) + P(B)$$
+Regla de la suma con eventos compatibles e incompatibles (que pueden pasar al mismo tiempo o no)\\
+$$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
+
+}
+\subsection{Regla de la multiplicacion}{
+La misma idea de arriba, "Pasa el evento X y pasa el evento Y"
+$$P(A \cap B) = P(A) * P(B)$$
+
+}
+\subsection{Esperanza matematica}{
+$$E[X] = \sum_{i=0}^n X * P(X)$$
+En el caso continuo reemplazar sumatoria por integral
+}
+\subsection{Ley de la esperanza total}{
+Esto se usa cuando quieres calcular el valor en el que pasa el evento X\\
+ej. calcular el dia esperado en el que muere el i-esimo pez
+$$E(X) = E(E(X | Y))$$
+}
+\subsection{Esperanza de variables independientes}{
+$$E(X*Y) = E(X) * E(Y)$$
+}
+\subsection{Varianza}{
+$$\sigma ^ 2 = E(X ^ 2) - (E(X)) ^ 2 $$
+}
+
+\subsection{Distribucion Binomial}{
+$$ f(x) = \binom {n}{x} p ^ x (1 - p) ^ {n - x} $$\\
+Ejemplo. Supongamos que se lanza un dado (con 6 caras) 51 veces y queremos conocer la probabilidad de que el número 3 salga 20 veces.\\
+$$ f(X = 20) = \binom {51}{20} \frac{1}{6} ^ {20} * (1 - \frac{1}{6}) ^ {51 - 20} $$\\
+Esperanza:\\
+$$ E(x) = n*p$$
+Varianza:\\
+$$ V(x) = np * (1 - p)$$
+}
 
 \section{Otros/utilitarios}
 \subsection{josephus}
@@ -705,6 +752,32 @@ int p[][6] = {
 \subsection{java}
 \subsection{python}
 \subsection{template}
+\begin{code}
+#include <bits/stdc++.h>
+using namespace std;
+
+/* no sirve en todos los jueces probar primero
+int in() {
+    int num, c;
+    while((c = getchar_unlocked()) < '-');
+    num = c - '0';
+    while((c = getchar_unlocked()) >= '0') {
+        num = (num<<3) + (num<<1) + (c-'0');
+    }
+    return num;
+}
+*/
+int in(){int r=0,c;for(c=getchar();c<=32;c=getchar());if(c=='-') return -in();for(;c>32;r=(r<<1)+(r<<3)+c-'0',c=getchar());return r;}
+
+#define DBG(x) cout << #x << ": " << x << "\n";
+#define eb emplace_back
+#define pb push_back
+#define mp make_pair
+#define mt make_tuple
+int main(){
+	return 0;
+}
+\end{code}
 \subsection{file setup}
 \begin{code}
 //tambien se pueden usar comas: {a, x, m, l}
