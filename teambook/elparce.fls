@@ -399,6 +399,9 @@ INPUT /home/problem/github/teambook/teambook/grafos/dynamic.conectivity.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/erdosgalloi.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/erdosgalloi.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/erdosgalloi.cpp
+INPUT /home/problem/github/teambook/teambook/grafos/min_vertex_cover_bipartite.cpp
+INPUT /home/problem/github/teambook/teambook/grafos/min_vertex_cover_bipartite.cpp
+INPUT /home/problem/github/teambook/teambook/grafos/min_vertex_cover_bipartite.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/maxflowmincost.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/maxflowmincost.cpp
 INPUT /home/problem/github/teambook/teambook/grafos/maxflowmincost.cpp
