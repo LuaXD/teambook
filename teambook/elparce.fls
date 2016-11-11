@@ -410,6 +410,9 @@ INPUT others/romano.cpp
 INPUT others/getkthpermutation.cpp
 INPUT others/getkthpermutation.cpp
 INPUT others/getkthpermutation.cpp
+INPUT math/liebretortuga.cpp
+INPUT math/liebretortuga.cpp
+INPUT math/liebretortuga.cpp
 INPUT elparce.aux
 INPUT ./elparce.out
 INPUT ./elparce.out
