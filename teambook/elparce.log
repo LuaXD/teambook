@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  10 NOV 2016 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 08:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,7 +541,10 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 ))
-(/home/problem/github/teambook/teambook/elparce.aux)
+(/home/problem/github/teambook/teambook/elparce.aux
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+)
 \openout1 = `elparce.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -620,73 +623,71 @@ Package pdftex.def Info: snc.jpg used on input line 7.
 (pdftex.def)             Requested size: 284.52756pt x 147.39178pt.
 
 (/home/problem/github/teambook/teambook/elparce.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 68.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  </home/problem/github/teambook/teambook/snc.jpg>]
-Overfull \hbox (2.55557pt too wide) detected at line 126
+Overfull \hbox (2.55557pt too wide) detected at line 127
 \OT1/cmr/m/n/10 10.10. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 127
+Overfull \hbox (2.55557pt too wide) detected at line 128
 \OT1/cmr/m/n/10 10.11. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 128
+Overfull \hbox (2.55557pt too wide) detected at line 129
 \OT1/cmr/m/n/10 10.12. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 129
+Overfull \hbox (2.55557pt too wide) detected at line 130
 \OT1/cmr/m/n/10 10.13. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 130
+Overfull \hbox (2.55557pt too wide) detected at line 131
 \OT1/cmr/m/n/10 10.14. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 131
+Overfull \hbox (2.55557pt too wide) detected at line 132
 \OT1/cmr/m/n/10 10.15. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 132
+Overfull \hbox (2.55557pt too wide) detected at line 133
 \OT1/cmr/m/n/10 10.16. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 133
+Overfull \hbox (2.55557pt too wide) detected at line 134
 \OT1/cmr/m/n/10 10.17. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 134
+Overfull \hbox (2.55557pt too wide) detected at line 135
 \OT1/cmr/m/n/10 10.18. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 135
+Overfull \hbox (2.55557pt too wide) detected at line 136
 \OT1/cmr/m/n/10 10.19. 
  []
 
@@ -698,11 +699,7 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 8.
-
-[2] (/home/problem/github/teambook/teambook/algorithm.tex)
+ [2] (/home/problem/github/teambook/teambook/algorithm.tex)
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 17.
 
@@ -710,183 +707,146 @@ nput line 17.
 (/home/problem/github/teambook/teambook/estructuras/strec.cpp
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
-
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 21.
-
-[3]) (/home/problem/github/teambook/teambook/estructuras/segtreeiter.cpp)
+ [3])
+(/home/problem/github/teambook/teambook/estructuras/segtreeiter.cpp)
 (/home/problem/github/teambook/teambook/estructuras/ST_casi_lazy.cpp)
-(/home/problem/github/teambook/teambook/estructuras/st2d.cpp
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
+(/home/problem/github/teambook/teambook/estructuras/segmenttree_punteros.cpp
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+
+[4]) (/home/problem/github/teambook/teambook/estructuras/st2d.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+ [5])
+(/home/problem/github/teambook/teambook/estructuras/stlazysuma.cpp)
+(/home/problem/github/teambook/teambook/estructuras/stlazypaint.cpp
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [6])
+(/home/problem/github/teambook/teambook/estructuras/persistent.cpp)
+(/home/problem/github/teambook/teambook/estructuras/fenwick.cpp)
+(/home/problem/github/teambook/teambook/estructuras/BIT2d.cpp)
+(/home/problem/github/teambook/teambook/estructuras/union_find_rank.cpp
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+[7]) (/home/problem/github/teambook/teambook/estructuras/bigint.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 16.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[4]
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+ [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
+ [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(/home/problem/github/teambook/teambook/estructuras/persistent.cpp)
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
-
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 40.
-
-[5] (/home/problem/github/teambook/teambook/estructuras/BIT2d.cpp)
-(/home/problem/github/teambook/teambook/estructuras/union_find_rank.cpp)
-(/home/problem/github/teambook/teambook/estructuras/bigint.cpp
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
-
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 30.
-
-[6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
-
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 110.
-
-[7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
-
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 197.
-
-[8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 280.
-LaTeX Info: Redefining \% on input line 280.
-LaTeX Info: Redefining \. on input line 280.
-LaTeX Info: Redefining \% on input line 280.
-
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 280.
-
-[9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 366.
-LaTeX Info: Redefining \% on input line 366.
-LaTeX Info: Redefining \. on input line 366.
-LaTeX Info: Redefining \% on input line 366.
-
-
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 366.
-
-[10]) (/home/problem/github/teambook/teambook/estructuras/unordered_set.cpp)
-(/home/problem/github/teambook/teambook/estructuras/ordered_set.cpp)
+(/home/problem/github/teambook/teambook/estructuras/unordered_set.cpp)
+(/home/problem/github/teambook/teambook/estructuras/ordered_set.cpp
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ [12])
 (/home/problem/github/teambook/teambook/estructuras/convexhulltrick.cpp
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 28.
-
-[11]
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+ [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (/home/problem/github/teambook/teambook/estructuras/convexhulltrick_dynamic.cpp
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 14.
-
-[12]) (/home/problem/github/teambook/teambook/estructuras/misof_tree.cpp)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
-
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 67.
-
-[13]
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+[14]) (/home/problem/github/teambook/teambook/estructuras/misof_tree.cpp)
 (/home/problem/github/teambook/teambook/estructuras/SQRT_Decomposition_basic.cp
-p)
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 72.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 72.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 72.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 72.
-
-(/home/problem/github/teambook/teambook/estructuras/leqset.cpp
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
-
-
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 12.
-
-[14]) (/home/problem/github/teambook/teambook/algos/lisyreconstruccion.cpp)
-(/home/problem/github/teambook/teambook/algos/mo.cpp
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
-
-
-LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 34.
-
-[15]
+p
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(/home/problem/github/teambook/teambook/string/manacher.cpp
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
 
 
-LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 56.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
 
-[16])
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
+
+(/home/problem/github/teambook/teambook/estructuras/leqset.cpp)
+(/home/problem/github/teambook/teambook/algos/lisyreconstruccion.cpp
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+ [16])
+(/home/problem/github/teambook/teambook/algos/mo.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+ [17])
+(/home/problem/github/teambook/teambook/string/manacher.cpp)
 
 ! Package Listings Error: File `suffixarray(.cpp)' not found.
 
@@ -894,140 +854,119 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: cpp)
 
 Enter file name: 
-(/home/problem/github/teambook/teambook/string/minrotlex.cpp)
+(/home/problem/github/teambook/teambook/string/minrotlex.cpp
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ [18])
 (/home/problem/github/teambook/teambook/string/kmp.cpp)
-(/home/problem/github/teambook/teambook/string/suffarraymatch.cpp
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
+(/home/problem/github/teambook/teambook/string/suffarraymatch.cpp)
+Underfull \vbox (badness 1147) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+ [19]
+(/home/problem/github/teambook/teambook/string/bwtmatch.cpp)
+(/home/problem/github/teambook/teambook/string/corasick.cpp)
+(/home/problem/github/teambook/teambook/string/SuffixAutomata.cpp
+Underfull \vbox (badness 6268) has occurred while \output is active []
 
-LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 4.
-
-[17]) (/home/problem/github/teambook/teambook/string/bwtmatch.cpp)
-(/home/problem/github/teambook/teambook/string/corasick.cpp
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
-
-
-LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 36.
-
-[18]) (/home/problem/github/teambook/teambook/string/SuffixAutomata.cpp
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
 
-
-LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 77.
-
-[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+ [21])
 (/home/problem/github/teambook/teambook/string/k_permutacion.cpp)
-(/home/problem/github/teambook/teambook/geometria/cut.polygon.cpp
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
-
-
-LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 3.
-
-[20]) (/home/problem/github/teambook/teambook/geometria/rect_inter.cpp)
+(/home/problem/github/teambook/teambook/geometria/cut.polygon.cpp)
+(/home/problem/github/teambook/teambook/geometria/rect_inter.cpp
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [22])
 (/home/problem/github/teambook/teambook/geometria/dist_point_line.cpp)
 (/home/problem/github/teambook/teambook/geometria/dist_point_segment.cpp)
-LaTeX Info: Redefining \. on input line 250.
-LaTeX Info: Redefining \% on input line 250.
-LaTeX Info: Redefining \. on input line 250.
-LaTeX Info: Redefining \% on input line 250.
-
-
-LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 250.
-
-[21]
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 256.
+(amsmath)                 on input line 259.
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 284.
+LaTeX Info: Redefining \% on input line 284.
+LaTeX Info: Redefining \. on input line 284.
+LaTeX Info: Redefining \% on input line 284.
+ [23]
 (/home/problem/github/teambook/teambook/math/combinatorio.cpp)
 (/home/problem/github/teambook/teambook/math/exp.mod.cpp)
+(/home/problem/github/teambook/teambook/math/matrix2x2andfibo.cpp)
 (/home/problem/github/teambook/teambook/math/gauss.cpp)
+(/home/problem/github/teambook/teambook/math/simplex.cpp
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 292.
-LaTeX Info: Redefining \% on input line 292.
-LaTeX Info: Redefining \. on input line 292.
-LaTeX Info: Redefining \% on input line 292.
 
-
-LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 292.
-
-[22] (/home/problem/github/teambook/teambook/math/simplex.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
-
-
-LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 82.
-
-[23]
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 295.
+(hyperref)                removing `math shift' on input line 298.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 295.
+(hyperref)                removing `superscript' on input line 298.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 295.
+(hyperref)                removing `math shift' on input line 298.
 
 (/home/problem/github/teambook/teambook/math/determinante.cpp
-LaTeX Info: Redefining \. on input line 54.
-LaTeX Info: Redefining \% on input line 54.
-LaTeX Info: Redefining \. on input line 54.
-LaTeX Info: Redefining \% on input line 54.
-
-
-LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 54.
-
-[24]) (/home/problem/github/teambook/teambook/math/criba.cpp)
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [26])
+(/home/problem/github/teambook/teambook/math/criba.cpp)
 (/home/problem/github/teambook/teambook/math/func.primos.cpp
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
-
-
-LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 66.
-
-[25]) (/home/problem/github/teambook/teambook/math/phollards.rho.cpp
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+ [27])
+(/home/problem/github/teambook/teambook/math/phollards.rho.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
-
-
-LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 60.
-
-[26]) (/home/problem/github/teambook/teambook/math/extended.euclid.cpp)
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [28])
+(/home/problem/github/teambook/teambook/math/extended.euclid.cpp)
 (/home/problem/github/teambook/teambook/math/inversos.cpp)
 (/home/problem/github/teambook/teambook/math/simpson.cpp)
 (/home/problem/github/teambook/teambook/math/frac.cpp
@@ -1035,50 +974,35 @@ LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
-
-
-LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 21.
-
-[27]) (/home/problem/github/teambook/teambook/math/polinomio.cpp)
+ [29])
+(/home/problem/github/teambook/teambook/math/polinomio.cpp)
 (/home/problem/github/teambook/teambook/math/eclineales.cpp
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
 LaTeX Info: Redefining \. on input line 45.
 LaTeX Info: Redefining \% on input line 45.
-
-
-LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 45.
-
-[28]) (/home/problem/github/teambook/teambook/math/karatsuba.cpp
+ [30])
+(/home/problem/github/teambook/teambook/math/karatsuba.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
-
-
-LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 65.
-
-[29]) (/home/problem/github/teambook/teambook/math/fft.cpp)
+ [31])
+(/home/problem/github/teambook/teambook/math/fft.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 350.
-LaTeX Info: Redefining \% on input line 350.
-LaTeX Info: Redefining \. on input line 350.
-LaTeX Info: Redefining \% on input line 350.
-
-
-LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 350.
-
-[30] (/home/problem/github/teambook/teambook/grafos/bellman.ford.cpp
+LaTeX Info: Redefining \. on input line 353.
+LaTeX Info: Redefining \% on input line 353.
+LaTeX Info: Redefining \. on input line 353.
+LaTeX Info: Redefining \% on input line 353.
+ [32]
+(/home/problem/github/teambook/teambook/grafos/bellman.ford.cpp
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
-
-
-LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 15.
-
-[31]) (/home/problem/github/teambook/teambook/grafos/twosat.cpp
+ [33])
+(/home/problem/github/teambook/teambook/grafos/twosat.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\lst@FillFixed@ not set up for use 
 with LaTeX.
@@ -1130,11 +1054,7 @@ LaTeX Info: Redefining \. on input line 73.
 LaTeX Info: Redefining \% on input line 73.
 LaTeX Info: Redefining \. on input line 73.
 LaTeX Info: Redefining \% on input line 73.
-
-
-LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 73.
-
-[32])
+ [34])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1143,10 +1063,7 @@ LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
-
-LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 38.
-
-[33]) (/home/problem/github/teambook/teambook/grafos/biconnected.cpp)
+[35]) (/home/problem/github/teambook/teambook/grafos/biconnected.cpp)
 (/home/problem/github/teambook/teambook/grafos/hld.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\expandafter not set up for use wit
@@ -1174,10 +1091,7 @@ LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
-
-LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 21.
-
-[34]
+[36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1187,11 +1101,7 @@ LaTeX Info: Redefining \. on input line 107.
 LaTeX Info: Redefining \% on input line 107.
 LaTeX Info: Redefining \. on input line 107.
 LaTeX Info: Redefining \% on input line 107.
-
-
-LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 107.
-
-[35]
+ [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1201,11 +1111,8 @@ LaTeX Info: Redefining \. on input line 190.
 LaTeX Info: Redefining \% on input line 190.
 LaTeX Info: Redefining \. on input line 190.
 LaTeX Info: Redefining \% on input line 190.
-
-
-LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 190.
-
-[36]) (/home/problem/github/teambook/teambook/grafos/euler.cpp)
+ [38])
+(/home/problem/github/teambook/teambook/grafos/euler.cpp)
 Underfull \vbox (badness 4872) has occurred while \output is active []
 
 
@@ -1214,22 +1121,15 @@ LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
-
-
-LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 40.
-
-[37]) (/home/problem/github/teambook/teambook/grafos/dynamic.conectivity.cpp
+ [39])
+(/home/problem/github/teambook/teambook/grafos/dynamic.conectivity.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
-
-
-LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 61.
-
-[38]
+ [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
@@ -1238,11 +1138,8 @@ LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
-
-
-LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 29.
-
-[39]) (/home/problem/github/teambook/teambook/grafos/maxflowmincost.cpp
+ [41])
+(/home/problem/github/teambook/teambook/grafos/maxflowmincost.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\expandafter not set up for use wit
 h LaTeX.
@@ -1272,11 +1169,8 @@ LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
-
-
-LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 69.
-
-[40]) (/home/problem/github/teambook/teambook/grafos/maxflowMVEK.cpp
+ [42])
+(/home/problem/github/teambook/teambook/grafos/maxflowMVEK.cpp
 
 ! Package inputenc Error: Unicode char \u8:Â\expandafter not set up for use wit
 h LaTeX.
@@ -1326,10 +1220,7 @@ LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
-
-LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 18.
-
-[41]
+[43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
@@ -1338,11 +1229,7 @@ LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
-
-
-LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 28.
-
-[42])
+ [44])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1351,90 +1238,60 @@ LaTeX Info: Redefining \. on input line 42.
 LaTeX Info: Redefining \% on input line 42.
 LaTeX Info: Redefining \. on input line 42.
 LaTeX Info: Redefining \% on input line 42.
-
-
-LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 42.
-
-[43]) (/home/problem/github/teambook/teambook/grafos/maximini.cpp
+ [45])
+(/home/problem/github/teambook/teambook/grafos/maximini.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 55.
 LaTeX Info: Redefining \% on input line 55.
 LaTeX Info: Redefining \. on input line 55.
 LaTeX Info: Redefining \% on input line 55.
-
-
-LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 55.
-
-[44])
+ [46])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 601.
-LaTeX Info: Redefining \% on input line 601.
-
-
-LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 601.
-
-[45] (/home/problem/github/teambook/teambook/others/infixpostfix.cpp
+LaTeX Info: Redefining \. on input line 604.
+LaTeX Info: Redefining \% on input line 604.
+ [47]
+(/home/problem/github/teambook/teambook/others/infixpostfix.cpp
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
-
-
-LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 33.
-
-[46]) (/home/problem/github/teambook/teambook/others/romano.cpp)
+ [48])
+(/home/problem/github/teambook/teambook/others/romano.cpp)
 (/home/problem/github/teambook/teambook/others/getkthpermutation.cpp
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
-
-
-LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 15.
-
-[47])
-
-Package lastpage Warning: Rerun to get the references right on input line 699.
-
+ [49])
 
 AED: lastpage setting LastPage
-LaTeX Info: Redefining \. on input line 699.
-LaTeX Info: Redefining \% on input line 699.
-LaTeX Info: Redefining \. on input line 699.
-LaTeX Info: Redefining \% on input line 699.
-
-LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 699.
-
-[48]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 699.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 699.
+LaTeX Info: Redefining \. on input line 702.
+LaTeX Info: Redefining \% on input line 702.
+LaTeX Info: Redefining \. on input line 702.
+LaTeX Info: Redefining \% on input line 702.
+[50]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 702.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 702.
  (/home/problem/github/teambook/teambook/elparce.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 699.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 699.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 702.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 702.
 Package rerunfilecheck Info: File `elparce.out' has not changed.
-(rerunfilecheck)             Checksum: 453D8991BCAA2B0D1802B10FC37500CD;9334.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 699.
+(rerunfilecheck)             Checksum: CEACBA31508AF2A8210EFC232A1F58BE;9303.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 702.
  ) 
 Here is how much of TeX's memory you used:
- 15289 strings out of 493085
- 216840 string characters out of 6136917
- 664607 words of memory out of 5000000
- 14835 multiletter control sequences out of 15000+600000
+ 15530 strings out of 493085
+ 221094 string characters out of 6136917
+ 647607 words of memory out of 5000000
+ 14895 multiletter control sequences out of 15000+600000
  12653 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,14n,58p,244b,1961s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,14n,58p,357b,1961s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -1452,11 +1309,11 @@ r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on /home/problem/github/teambook/teambook/elparce.pdf (48 pages,
- 552606 bytes).
+Output written on /home/problem/github/teambook/teambook/elparce.pdf (50 pages,
+ 570067 bytes).
 PDF statistics:
- 5123 PDF objects out of 5155 (max. 8388607)
- 5003 compressed objects within 51 object streams
- 3597 named destinations out of 4296 (max. 500000)
+ 5382 PDF objects out of 6186 (max. 8388607)
+ 5258 compressed objects within 53 object streams
+ 3763 named destinations out of 4296 (max. 500000)
  1046 words of extra memory for PDF output out of 10000 (max. 10000000)
 

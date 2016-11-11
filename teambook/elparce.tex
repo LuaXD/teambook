@@ -12,7 +12,7 @@
 
 
 \section{Estructuras}%%%%%%%%%%%%%%%%%%ESTRUCTURAS%%%%%%%%%%%%%%%%%%
-\subsection{RMQ (static) - MODIFICAR}
+\subsection{RMQ (static)}
 Dado un arreglo y una operacion asociativa \emph{idempotente}, get(i, j) opera sobre el rango [i, j). Restriccion: LVL $\ge$ ceil(logn); Usar [ ] para llenar arreglo y luego build().
 \cppfile{estructuras/rmq.static.cpp}
 
@@ -25,17 +25,20 @@ Dado un arreglo y una operacion asociativa \emph{idempotente}, get(i, j) opera s
 \subsubsection{ST Iterativo - (Consulta a posicion, modificacion en rango)}
 \cppfile{estructuras/ST_casi_lazy.cpp}
 
-
-
 \subsubsection{Segment Tree con Punteros}
+\cppfile[26-68]{estructuras/segmenttree_punteros.cpp}	
+
 \subsubsection{Segment Tree 2D}
 \cppfile{estructuras/st2d.cpp}
 \subsubsection{Segment Tree Lazy - Suma}
+\cppfile{estructuras/stlazysuma.cpp}
 \subsubsection{Segment Tree Lazy - Pintar}
+\cppfile{estructuras/stlazypaint.cpp}
 \subsubsection{Segment Tree Persistente}
 \cppfile{estructuras/persistent.cpp}
 
 \subsection{Fenwick Tree}
+\cppfile{estructuras/fenwick.cpp}
 \subsubsection{Fenwick Tree 2D}
 \cppfile{estructuras/BIT2d.cpp}
 \subsection{Union Find con rank}
@@ -283,8 +286,8 @@ Las constantes $c_{ij}$ se determinan por los casos base.
 \subsection{Exp. de Numeros Mod.}
 \cppfile[2]{math/exp.mod.cpp}
 
-\subsection{Exp. de Matrices y Fibonacci en log(n) - Sacar de Agustin}
-%\cppfile{math/exp.mat._cpp}
+\subsection{Exp. de Matrices y Fibonacci en log(n)}
+\cppfile[3-20]{math/matrix2x2andfibo.cpp}
 
 \subsection{Gauss Jordan}
 \cppfile[5-42]{math/gauss.cpp}
