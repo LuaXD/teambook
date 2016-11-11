@@ -500,6 +500,20 @@ $\sigma_1(9896040)$ = 44323200 ; $\sigma_1(9959040)$ = 44553600 ; $\sigma_1(9979
 \subsection{ LCA saltitos potencias de 2}
 \cppfile{grafos/lcapot2.cpp}
 \subsection{LCA sparse table query O(1)}
+\begin{code}
+/*Three) Sparse table O(NlogN),O(1)
+Let's introduce you an order of tree vertices, haas and I named it Euler order. It is like DFS order, but every time we enter a vertex, we write it's number down (even when we come from a child to this node in DFS).*/
+Code for calculate this :
+vector<int> euler;
+void dfs(int v,int p = -1){
+	euler.push_back(v);
+	for(auto u : adj[v])	if(p - u)
+		dfs(u,v), euler.push_back(v);
+}
+/*
+If we have a vector<pair<int,int> > instead of this and push {h[v], v} in the vector, and the first time {h[v], v} is appeared is s[v] and s[v] < s[u] then LCA(v, u) = (mini = s[v]s[u]euler[i]).second.
+For this propose we can use RMQ problem, and the best algorithm for that, is to use Sparse table.*/
+\end{code}
 \subsection{HLD}
 \cppfile{grafos/hld.cpp}
 \subsection{Centroid descomposition}
