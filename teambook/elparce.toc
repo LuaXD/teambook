@@ -38,70 +38,70 @@
 \contentsline {subsubsection}{\numberline {4.5.3}Matching con suffix array}{16}{subsubsection.4.5.3}
 \contentsline {subsubsection}{\numberline {4.5.4}Matching con BWT}{16}{subsubsection.4.5.4}
 \contentsline {subsubsection}{\numberline {4.5.5}Matching con Aho-Corasick}{16}{subsubsection.4.5.5}
-\contentsline {subsection}{\numberline {4.6}Suffix Automaton}{16}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.6}Suffix Automaton}{17}{subsection.4.6}
 \contentsline {subsection}{\numberline {4.7}K-esima permutacion de una cadena}{18}{subsection.4.7}
-\contentsline {section}{\numberline {5}Geometria}{18}{section.5}
-\contentsline {subsection}{\numberline {5.1}Interseccion de circunferencias - Sacar de Agustin}{18}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Graham Scan}{18}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Cortar Poligono}{18}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Interseccion de rectangulos}{18}{subsection.5.4}
+\contentsline {section}{\numberline {5}Geometria}{19}{section.5}
+\contentsline {subsection}{\numberline {5.1}Interseccion de circunferencias - Sacar de Agustin}{19}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Graham Scan}{19}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Cortar Poligono}{19}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Interseccion de rectangulos}{19}{subsection.5.4}
 \contentsline {subsection}{\numberline {5.5}Distancia punto-recta}{19}{subsection.5.5}
 \contentsline {subsection}{\numberline {5.6}Distancia punto-segmento}{19}{subsection.5.6}
-\contentsline {subsection}{\numberline {5.7}Parametrizacion de rectas - Sacar de codeforces}{19}{subsection.5.7}
-\contentsline {section}{\numberline {6}Math}{19}{section.6}
-\contentsline {subsection}{\numberline {6.1}Identidades}{19}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Ec. Caracteristica}{19}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Identidades de agustin y mario}{19}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Combinatorio}{19}{subsection.6.4}
+\contentsline {subsection}{\numberline {5.7}Parametrizacion de rectas - Sacar de codeforces}{20}{subsection.5.7}
+\contentsline {section}{\numberline {6}Math}{20}{section.6}
+\contentsline {subsection}{\numberline {6.1}Identidades}{20}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Ec. Caracteristica}{20}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Identidades de agustin y mario}{20}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Combinatorio}{20}{subsection.6.4}
 \contentsline {subsection}{\numberline {6.5}Exp. de Numeros Mod.}{20}{subsection.6.5}
 \contentsline {subsection}{\numberline {6.6}Exp. de Matrices y Fibonacci en log(n) - Sacar de Agustin}{20}{subsection.6.6}
 \contentsline {subsection}{\numberline {6.7}Gauss Jordan}{20}{subsection.6.7}
-\contentsline {subsection}{\numberline {6.8}Simplex}{20}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.8}Simplex}{21}{subsection.6.8}
 \contentsline {subsection}{\numberline {6.9}Matrices y determinante $O(n^3)$}{22}{subsection.6.9}
-\contentsline {subsection}{\numberline {6.10}Teorema Chino del Resto}{22}{subsection.6.10}
-\contentsline {subsection}{\numberline {6.11}Criba}{22}{subsection.6.11}
+\contentsline {subsection}{\numberline {6.10}Teorema Chino del Resto}{23}{subsection.6.10}
+\contentsline {subsection}{\numberline {6.11}Criba}{23}{subsection.6.11}
 \contentsline {subsection}{\numberline {6.12}Funciones de primos}{23}{subsection.6.12}
 \contentsline {subsection}{\numberline {6.13}Phollard's Rho (rolando)}{24}{subsection.6.13}
-\contentsline {subsection}{\numberline {6.14}GCD}{24}{subsection.6.14}
-\contentsline {subsection}{\numberline {6.15}Extended Euclid}{24}{subsection.6.15}
+\contentsline {subsection}{\numberline {6.14}GCD}{25}{subsection.6.14}
+\contentsline {subsection}{\numberline {6.15}Extended Euclid}{25}{subsection.6.15}
 \contentsline {subsection}{\numberline {6.16}LCM}{25}{subsection.6.16}
 \contentsline {subsection}{\numberline {6.17}Inversos}{25}{subsection.6.17}
 \contentsline {subsection}{\numberline {6.18}Simpson}{25}{subsection.6.18}
 \contentsline {subsection}{\numberline {6.19}Fraction}{25}{subsection.6.19}
-\contentsline {subsection}{\numberline {6.20}Polinomio}{25}{subsection.6.20}
+\contentsline {subsection}{\numberline {6.20}Polinomio}{26}{subsection.6.20}
 \contentsline {subsection}{\numberline {6.21}Ec. Lineales}{26}{subsection.6.21}
-\contentsline {subsection}{\numberline {6.22}Karatsuba}{26}{subsection.6.22}
-\contentsline {subsection}{\numberline {6.23}FFT}{27}{subsection.6.23}
-\contentsline {subsection}{\numberline {6.24}Tablas y cotas (Primos, Divisores, Factoriales, etc)}{28}{subsection.6.24}
-\contentsline {paragraph}{Factoriales}{28}{section*.2}
-\contentsline {paragraph}{Primos}{28}{section*.3}
-\contentsline {paragraph}{Primos cercanos a $10^n$}{28}{section*.4}
-\contentsline {paragraph}{Cantidad de primos menores que $10^n$}{28}{section*.5}
+\contentsline {subsection}{\numberline {6.22}Karatsuba}{27}{subsection.6.22}
+\contentsline {subsection}{\numberline {6.23}FFT}{28}{subsection.6.23}
+\contentsline {subsection}{\numberline {6.24}Tablas y cotas (Primos, Divisores, Factoriales, etc)}{29}{subsection.6.24}
+\contentsline {paragraph}{Factoriales}{29}{section*.2}
+\contentsline {paragraph}{Primos}{29}{section*.3}
+\contentsline {paragraph}{Primos cercanos a $10^n$}{29}{section*.4}
+\contentsline {paragraph}{Cantidad de primos menores que $10^n$}{29}{section*.5}
 \contentsline {paragraph}{Divisores}{29}{section*.6}
 \contentsline {section}{\numberline {7}Grafos}{29}{section.7}
 \contentsline {subsection}{\numberline {7.1}Bellman-Ford}{29}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}dijkstra grafos densos}{29}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}2 SAT definitivamente no con Tarjan}{29}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Prim}{30}{subsection.7.4}
-\contentsline {subsection}{\numberline {7.5}Articulataion Points (desgraciadamente tarjan)}{30}{subsection.7.5}
-\contentsline {subsection}{\numberline {7.6}componentes biconexas y puentes (block cut tree)}{31}{subsection.7.6}
-\contentsline {subsection}{\numberline {7.7} LCA saltitos potencias de 2}{31}{subsection.7.7}
-\contentsline {subsection}{\numberline {7.8}LCA sparse table query O(1)}{31}{subsection.7.8}
-\contentsline {subsection}{\numberline {7.9}HLD}{31}{subsection.7.9}
-\contentsline {subsection}{\numberline {7.10}centroid descomposition}{33}{subsection.7.10}
-\contentsline {subsection}{\numberline {7.11}euler cycle}{33}{subsection.7.11}
-\contentsline {subsection}{\numberline {7.12}di\IeC {\'a}metro y centro de un \IeC {\'a}rbol}{34}{subsection.7.12}
+\contentsline {subsection}{\numberline {7.2}dijkstra grafos densos}{30}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}2 SAT definitivamente no con Tarjan}{30}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Prim}{31}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Articulataion Points (desgraciadamente tarjan)}{31}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}componentes biconexas y puentes (block cut tree)}{32}{subsection.7.6}
+\contentsline {subsection}{\numberline {7.7} LCA saltitos potencias de 2}{32}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}LCA sparse table query O(1)}{32}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.9}HLD}{32}{subsection.7.9}
+\contentsline {subsection}{\numberline {7.10}centroid descomposition}{34}{subsection.7.10}
+\contentsline {subsection}{\numberline {7.11}euler cycle}{34}{subsection.7.11}
+\contentsline {subsection}{\numberline {7.12}di\IeC {\'a}metro y centro de un \IeC {\'a}rbol}{35}{subsection.7.12}
 \contentsline {subsection}{\numberline {7.13}algoritmo hungaro}{35}{subsection.7.13}
 \contentsline {subsection}{\numberline {7.14}union find din\IeC {\'a}mico}{35}{subsection.7.14}
-\contentsline {subsection}{\numberline {7.15}truquitos est\IeC {\'u}pidos por ejemplo second MST es con LCA }{36}{subsection.7.15}
-\contentsline {subsection}{\numberline {7.16}erdos galloi}{36}{subsection.7.16}
-\contentsline {subsection}{\numberline {7.17}grafo funcional hallar k-esimo partiendo de un nodo}{36}{subsection.7.17}
-\contentsline {subsection}{\numberline {7.18}konig}{36}{subsection.7.18}
-\contentsline {subsection}{\numberline {7.19}min-vertex cover bipartitos}{36}{subsection.7.19}
-\contentsline {subsection}{\numberline {7.20}max-flow (min cost versi\IeC {\'o}n)}{36}{subsection.7.20}
+\contentsline {subsection}{\numberline {7.15}truquitos est\IeC {\'u}pidos por ejemplo second MST es con LCA }{37}{subsection.7.15}
+\contentsline {subsection}{\numberline {7.16}erdos galloi}{37}{subsection.7.16}
+\contentsline {subsection}{\numberline {7.17}grafo funcional hallar k-esimo partiendo de un nodo}{37}{subsection.7.17}
+\contentsline {subsection}{\numberline {7.18}konig}{37}{subsection.7.18}
+\contentsline {subsection}{\numberline {7.19}min-vertex cover bipartitos}{37}{subsection.7.19}
+\contentsline {subsection}{\numberline {7.20}max-flow (min cost versi\IeC {\'o}n)}{37}{subsection.7.20}
 \contentsline {subsection}{\numberline {7.21}max-flow corto con matriz}{38}{subsection.7.21}
-\contentsline {subsection}{\numberline {7.22}max-flow sin matriz}{38}{subsection.7.22}
-\contentsline {subsection}{\numberline {7.23}Dinic}{39}{subsection.7.23}
+\contentsline {subsection}{\numberline {7.22}max-flow sin matriz}{39}{subsection.7.22}
+\contentsline {subsection}{\numberline {7.23}Dinic}{40}{subsection.7.23}
 \contentsline {subsection}{\numberline {7.24}m\IeC {\'a}ximo emparejamiento bipartito}{40}{subsection.7.24}
 \contentsline {subsection}{\numberline {7.25}max-independent set en bipartitos}{41}{subsection.7.25}
 \contentsline {subsection}{\numberline {7.26}min-path cover (ver t\IeC {\'o}picos raros de halim)}{41}{subsection.7.26}
@@ -111,25 +111,25 @@
 \contentsline {section}{\numberline {8}Teoria de juegos}{42}{section.8}
 \contentsline {subsection}{\numberline {8.1}Teorema fundamental de los juegos optimos}{42}{subsection.8.1}
 \contentsline {subsection}{\numberline {8.2}Como calcular grundy}{42}{subsection.8.2}
-\contentsline {section}{\numberline {9}Probabilidad}{42}{section.9}
-\contentsline {subsection}{\numberline {9.1}Formulas clave}{42}{subsection.9.1}
-\contentsline {section}{\numberline {10}Otros/utilitarios}{42}{section.10}
-\contentsline {subsection}{\numberline {10.1}josephus}{42}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}josephus k = 2}{42}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}poker}{42}{subsection.10.3}
-\contentsline {subsection}{\numberline {10.4}iterar subconjuntos}{42}{subsection.10.4}
-\contentsline {subsection}{\numberline {10.5}como reconstruir una DP (normal)}{42}{subsection.10.5}
-\contentsline {subsection}{\numberline {10.6}muajaja con j}{42}{subsection.10.6}
-\contentsline {subsection}{\numberline {10.7}comparar doubles for noobs}{43}{subsection.10.7}
-\contentsline {subsection}{\numberline {10.8}infix to postfix}{43}{subsection.10.8}
-\contentsline {subsection}{\numberline {10.9}numeros romanos}{43}{subsection.10.9}
-\contentsline {subsection}{\numberline {10.10}get k-th permutacion}{44}{subsection.10.10}
-\contentsline {subsection}{\numberline {10.11}sliding window}{44}{subsection.10.11}
-\contentsline {subsection}{\numberline {10.12}permutaciones de un dado}{44}{subsection.10.12}
-\contentsline {subsection}{\numberline {10.13}ternary search}{45}{subsection.10.13}
-\contentsline {subsection}{\numberline {10.14}liebre y el tortugo}{45}{subsection.10.14}
-\contentsline {subsection}{\numberline {10.15}como usar printf}{45}{subsection.10.15}
-\contentsline {subsection}{\numberline {10.16}java}{45}{subsection.10.16}
-\contentsline {subsection}{\numberline {10.17}python}{45}{subsection.10.17}
-\contentsline {subsection}{\numberline {10.18}template}{45}{subsection.10.18}
-\contentsline {subsection}{\numberline {10.19}file setup}{45}{subsection.10.19}
+\contentsline {section}{\numberline {9}Probabilidad}{43}{section.9}
+\contentsline {subsection}{\numberline {9.1}Formulas clave}{43}{subsection.9.1}
+\contentsline {section}{\numberline {10}Otros/utilitarios}{43}{section.10}
+\contentsline {subsection}{\numberline {10.1}josephus}{43}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}josephus k = 2}{43}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}poker}{43}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}iterar subconjuntos}{43}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}como reconstruir una DP (normal)}{43}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.6}muajaja con j}{43}{subsection.10.6}
+\contentsline {subsection}{\numberline {10.7}comparar doubles for noobs}{44}{subsection.10.7}
+\contentsline {subsection}{\numberline {10.8}infix to postfix}{44}{subsection.10.8}
+\contentsline {subsection}{\numberline {10.9}numeros romanos}{44}{subsection.10.9}
+\contentsline {subsection}{\numberline {10.10}get k-th permutacion}{45}{subsection.10.10}
+\contentsline {subsection}{\numberline {10.11}sliding window}{45}{subsection.10.11}
+\contentsline {subsection}{\numberline {10.12}permutaciones de un dado}{45}{subsection.10.12}
+\contentsline {subsection}{\numberline {10.13}ternary search}{46}{subsection.10.13}
+\contentsline {subsection}{\numberline {10.14}liebre y el tortugo}{46}{subsection.10.14}
+\contentsline {subsection}{\numberline {10.15}como usar printf}{46}{subsection.10.15}
+\contentsline {subsection}{\numberline {10.16}java}{46}{subsection.10.16}
+\contentsline {subsection}{\numberline {10.17}python}{46}{subsection.10.17}
+\contentsline {subsection}{\numberline {10.18}template}{46}{subsection.10.18}
+\contentsline {subsection}{\numberline {10.19}file setup}{46}{subsection.10.19}

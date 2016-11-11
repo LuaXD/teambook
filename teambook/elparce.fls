@@ -216,6 +216,12 @@ INPUT string/minrotlex.cpp
 INPUT string/kmp.cpp
 INPUT string/kmp.cpp
 INPUT string/kmp.cpp
+INPUT string/suffarraymatch.cpp
+INPUT string/suffarraymatch.cpp
+INPUT string/suffarraymatch.cpp
+INPUT string/bwtmatch.cpp
+INPUT string/bwtmatch.cpp
+INPUT string/bwtmatch.cpp
 INPUT string/corasick.cpp
 INPUT string/corasick.cpp
 INPUT string/corasick.cpp

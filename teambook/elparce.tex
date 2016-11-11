@@ -131,6 +131,7 @@ Dado un arreglo y una operacion asociativa \emph{idempotente}, get(i, j) opera s
 
 \subsection{Trie - Punteros y bfs}
 \subsection{Suffix Array O(n log n) con LCP (Kasai) O(n)}
+\cppfile{suffixarray.cpp}
 
 \subsection{Minima rotacion lexicografica}
 \cppfile{string/minrotlex.cpp}
@@ -142,7 +143,11 @@ Dado un arreglo y una operacion asociativa \emph{idempotente}, get(i, j) opera s
 \subsubsection{Z - Por aprender}
 
 \subsubsection{Matching con suffix array}
+\cppfile{string/suffarraymatch.cpp}
+
 \subsubsection{Matching con BWT}
+\cppfile{string/bwtmatch.cpp}
+
 \subsubsection{Matching con Aho-Corasick}
 \cppfile[9-51]{string/corasick.cpp}
 \subsection{Suffix Automaton}
@@ -524,8 +529,27 @@ $\sigma_1(9896040)$ = 44323200 ; $\sigma_1(9959040)$ = 44553600 ; $\sigma_1(9979
 
 \section{Teoria de juegos}
 \subsection{Teorema fundamental de los juegos optimos}
+\begin{code}
+boolean isWinning(position pos) {
+    moves[] = possible positions to which I can move from the position pos;
+    for (all x in moves) 
+        if (!isWinning(x)) return true;
+    
+    return false; 
+}
+\end{code}
 \subsection{Como calcular grundy}
-
+\begin{code}
+int grundyNumber(position pos) {
+    moves[] = possible positions to which I can move from pos
+    set s;
+    for (all x in moves) insert into s grundyNumber(x);
+    //return the smallest non-negative integer not in the set s;    
+    int ret=0;
+    while (s.contains(ret)) ret++;
+    return ret;
+}
+\end{code}
 \section{Probabilidad}
 \subsection{Formulas clave}
 
