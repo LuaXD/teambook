@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -897,58 +897,60 @@ LaTeX Info: Redefining \% on input line 18.
  [23])
 (/home/problem/github/teambook/teambook/string/suffixarray.cpp)
 (/home/problem/github/teambook/teambook/string/aplicacionSA.cpp
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
  [24])
 (/home/problem/github/teambook/teambook/string/minrotlex.cpp)
 (/home/problem/github/teambook/teambook/string/kmp.cpp
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
  [25])
 (/home/problem/github/teambook/teambook/string/hashstr.cpp)
-(/home/problem/github/teambook/teambook/string/suffarraymatch.cpp
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
- [26])
+(/home/problem/github/teambook/teambook/string/suffarraymatch.cpp)
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
+ [26]
 (/home/problem/github/teambook/teambook/string/bwtmatch.cpp)
-(/home/problem/github/teambook/teambook/string/corasick.cpp
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
- [27])
+(/home/problem/github/teambook/teambook/string/corasick.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+ [27]
 (/home/problem/github/teambook/teambook/string/SuffixAutomata.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
- [28]
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+ [28])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+
 (/home/problem/github/teambook/teambook/string/k_permutacion.cpp)
 (/home/problem/github/teambook/teambook/geometria/cut.polygon.cpp)
 (/home/problem/github/teambook/teambook/geometria/rect_inter.cpp
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
  [29])
 (/home/problem/github/teambook/teambook/geometria/rectaparametrizada.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
  [30])
 (/home/problem/github/teambook/teambook/geometria/dist_point_line.cpp)
 (/home/problem/github/teambook/teambook/geometria/dist_point_segment.cpp)
@@ -957,28 +959,28 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 280.
 
-(/home/problem/github/teambook/teambook/math/combinatorio.cpp
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+(/home/problem/github/teambook/teambook/math/combinatorio.cpp)
+(/home/problem/github/teambook/teambook/math/exp.mod.cpp
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
  [31])
-(/home/problem/github/teambook/teambook/math/exp.mod.cpp)
 (/home/problem/github/teambook/teambook/math/matrix2x2andfibo.cpp)
 (/home/problem/github/teambook/teambook/math/gauss.cpp)
 (/home/problem/github/teambook/teambook/math/tridiagonal.cpp
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
  [32])
 (/home/problem/github/teambook/teambook/math/simplex.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
  [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -996,78 +998,76 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 320.
 
 (/home/problem/github/teambook/teambook/math/determinante.cpp
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
  [34])
 (/home/problem/github/teambook/teambook/math/criba.cpp)
 (/home/problem/github/teambook/teambook/math/func.primos.cpp
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
- [35]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [35])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+
 (/home/problem/github/teambook/teambook/math/phollards.rho.cpp
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
  [36])
-Underfull \vbox (badness 6268) has occurred while \output is active []
-
-
 (/home/problem/github/teambook/teambook/math/extended.euclid.cpp)
 (/home/problem/github/teambook/teambook/math/Euclides_N_variables.java
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
  [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (/home/problem/github/teambook/teambook/math/inversos.cpp)
 (/home/problem/github/teambook/teambook/math/simpson.cpp
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
  [38])
 (/home/problem/github/teambook/teambook/math/frac.cpp)
 (/home/problem/github/teambook/teambook/math/polinomio.cpp
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
  [39])
 (/home/problem/github/teambook/teambook/math/eclineales.cpp)
 (/home/problem/github/teambook/teambook/math/karatsuba.cpp
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
  [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (/home/problem/github/teambook/teambook/math/fft.cpp
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
  [41])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 454.
-LaTeX Info: Redefining \% on input line 454.
-LaTeX Info: Redefining \. on input line 454.
-LaTeX Info: Redefining \% on input line 454.
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
  [42]
 (/home/problem/github/teambook/teambook/grafos/bellman.ford.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 (/home/problem/github/teambook/teambook/grafos/twosat.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\lst@FillFixed@ not set up for use 
@@ -1113,25 +1113,26 @@ Type  H <return>  for immediate help.
 l.7 if u,v < 0 then is equivalent to ¬u, ¬v
                                              
 ? 
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
 [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
+(/home/problem/github/teambook/teambook/grafos/articulationpointsandbridges.cpp
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+[44])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 494.
-LaTeX Info: Redefining \% on input line 494.
-LaTeX Info: Redefining \. on input line 494.
-LaTeX Info: Redefining \% on input line 494.
- [44]
-(/home/problem/github/teambook/teambook/grafos/articulationpointsandbridges.cpp
-) (/home/problem/github/teambook/teambook/grafos/biconnected.cpp
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
+
+(/home/problem/github/teambook/teambook/grafos/biconnected.cpp
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
  [45])
 (/home/problem/github/teambook/teambook/grafos/hld.cpp
 
@@ -1159,50 +1160,51 @@ l.5 Complexity: O(N*log²(
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
  [46]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 147.
-LaTeX Info: Redefining \% on input line 147.
-LaTeX Info: Redefining \. on input line 147.
-LaTeX Info: Redefining \% on input line 147.
- [47]
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
+ [47])
+(/home/problem/github/teambook/teambook/grafos/euler.cpp)
+(/home/problem/github/teambook/teambook/grafos/diameterANDcenter.cpp
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [48]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(/home/problem/github/teambook/teambook/grafos/euler.cpp)
-Underfull \vbox (badness 4872) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 506.
-LaTeX Info: Redefining \% on input line 506.
-LaTeX Info: Redefining \. on input line 506.
-LaTeX Info: Redefining \% on input line 506.
- [48]
-(/home/problem/github/teambook/teambook/grafos/diameterANDcenter.cpp)
 (/home/problem/github/teambook/teambook/grafos/dynamic.conectivity.cpp
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
  [49]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+)
+(/home/problem/github/teambook/teambook/grafos/erdosgalloi.cpp
+Underfull \vbox (badness 2293) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [50])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 100.
-LaTeX Info: Redefining \% on input line 100.
-LaTeX Info: Redefining \. on input line 100.
-LaTeX Info: Redefining \% on input line 100.
- [50])
-(/home/problem/github/teambook/teambook/grafos/erdosgalloi.cpp)
+
 (/home/problem/github/teambook/teambook/grafos/maxflowmincost.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
@@ -1226,10 +1228,10 @@ Type  H <return>  for immediate help.
 l.7 * Complexity O(v²*E
                         *log(v))
 ? 
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 [51]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1257,10 +1259,10 @@ Type  H <return>  for immediate help.
 l.7 * Complexity O(N²*E
                         )
 ? 
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
 [52]) (/home/problem/github/teambook/teambook/grafos/maxflowNOEK.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
@@ -1287,52 +1289,57 @@ l.7 * Complexity O(N²*E
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
  [53])
 (/home/problem/github/teambook/teambook/flow/dinic.cpp)
+(/home/problem/github/teambook/teambook/grafos/bipartitematching.cpp
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 525.
-LaTeX Info: Redefining \% on input line 525.
-LaTeX Info: Redefining \. on input line 525.
-LaTeX Info: Redefining \% on input line 525.
- [54]
-(/home/problem/github/teambook/teambook/grafos/bipartitematching.cpp)
+)
 (/home/problem/github/teambook/teambook/grafos/maximini.cpp
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
  [55]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-LaTeX Info: Redefining \. on input line 594.
-LaTeX Info: Redefining \% on input line 594.
+LaTeX Info: Redefining \. on input line 596.
+LaTeX Info: Redefining \% on input line 596.
  [56]
-LaTeX Info: Redefining \. on input line 640.
-LaTeX Info: Redefining \% on input line 640.
-LaTeX Info: Redefining \. on input line 640.
-LaTeX Info: Redefining \% on input line 640.
+LaTeX Info: Redefining \. on input line 646.
+LaTeX Info: Redefining \% on input line 646.
+LaTeX Info: Redefining \. on input line 646.
+LaTeX Info: Redefining \% on input line 646.
 
 [57]
-LaTeX Info: Redefining \. on input line 721.
-LaTeX Info: Redefining \% on input line 721.
+LaTeX Info: Redefining \. on input line 726.
+LaTeX Info: Redefining \% on input line 726.
+LaTeX Info: Redefining \. on input line 726.
+LaTeX Info: Redefining \% on input line 726.
  [58] (/home/problem/github/teambook/teambook/others/infixpostfix.cpp)
 (/home/problem/github/teambook/teambook/others/romano.cpp
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
  [59])
 (/home/problem/github/teambook/teambook/others/getkthpermutation.cpp)
-LaTeX Info: Redefining \. on input line 762.
-LaTeX Info: Redefining \% on input line 762.
-LaTeX Info: Redefining \. on input line 762.
-LaTeX Info: Redefining \% on input line 762.
+Underfull \vbox (badness 4872) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 768.
+LaTeX Info: Redefining \% on input line 768.
+LaTeX Info: Redefining \. on input line 768.
+LaTeX Info: Redefining \% on input line 768.
  [60]
 
 AED: lastpage setting LastPage
@@ -1356,10 +1363,10 @@ Package rerunfilecheck Info: File `elparce.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 799.
  ) 
 Here is how much of TeX's memory you used:
- 16698 strings out of 493085
- 239067 string characters out of 6136917
+ 16688 strings out of 493085
+ 238919 string characters out of 6136917
  641607 words of memory out of 5000000
- 15199 multiletter control sequences out of 15000+600000
+ 15196 multiletter control sequences out of 15000+600000
  12653 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,14n,58p,357b,2007s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1381,10 +1388,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb>
 Output written on /home/problem/github/teambook/teambook/elparce.pdf (61 pages,
- 639060 bytes).
+ 640062 bytes).
 PDF statistics:
- 6477 PDF objects out of 7423 (max. 8388607)
- 6331 compressed objects within 64 object streams
- 4591 named destinations out of 5155 (max. 500000)
+ 6468 PDF objects out of 7423 (max. 8388607)
+ 6322 compressed objects within 64 object streams
+ 4584 named destinations out of 5155 (max. 500000)
  1134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
