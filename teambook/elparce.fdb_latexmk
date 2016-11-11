@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1478873119 "elparce.tex" "elparce.pdf" "elparce" 1478873122
+["pdflatex"] 1478873915 "elparce.tex" "elparce.pdf" "elparce" 1478873919
   "/etc/texmf/web2c/texmf.cnf" 1478725843 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -101,10 +101,10 @@
   "algorithm.tex" 1478818227 2655 f07cb42e85f1d8e7e8aa09efaa151a85 ""
   "algos/lisyreconstruccion.cpp" 1478818227 1435 4e4009365be9b9a5022cc30c7061fc00 ""
   "algos/mo.cpp" 1478818227 2077 be166283e947ba3ebb7ad027414ac206 ""
-  "elparce.aux" 1478873122 22534 b6df93259cdcb1bbf20c2f800b0e1cfc ""
-  "elparce.out" 1478873122 9948 9ae653b9d111b655461da08dfa4132a2 ""
-  "elparce.tex" 1478873108 24796 8939e1939552e70755cbfd1424415a89 ""
-  "elparce.toc" 1478873122 12570 a7741464cb99be8cbddda8d7584cb380 ""
+  "elparce.aux" 1478873918 22534 b6df93259cdcb1bbf20c2f800b0e1cfc ""
+  "elparce.out" 1478873918 9948 9ae653b9d111b655461da08dfa4132a2 ""
+  "elparce.tex" 1478873903 25416 59efe7eb4f03a4700d6b76673be49837 ""
+  "elparce.toc" 1478873918 12570 a7741464cb99be8cbddda8d7584cb380 ""
   "estructuras/BIT2d.cpp" 1478818559 364 8c318918bef7377769b8e47c3a755d8e ""
   "estructuras/SQRT_Decomposition_basic.cpp" 1478818227 1679 d3075d340e9677d6bb804877d873ac9d ""
   "estructuras/ST_casi_lazy.cpp" 1478818227 706 18aa277c95353364f20e3a75caff121b ""
@@ -180,10 +180,10 @@
   "string/suffarraymatch.cpp" 1478830112 578 1268eacc3b03de467b5ef6023538c99d ""
   "wrapfig.sty" 0 -1 0 ""
   (generated)
-  "elparce.pdf"
-  "elparce.aux"
-  "/home/problem/github/teambook/teambook/elparce.pdf"
-  "elparce.out"
-  "/home/problem/github/teambook/teambook/elparce.log"
-  "elparce.toc"
   "elparce.log"
+  "/home/problem/github/teambook/teambook/elparce.log"
+  "elparce.out"
+  "elparce.aux"
+  "elparce.pdf"
+  "elparce.toc"
+  "/home/problem/github/teambook/teambook/elparce.pdf"

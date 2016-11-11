@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 10:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1197,32 +1197,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 746.
+LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 745.
 
 [55]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 750.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 776.
 
 
-LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 750.
+LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 776.
 
 [56
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 750.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 776.
  (./elparce.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 750.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 750.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 776.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 776.
 Package rerunfilecheck Info: File `elparce.out' has not changed.
 (rerunfilecheck)             Checksum: 9AE653B9D111B655461DA08DFA4132A2;9948.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 750.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 776.
  ) 
 Here is how much of TeX's memory you used:
- 15219 strings out of 495028
- 211835 string characters out of 6181497
+ 15244 strings out of 495028
+ 212224 string characters out of 6181497
  628876 words of memory out of 5000000
  13928 multiletter control sequences out of 15000+600000
  12653 words of font info for 50 fonts, out of 8000000 for 9000
@@ -1245,10 +1245,10 @@ r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on elparce.pdf (56 pages, 599812 bytes).
+Output written on elparce.pdf (56 pages, 602135 bytes).
 PDF statistics:
- 5859 PDF objects out of 6186 (max. 8388607)
- 5724 compressed objects within 58 object streams
- 4155 named destinations out of 4296 (max. 500000)
+ 5889 PDF objects out of 6186 (max. 8388607)
+ 5754 compressed objects within 58 object streams
+ 4180 named destinations out of 4296 (max. 500000)
  1110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
