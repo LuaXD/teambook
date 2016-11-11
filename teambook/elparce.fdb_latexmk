@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1478824862 "elparce.tex" "elparce.pdf" "elparce" 1478824864
+["pdflatex"] 1478825200 "elparce.tex" "elparce.pdf" "elparce" 1478825202
   "/etc/texmf/web2c/texmf.cnf" 1478725843 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -101,10 +101,10 @@
   "algorithm.tex" 1478818227 2655 f07cb42e85f1d8e7e8aa09efaa151a85 ""
   "algos/lisyreconstruccion.cpp" 1478818227 1435 4e4009365be9b9a5022cc30c7061fc00 ""
   "algos/mo.cpp" 1478818227 2077 be166283e947ba3ebb7ad027414ac206 ""
-  "elparce.aux" 1478824864 20193 5a4ba880faa926ddb6eaa9888112b1f7 ""
-  "elparce.out" 1478824864 9334 453d8991bcaa2b0d1802b10fc37500cd ""
-  "elparce.tex" 1478824846 22124 ab997b9c14e94d21b4d9b61a7e3fdcdb ""
-  "elparce.toc" 1478824864 11778 becef7b3b9f3d3449a6e41951c1f7f6c ""
+  "elparce.aux" 1478825202 20193 7d8c4d52ee181c18a3f9bbeb571ec3bc ""
+  "elparce.out" 1478825202 9334 453d8991bcaa2b0d1802b10fc37500cd ""
+  "elparce.tex" 1478825185 22103 f6d938ffc0466b58bbbe951489c03303 ""
+  "elparce.toc" 1478825202 11778 cd2bd257dcd5512fcf6893ef8cd1d65b ""
   "estructuras/BIT2d.cpp" 1478818559 364 8c318918bef7377769b8e47c3a755d8e ""
   "estructuras/SQRT_Decomposition_basic.cpp" 1478818227 1679 d3075d340e9677d6bb804877d873ac9d ""
   "estructuras/ST_casi_lazy.cpp" 1478818227 706 18aa277c95353364f20e3a75caff121b ""
@@ -165,8 +165,8 @@
   "string/minrotlex.cpp" 1478818227 742 98f5e25e3c4afa17e78a458e1b062019 ""
   "wrapfig.sty" 0 -1 0 ""
   (generated)
-  "elparce.aux"
   "elparce.out"
-  "elparce.pdf"
   "elparce.log"
   "elparce.toc"
+  "elparce.pdf"
+  "elparce.aux"
