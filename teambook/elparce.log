@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.11.9)  11 NOV 2016 15:25
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 15:22
->>>>>>> 4367c9a39632f011db1516498ba7dc640e060d71
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1534,29 +1530,6 @@ LaTeX Info: Redefining \% on input line 58.
 (/home/problem/github/teambook/teambook/grafos/maximini.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<<<<<<< HEAD
-(./others/romano.cpp) (./others/getkthpermutation.cpp
-
-LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 6.
-
-[59]) (./math/liebretortuga.cpp)
-
-LaTeX Warning: Reference `LastPage' on page 60 undefined on input line 782.
-
-[60]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 808.
-
-
-LaTeX Warning: Reference `LastPage' on page 61 undefined on input line 808.
-
-[61
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 808.
- (./elparce.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 808.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 808.
-=======
 LaTeX Info: Redefining \. on input line 586.
 LaTeX Info: Redefining \% on input line 586.
 LaTeX Info: Redefining \. on input line 586.
@@ -1585,39 +1558,41 @@ LaTeX Info: Redefining \% on input line 29.
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
  [61])
+(/home/problem/github/teambook/teambook/math/liebretortuga.cpp)
+LaTeX Info: Redefining \. on input line 812.
+LaTeX Info: Redefining \% on input line 812.
+LaTeX Info: Redefining \. on input line 812.
+LaTeX Info: Redefining \% on input line 812.
+ [62]
 
 AED: lastpage setting LastPage
-LaTeX Info: Redefining \. on input line 817.
-LaTeX Info: Redefining \% on input line 817.
-LaTeX Info: Redefining \. on input line 817.
-LaTeX Info: Redefining \% on input line 817.
-[62]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 817.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 817.
+LaTeX Info: Redefining \. on input line 818.
+LaTeX Info: Redefining \% on input line 818.
+LaTeX Info: Redefining \. on input line 818.
+LaTeX Info: Redefining \% on input line 818.
+[63
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 818.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 818.
  (/home/problem/github/teambook/teambook/elparce.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 817.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 817.
->>>>>>> 4367c9a39632f011db1516498ba7dc640e060d71
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 818.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 818.
 Package rerunfilecheck Info: File `elparce.out' has not changed.
 (rerunfilecheck)             Checksum: B8E0F43118294627C4E247E08EB09E0C;10103.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 808.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 818.
  ) 
 Here is how much of TeX's memory you used:
- 15866 strings out of 495028
- 221086 string characters out of 6181497
- 633876 words of memory out of 5000000
- 14110 multiletter control sequences out of 15000+600000
+ 16886 strings out of 493085
+ 242136 string characters out of 6136917
+ 641607 words of memory out of 5000000
+ 15246 multiletter control sequences out of 15000+600000
  12653 words of font info for 50 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 39i,13n,58p,357b,1931s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1141 hyphenation exceptions out of 8191
+ 40i,14n,58p,357b,2007s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -1635,49 +1610,11 @@ r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on elparce.pdf (61 pages, 636341 bytes).
+Output written on /home/problem/github/teambook/teambook/elparce.pdf (63 pages,
+ 651900 bytes).
 PDF statistics:
- 6403 PDF objects out of 7423 (max. 8388607)
- 6258 compressed objects within 63 object streams
- 4591 named destinations out of 5155 (max. 500000)
- 1110 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 817.
- ) 
-Here is how much of TeX's memory you used:
- 16852 strings out of 493085
- 241594 string characters out of 6136917
- 641607 words of memory out of 5000000
- 15228 multiletter control sequences out of 15000+600000
- 12653 words of font info for 50 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 40i,14n,58p,357b,2007s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{page.63} has been referenced but does not exist, 
-replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on /home/problem/github/teambook/teambook/elparce.pdf (62 pages,
- 649907 bytes).
-PDF statistics:
- 6616 PDF objects out of 7423 (max. 8388607)
- 6468 compressed objects within 65 object streams
- 4707 named destinations out of 5155 (max. 500000)
+ 6636 PDF objects out of 7423 (max. 8388607)
+ 6487 compressed objects within 65 object streams
+ 4720 named destinations out of 5155 (max. 500000)
  1126 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 4367c9a39632f011db1516498ba7dc640e060d71
 
