@@ -94,47 +94,43 @@
 \BOOKMARK [2][-]{subsection.7.14}{truquitos est\372pidos por ejemplo second MST es con LCA }{section.7}% 94
 \BOOKMARK [2][-]{subsection.7.15}{erdos galloi}{section.7}% 95
 \BOOKMARK [2][-]{subsection.7.16}{grafo funcional hallar k-esimo partiendo de un nodo}{section.7}% 96
-\BOOKMARK [2][-]{subsection.7.17}{konig}{section.7}% 97
-\BOOKMARK [2][-]{subsection.7.18}{Min-vertex cover en bipartitos}{section.7}% 98
-\BOOKMARK [2][-]{subsection.7.19}{max-flow \(min cost versi\363n\)}{section.7}% 99
-\BOOKMARK [2][-]{subsection.7.20}{max-flow corto con matriz}{section.7}% 100
-\BOOKMARK [2][-]{subsection.7.21}{max-flow sin matriz}{section.7}% 101
-\BOOKMARK [2][-]{subsection.7.22}{Dinic}{section.7}% 102
-\BOOKMARK [2][-]{subsection.7.23}{m\341ximo emparejamiento bipartito}{section.7}% 103
-\BOOKMARK [2][-]{subsection.7.24}{max-independent set en bipartitos}{section.7}% 104
-\BOOKMARK [2][-]{subsection.7.25}{min-path cover \(ver t\363picos raros de halim\)}{section.7}% 105
-\BOOKMARK [2][-]{subsection.7.26}{min-cost arborescence}{section.7}% 106
-\BOOKMARK [2][-]{subsection.7.27}{lema de diapositivas de nico de grafos funcionales }{section.7}% 107
-\BOOKMARK [2][-]{subsection.7.28}{minimax y maximini con kruskal y dijkstra}{section.7}% 108
-\BOOKMARK [1][-]{section.8}{Teoria de juegos}{}% 109
-\BOOKMARK [2][-]{subsection.8.1}{Teorema fundamental de los juegos optimos}{section.8}% 110
-\BOOKMARK [2][-]{subsection.8.2}{Como calcular grundy}{section.8}% 111
-\BOOKMARK [1][-]{section.9}{Algunas formulas de probabilidad}{}% 112
-\BOOKMARK [2][-]{subsection.9.1}{Regla general de la probabilidad}{section.9}% 113
-\BOOKMARK [2][-]{subsection.9.2}{Teorema de bayes \(Probabilidad condicional\)}{section.9}% 114
-\BOOKMARK [2][-]{subsection.9.3}{Regla de la suma}{section.9}% 115
-\BOOKMARK [2][-]{subsection.9.4}{Regla de la multiplicacion}{section.9}% 116
-\BOOKMARK [2][-]{subsection.9.5}{Esperanza matematica}{section.9}% 117
-\BOOKMARK [2][-]{subsection.9.6}{Ley de la esperanza total}{section.9}% 118
-\BOOKMARK [2][-]{subsection.9.7}{Esperanza de variables independientes}{section.9}% 119
-\BOOKMARK [2][-]{subsection.9.8}{Varianza}{section.9}% 120
-\BOOKMARK [2][-]{subsection.9.9}{Distribucion Binomial}{section.9}% 121
-\BOOKMARK [1][-]{section.10}{Otros/utilitarios}{}% 122
-\BOOKMARK [2][-]{subsection.10.1}{josephus}{section.10}% 123
-\BOOKMARK [2][-]{subsection.10.2}{josephus k = 2}{section.10}% 124
-\BOOKMARK [2][-]{subsection.10.3}{poker}{section.10}% 125
-\BOOKMARK [2][-]{subsection.10.4}{iterar subconjuntos}{section.10}% 126
-\BOOKMARK [2][-]{subsection.10.5}{como reconstruir una DP \(normal\)}{section.10}% 127
-\BOOKMARK [2][-]{subsection.10.6}{muajaja con j}{section.10}% 128
-\BOOKMARK [2][-]{subsection.10.7}{comparar doubles for noobs}{section.10}% 129
-\BOOKMARK [2][-]{subsection.10.8}{infix to postfix}{section.10}% 130
-\BOOKMARK [2][-]{subsection.10.9}{numeros romanos}{section.10}% 131
-\BOOKMARK [2][-]{subsection.10.10}{get k-th permutacion}{section.10}% 132
-\BOOKMARK [2][-]{subsection.10.11}{sliding window}{section.10}% 133
-\BOOKMARK [2][-]{subsection.10.12}{permutaciones de un dado}{section.10}% 134
-\BOOKMARK [2][-]{subsection.10.13}{liebre y el tortugo}{section.10}% 135
-\BOOKMARK [2][-]{subsection.10.14}{como usar printf}{section.10}% 136
-\BOOKMARK [2][-]{subsection.10.15}{java}{section.10}% 137
-\BOOKMARK [2][-]{subsection.10.16}{python}{section.10}% 138
-\BOOKMARK [2][-]{subsection.10.17}{template}{section.10}% 139
-\BOOKMARK [2][-]{subsection.10.18}{file setup}{section.10}% 140
+\BOOKMARK [2][-]{subsection.7.17}{Min-vertex cover en bipartitos\(konig\)}{section.7}% 97
+\BOOKMARK [2][-]{subsection.7.18}{max-flow \(min cost versi\363n\)}{section.7}% 98
+\BOOKMARK [2][-]{subsection.7.19}{max-flow corto con matriz}{section.7}% 99
+\BOOKMARK [2][-]{subsection.7.20}{max-flow sin matriz}{section.7}% 100
+\BOOKMARK [2][-]{subsection.7.21}{Dinic}{section.7}% 101
+\BOOKMARK [2][-]{subsection.7.22}{m\341ximo emparejamiento bipartito}{section.7}% 102
+\BOOKMARK [2][-]{subsection.7.23}{Hechos sobre grafos}{section.7}% 103
+\BOOKMARK [2][-]{subsection.7.24}{minimax y maximini con kruskal y dijkstra}{section.7}% 104
+\BOOKMARK [1][-]{section.8}{Teoria de juegos}{}% 105
+\BOOKMARK [2][-]{subsection.8.1}{Teorema fundamental de los juegos optimos}{section.8}% 106
+\BOOKMARK [2][-]{subsection.8.2}{Como calcular grundy}{section.8}% 107
+\BOOKMARK [1][-]{section.9}{Algunas formulas de probabilidad}{}% 108
+\BOOKMARK [2][-]{subsection.9.1}{Regla general de la probabilidad}{section.9}% 109
+\BOOKMARK [2][-]{subsection.9.2}{Teorema de bayes \(Probabilidad condicional\)}{section.9}% 110
+\BOOKMARK [2][-]{subsection.9.3}{Regla de la suma}{section.9}% 111
+\BOOKMARK [2][-]{subsection.9.4}{Regla de la multiplicacion}{section.9}% 112
+\BOOKMARK [2][-]{subsection.9.5}{Esperanza matematica}{section.9}% 113
+\BOOKMARK [2][-]{subsection.9.6}{Ley de la esperanza total}{section.9}% 114
+\BOOKMARK [2][-]{subsection.9.7}{Esperanza de variables independientes}{section.9}% 115
+\BOOKMARK [2][-]{subsection.9.8}{Varianza}{section.9}% 116
+\BOOKMARK [2][-]{subsection.9.9}{Distribucion Binomial}{section.9}% 117
+\BOOKMARK [1][-]{section.10}{Otros/utilitarios}{}% 118
+\BOOKMARK [2][-]{subsection.10.1}{josephus}{section.10}% 119
+\BOOKMARK [2][-]{subsection.10.2}{josephus k = 2}{section.10}% 120
+\BOOKMARK [2][-]{subsection.10.3}{poker}{section.10}% 121
+\BOOKMARK [2][-]{subsection.10.4}{iterar subconjuntos}{section.10}% 122
+\BOOKMARK [2][-]{subsection.10.5}{como reconstruir una DP \(normal\)}{section.10}% 123
+\BOOKMARK [2][-]{subsection.10.6}{muajaja con j}{section.10}% 124
+\BOOKMARK [2][-]{subsection.10.7}{comparar doubles for noobs}{section.10}% 125
+\BOOKMARK [2][-]{subsection.10.8}{infix to postfix}{section.10}% 126
+\BOOKMARK [2][-]{subsection.10.9}{numeros romanos}{section.10}% 127
+\BOOKMARK [2][-]{subsection.10.10}{get k-th permutacion}{section.10}% 128
+\BOOKMARK [2][-]{subsection.10.11}{sliding window}{section.10}% 129
+\BOOKMARK [2][-]{subsection.10.12}{permutaciones de un dado}{section.10}% 130
+\BOOKMARK [2][-]{subsection.10.13}{liebre y el tortugo}{section.10}% 131
+\BOOKMARK [2][-]{subsection.10.14}{como usar printf}{section.10}% 132
+\BOOKMARK [2][-]{subsection.10.15}{java}{section.10}% 133
+\BOOKMARK [2][-]{subsection.10.16}{python}{section.10}% 134
+\BOOKMARK [2][-]{subsection.10.17}{template}{section.10}% 135
+\BOOKMARK [2][-]{subsection.10.18}{file setup}{section.10}% 136

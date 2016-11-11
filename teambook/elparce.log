@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.24)  11 NOV 2016 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,7 +616,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<snc.jpg, id=566, 501.875pt x 259.97125pt>
+<snc.jpg, id=550, 501.875pt x 259.97125pt>
 File: snc.jpg Graphic file (type jpg)
  <use snc.jpg>
 Package pdftex.def Info: snc.jpg used on input line 7.
@@ -642,47 +642,47 @@ LaTeX Info: Redefining \% on input line 69.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  </home/problem/github/teambook/teambook/snc.jpg>]
-Overfull \hbox (2.55557pt too wide) detected at line 139
+Overfull \hbox (2.55557pt too wide) detected at line 135
 \OT1/cmr/m/n/10 10.10. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 140
+Overfull \hbox (2.55557pt too wide) detected at line 136
 \OT1/cmr/m/n/10 10.11. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 141
+Overfull \hbox (2.55557pt too wide) detected at line 137
 \OT1/cmr/m/n/10 10.12. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 142
+Overfull \hbox (2.55557pt too wide) detected at line 138
 \OT1/cmr/m/n/10 10.13. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 143
+Overfull \hbox (2.55557pt too wide) detected at line 139
 \OT1/cmr/m/n/10 10.14. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 144
+Overfull \hbox (2.55557pt too wide) detected at line 140
 \OT1/cmr/m/n/10 10.15. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 145
+Overfull \hbox (2.55557pt too wide) detected at line 141
 \OT1/cmr/m/n/10 10.16. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 146
+Overfull \hbox (2.55557pt too wide) detected at line 142
 \OT1/cmr/m/n/10 10.17. 
  []
 
 
-Overfull \hbox (2.55557pt too wide) detected at line 147
+Overfull \hbox (2.55557pt too wide) detected at line 143
 \OT1/cmr/m/n/10 10.18. 
  []
 
@@ -1421,10 +1421,10 @@ LaTeX Info: Redefining \% on input line 73.
  [51])
 (/home/problem/github/teambook/teambook/grafos/erdosgalloi.cpp)
 (/home/problem/github/teambook/teambook/grafos/min_vertex_cover_bipartite.cpp
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
 
 [52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1453,10 +1453,10 @@ Type  H <return>  for immediate help.
 l.7 * Complexity O(v²*E
                         *log(v))
 ? 
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 [53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1484,10 +1484,10 @@ Type  H <return>  for immediate help.
 l.7 * Complexity O(N²*E
                         )
 ? 
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 [54]) (/home/problem/github/teambook/teambook/grafos/maxflowNOEK.cpp
 
 ! Package inputenc Error: Unicode char \u8:�\expandafter not set up for use wit
@@ -1514,85 +1514,81 @@ l.7 * Complexity O(N²*E
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
  [55])
 (/home/problem/github/teambook/teambook/flow/dinic.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
  [56])
 (/home/problem/github/teambook/teambook/grafos/bipartitematching.cpp)
-(/home/problem/github/teambook/teambook/grafos/maximini.cpp
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+LaTeX Info: Redefining \. on input line 569.
+LaTeX Info: Redefining \% on input line 569.
+LaTeX Info: Redefining \. on input line 569.
+LaTeX Info: Redefining \% on input line 569.
  [57]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-LaTeX Info: Redefining \. on input line 611.
-LaTeX Info: Redefining \% on input line 611.
+(/home/problem/github/teambook/teambook/grafos/maximini.cpp)
+LaTeX Info: Redefining \. on input line 623.
+LaTeX Info: Redefining \% on input line 623.
+LaTeX Info: Redefining \. on input line 623.
+LaTeX Info: Redefining \% on input line 623.
  [58]
-LaTeX Info: Redefining \. on input line 654.
-LaTeX Info: Redefining \% on input line 654.
-
-[59]
-LaTeX Info: Redefining \. on input line 725.
-LaTeX Info: Redefining \% on input line 725.
- [60] (/home/problem/github/teambook/teambook/others/infixpostfix.cpp)
+LaTeX Info: Redefining \. on input line 681.
+LaTeX Info: Redefining \% on input line 681.
+LaTeX Info: Redefining \. on input line 681.
+LaTeX Info: Redefining \% on input line 681.
+ [59]
+LaTeX Info: Redefining \. on input line 748.
+LaTeX Info: Redefining \% on input line 748.
+LaTeX Info: Redefining \. on input line 748.
+LaTeX Info: Redefining \% on input line 748.
+ [60]
+(/home/problem/github/teambook/teambook/others/infixpostfix.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 747.
-LaTeX Info: Redefining \% on input line 747.
-LaTeX Info: Redefining \. on input line 747.
-LaTeX Info: Redefining \% on input line 747.
- [61]
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [61])
 (/home/problem/github/teambook/teambook/others/romano.cpp)
 (/home/problem/github/teambook/teambook/others/getkthpermutation.cpp)
-LaTeX Info: Redefining \. on input line 769.
-LaTeX Info: Redefining \% on input line 769.
-LaTeX Info: Redefining \. on input line 769.
-LaTeX Info: Redefining \% on input line 769.
+LaTeX Info: Redefining \. on input line 789.
+LaTeX Info: Redefining \% on input line 789.
+LaTeX Info: Redefining \. on input line 789.
+LaTeX Info: Redefining \% on input line 789.
  [62]
 (/home/problem/github/teambook/teambook/math/liebretortuga.cpp)
 
 AED: lastpage setting LastPage
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
+LaTeX Info: Redefining \. on input line 852.
+LaTeX Info: Redefining \% on input line 852.
+LaTeX Info: Redefining \. on input line 852.
+LaTeX Info: Redefining \% on input line 852.
 [63]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 819.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 819.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 852.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 852.
  (/home/problem/github/teambook/teambook/elparce.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 819.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 819.
-
-
-Package rerunfilecheck Warning: File `elparce.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `elparce.out':
-(rerunfilecheck)             Before: B8E0F43118294627C4E247E08EB09E0C;10103
-(rerunfilecheck)             After:  0CB295370A0A352973A588BBF02BF973;10106.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 819.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 852.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 852.
+Package rerunfilecheck Info: File `elparce.out' has not changed.
+(rerunfilecheck)             Checksum: AEFEDD69A49E823CBE685B8C7D44642D;9768.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 852.
  ) 
 Here is how much of TeX's memory you used:
- 16966 strings out of 493085
- 243497 string characters out of 6136917
+ 16958 strings out of 493085
+ 243369 string characters out of 6136917
  641607 words of memory out of 5000000
- 15261 multiletter control sequences out of 15000+600000
+ 15257 multiletter control sequences out of 15000+600000
  12653 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,14n,58p,357b,2007s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1614,10 +1610,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb>
 Output written on /home/problem/github/teambook/teambook/elparce.pdf (63 pages,
- 655923 bytes).
+ 659214 bytes).
 PDF statistics:
- 6711 PDF objects out of 7423 (max. 8388607)
- 6561 compressed objects within 66 object streams
- 4782 named destinations out of 5155 (max. 500000)
- 1126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6691 PDF objects out of 7423 (max. 8388607)
+ 6541 compressed objects within 66 object streams
+ 4778 named destinations out of 5155 (max. 500000)
+ 1094 words of extra memory for PDF output out of 10000 (max. 10000000)
 

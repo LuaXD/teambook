@@ -529,8 +529,7 @@ For this propose we can use RMQ problem, and the best algorithm for that, is to 
 \subsection{erdos galloi}
 \cppfile{grafos/erdosgalloi.cpp}
 \subsection{grafo funcional hallar k-esimo partiendo de un nodo}
-\subsection{konig}
-\subsection{Min-vertex cover en bipartitos}
+\subsection{Min-vertex cover en bipartitos(konig)}
 \cppfile[22-82]{grafos/min_vertex_cover_bipartite.cpp}
 \subsection{max-flow (min cost versión)}
 \cppfile{grafos/maxflowmincost.cpp}
@@ -542,10 +541,44 @@ For this propose we can use RMQ problem, and the best algorithm for that, is to 
 \cppfile[10-76]{flow/dinic.cpp}
 \subsection{máximo emparejamiento bipartito}
 \cppfile{grafos/bipartitematching.cpp}
-\subsection{max-independent set en bipartitos}
-\subsection{min-path cover (ver tópicos raros de halim)}
-\subsection{min-cost arborescence}
-\subsection{lema de diapositivas de nico de grafos funcionales }
+\subsection{Hechos sobre grafos}
+
+Un \emph{independent set} de un grafo es un conjunto de nodos tal que no hay arcos de entre ellos.
+El problema de maximum independent set consiste en encontrar un conjunto de máxima cardinalidad que cumpla con esta condición.
+
+Un \emph{vertex cover} es un conjunto de nodos tales que todo arco tiene al menos un extremo en el conjunto. El problema de minimum vertex cover exige hallar el menor conjunto que cumple esta propiedad.
+
+\emph{Vertex Cover en un grafo bipartito}: El teorema de König dice que en un grafo bipartito, la cardinalidad de un vertex cover es igual a la de un matching máximo.
+
+\emph{Vertex Cover en Grafos Funcionales}: Hay algoritmo greedy empezando de las hojas (nodos de grado 1)
+Tomamos una hoja, nunca es óptimo seleccionarla para el vertex cover. Por lo tanto seleccionamos a su padre y borramos todos los arcos cubiertos.
+Al final, es posible que queden ciclos. Para estos se necesitan $ceil(nodos/2)$
+------------------------------------------------
+Un grafo es bipartito si y solo si no contiene ciclos de longitud impar.
+
+Todos los arboles son bipartitos.
+
+Las aristas que forman un ciclo, se encuentran en una misma componente biconexa.
+
+Minimum Vertex Cover: para V = (S,T)
+DFS desde los vertices que no estan cubiertos por alguna arista del matching,
+para moverse:
+
+- De izq. a der. usar las aristas que no estan en el matching
+- De der. a izq. usar las aristas que estan en el matching
+
+Estan en el vertex cover(independent set):
+
+- De S los no alcanzados(los alcanzados)
+- De T los alcanzados(los no alcanzados)
+
+Para usar Teorema de Dilworth colocar tambien aristas que resulten de la transitividad.
+
+Un grafo con grados de vertices iguales a 1 o 2, consiste solo de caminos y ciclos.
+
+%\subsection{min-path cover (ver tópicos raros de halim)}
+%\subsection{min-cost arborescence}
+%\subsection{lema de diapositivas de nico de grafos funcionales }
 \subsection{minimax y maximini con kruskal y dijkstra}
 \cppfile{grafos/maximini.cpp}
 %\subsection{Dijkstra}
