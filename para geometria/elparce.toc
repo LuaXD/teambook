@@ -1,0 +1,141 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}algorithm}{3}{section.1}
+\contentsline {section}{\numberline {2}Estructuras}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}RMQ (static)}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Segment Tree}{3}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Segment Tree Recursivo}{3}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}ST Iterativo - (Consulta en rango, modificacion a posicion)}{4}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}ST Iterativo - (Consulta a posicion, modificacion en rango)}{4}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Segment Tree con Punteros}{4}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Segment Tree 2D}{5}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.6}Segment Tree Lazy - Suma}{6}{subsubsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.7}Segment Tree Lazy - Pintar}{6}{subsubsection.2.2.7}
+\contentsline {subsubsection}{\numberline {2.2.8}Segment Tree Persistente}{7}{subsubsection.2.2.8}
+\contentsline {subsection}{\numberline {2.3}Fenwick Tree}{7}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Fenwick Tree 2D}{7}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.4}Union Find con rank}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}BigInteger C++}{8}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}UnorderedSet}{12}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Ordered Set}{12}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Treap Modo Set}{13}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Treap Implicito(Rope)}{15}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Treap - Toby and Stones}{15}{subsection.2.10}
+\contentsline {subsection}{\numberline {2.11}Convex Hull Trick Estatico}{17}{subsection.2.11}
+\contentsline {subsection}{\numberline {2.12}Convex Hull Trick Dinamico}{19}{subsection.2.12}
+\contentsline {subsection}{\numberline {2.13}Misof Tree}{19}{subsection.2.13}
+\contentsline {subsection}{\numberline {2.14}SQRT Decomposition Basic}{20}{subsection.2.14}
+\contentsline {subsection}{\numberline {2.15}Nro. Elementos menores o iguales a $x$ en $O(log(n))$}{21}{subsection.2.15}
+\contentsline {section}{\numberline {3}Algos}{21}{section.3}
+\contentsline {subsection}{\numberline {3.1}LIS en O(n log n) con Reconstruccion}{21}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Mo}{21}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Ternary Search - Reales}{22}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Ternary Search - Enteros}{23}{subsection.3.4}
+\contentsline {section}{\numberline {4}Strings}{23}{section.4}
+\contentsline {subsection}{\numberline {4.1}Manacher}{23}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Trie(estatico)}{23}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Suffix Array O(n log n) con LCP (Kasai) O(n)}{24}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Algunas aplicaciones de SA}{24}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Minima rotacion lexicografica}{25}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Matching}{25}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}KMP}{25}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Z}{26}{subsubsection.4.6.2}
+\contentsline {subsubsection}{\numberline {4.6.3}Matching con hash}{27}{subsubsection.4.6.3}
+\contentsline {subsubsection}{\numberline {4.6.4}Matching con suffix array}{27}{subsubsection.4.6.4}
+\contentsline {subsubsection}{\numberline {4.6.5}Matching con BWT}{27}{subsubsection.4.6.5}
+\contentsline {subsubsection}{\numberline {4.6.6}Matching con Aho-Corasick}{28}{subsubsection.4.6.6}
+\contentsline {subsection}{\numberline {4.7}Suffix Automaton}{28}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}K-esima permutacion de una cadena}{30}{subsection.4.8}
+\contentsline {section}{\numberline {5}Geometria}{30}{section.5}
+\contentsline {subsection}{\numberline {5.1}Cortar Poligono}{30}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Interseccion de rectangulos}{30}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Otra representacion de rectas y segmentos}{31}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Distancia punto-recta}{31}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Distancia punto-segmento}{32}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Rotating callipers}{32}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Diametro de un poligono convexo}{34}{subsection.5.7}
+\contentsline {subsection}{\numberline {5.8}Pick}{34}{subsection.5.8}
+\contentsline {section}{\numberline {6}Math}{34}{section.6}
+\contentsline {subsection}{\numberline {6.1}Identidades}{34}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Ec. Caracteristica}{34}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Combinatorio}{34}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Exp. de Numeros Mod.}{34}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Matrices de 2x2 y Fibonacci en log(n)}{35}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Gauss Jordan}{35}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}Tridiangonal}{35}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}Simplex}{36}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.9}Matrices y determinante $O(n^3)$}{37}{subsection.6.9}
+\contentsline {subsection}{\numberline {6.10}Teorema Chino del Resto}{38}{subsection.6.10}
+\contentsline {subsection}{\numberline {6.11}Criba}{38}{subsection.6.11}
+\contentsline {subsection}{\numberline {6.12}Deduccion Phi de Euler}{38}{subsection.6.12}
+\contentsline {subsection}{\numberline {6.13}Sumatoria de coprimos menores a N}{38}{subsection.6.13}
+\contentsline {subsection}{\numberline {6.14}Funciones de primos}{38}{subsection.6.14}
+\contentsline {subsection}{\numberline {6.15}Phollard's Rho (rolando)}{39}{subsection.6.15}
+\contentsline {subsection}{\numberline {6.16}GCD}{40}{subsection.6.16}
+\contentsline {subsection}{\numberline {6.17}Extended Euclid}{40}{subsection.6.17}
+\contentsline {subsection}{\numberline {6.18}Extended Euclid - N variables}{40}{subsection.6.18}
+\contentsline {subsection}{\numberline {6.19}LCM}{41}{subsection.6.19}
+\contentsline {subsection}{\numberline {6.20}Inversos}{41}{subsection.6.20}
+\contentsline {subsection}{\numberline {6.21}Simpson}{41}{subsection.6.21}
+\contentsline {subsection}{\numberline {6.22}Fraction}{42}{subsection.6.22}
+\contentsline {subsection}{\numberline {6.23}Polinomio}{42}{subsection.6.23}
+\contentsline {subsection}{\numberline {6.24}Ec. Lineales}{43}{subsection.6.24}
+\contentsline {subsection}{\numberline {6.25}Karatsuba}{43}{subsection.6.25}
+\contentsline {subsection}{\numberline {6.26}FFT}{44}{subsection.6.26}
+\contentsline {subsection}{\numberline {6.27}Tablas y cotas (Primos, Divisores, Factoriales, etc)}{45}{subsection.6.27}
+\contentsline {paragraph}{Factoriales}{45}{section*.2}
+\contentsline {paragraph}{Primos}{45}{section*.3}
+\contentsline {paragraph}{Primos cercanos a $10^n$}{45}{section*.4}
+\contentsline {paragraph}{Cantidad de primos menores que $10^n$}{46}{section*.5}
+\contentsline {paragraph}{Divisores}{46}{section*.6}
+\contentsline {section}{\numberline {7}Grafos}{46}{section.7}
+\contentsline {subsection}{\numberline {7.1}Bellman-Ford}{46}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Dijkstra para grafos densos}{46}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}2 SAT definitivamente no con Tarjan}{47}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Articulataion Points (desgraciadamente tarjan)}{48}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}componentes biconexas y puentes (block cut tree)}{49}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6} LCA saltitos potencias de 2}{49}{subsection.7.6}
+\contentsline {subsection}{\numberline {7.7}LCA sparse table query O(1)}{49}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}HLD}{50}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.9}Centroid descomposition}{52}{subsection.7.9}
+\contentsline {subsection}{\numberline {7.10}Euler cycle}{53}{subsection.7.10}
+\contentsline {subsection}{\numberline {7.11}di\IeC {\'a}metro y centro de un \IeC {\'a}rbol}{53}{subsection.7.11}
+\contentsline {subsection}{\numberline {7.12}union find din\IeC {\'a}mico}{54}{subsection.7.12}
+\contentsline {subsection}{\numberline {7.13}truquitos est\IeC {\'u}pidos por ejemplo second MST es con LCA }{55}{subsection.7.13}
+\contentsline {subsection}{\numberline {7.14}erdos galloi}{55}{subsection.7.14}
+\contentsline {subsection}{\numberline {7.15}Min-vertex cover en bipartitos(konig)}{56}{subsection.7.15}
+\contentsline {subsection}{\numberline {7.16}max-flow (min cost versi\IeC {\'o}n)}{56}{subsection.7.16}
+\contentsline {subsection}{\numberline {7.17}max-flow corto con matriz}{57}{subsection.7.17}
+\contentsline {subsection}{\numberline {7.18}max-flow sin matriz}{58}{subsection.7.18}
+\contentsline {subsection}{\numberline {7.19}Dinic}{59}{subsection.7.19}
+\contentsline {subsection}{\numberline {7.20}m\IeC {\'a}ximo emparejamiento bipartito}{60}{subsection.7.20}
+\contentsline {subsection}{\numberline {7.21}Hechos sobre grafos}{60}{subsection.7.21}
+\contentsline {subsection}{\numberline {7.22}minimax y maximini con kruskal y dijkstra}{61}{subsection.7.22}
+\contentsline {section}{\numberline {8}Teoria de juegos}{62}{section.8}
+\contentsline {subsection}{\numberline {8.1}Teorema fundamental de los juegos optimos}{62}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Como calcular grundy}{62}{subsection.8.2}
+\contentsline {section}{\numberline {9}Algunas formulas de probabilidad}{62}{section.9}
+\contentsline {paragraph}{Importante}{62}{section*.7}
+\contentsline {subsection}{\numberline {9.1}Regla general de la probabilidad}{62}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Teorema de bayes (Probabilidad condicional)}{62}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Regla de la suma}{62}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Regla de la multiplicacion}{62}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Esperanza matematica}{62}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}Ley de la esperanza total}{63}{subsection.9.6}
+\contentsline {subsection}{\numberline {9.7}Esperanza de variables independientes}{63}{subsection.9.7}
+\contentsline {subsection}{\numberline {9.8}Varianza}{63}{subsection.9.8}
+\contentsline {subsection}{\numberline {9.9}Distribucion Binomial}{63}{subsection.9.9}
+\contentsline {section}{\numberline {10}Otros/utilitarios}{63}{section.10}
+\contentsline {subsection}{\numberline {10.1}josephus}{63}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}josephus k = 2}{63}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}poker}{63}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}iterar subconjuntos}{63}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}como reconstruir una DP (normal)}{63}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.6}muajaja con j}{64}{subsection.10.6}
+\contentsline {subsection}{\numberline {10.7}comparar doubles for noobs}{64}{subsection.10.7}
+\contentsline {subsection}{\numberline {10.8}infix to postfix}{64}{subsection.10.8}
+\contentsline {subsection}{\numberline {10.9}numeros romanos}{65}{subsection.10.9}
+\contentsline {subsection}{\numberline {10.10}get k-th permutacion}{65}{subsection.10.10}
+\contentsline {subsection}{\numberline {10.11}permutaciones de un dado}{66}{subsection.10.11}
+\contentsline {subsection}{\numberline {10.12}liebre y el tortugo}{66}{subsection.10.12}
+\contentsline {subsection}{\numberline {10.13}template}{66}{subsection.10.13}
+\contentsline {subsection}{\numberline {10.14}file setup}{67}{subsection.10.14}
