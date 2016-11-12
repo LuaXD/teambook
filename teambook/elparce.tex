@@ -161,7 +161,7 @@ $f[x]$ increases and then decreases, and we want the maximum value of $f[x]$.
 \subsubsection{KMP}
 \cppfile[21-49]{string/kmp.cpp}
 
-\subsubsection{Z - Por aprender}
+\subsubsection{Z}
 \cppfile{string/Z_function.cpp}
 
 \subsubsection{Matching con hash}
@@ -227,6 +227,43 @@ La fraccion debe estar normalizada todo el tiempo. O podria causar errores.
 \subsection{Rotating callipers}
 \cppfile{geometria/rotatingcallipers.cpp}
 
+\subsection{Diametro de un poligono convexo}
+Retorna el diametro al cuadrado de un poligono convexo.
+\begin{code}
+long long solve(vector<Point> &v) {
+  if (v.size() <= 1) return 0;
+  if (v.size() == 2) return (v[0] - v[1]).mod2();
+  v = ConvexHull(v);//si es que no fuese un poligono
+  int n = v.size();
+  number answer = 0;
+  for (int i = 0, j = 1; i < n; i++) {
+    while ((v[i] - v[(j + 1) % n]).mod2() > (v[i] - v[j]).mod2()) {
+      j = (j + 1) % n;
+    }
+    answer = max(answer, (v[i] - v[j]).mod2());
+  }
+  return answer;
+}
+\end{code}
+
+\subsection{Pick}
+\begin{code}
+/*
+A = I + B/2 - 1, donde:
+A = Area de un poligono de coordenadas enteras
+I = Numero de puntos enteros en su interior
+B = Numero de puntos enteros sobre sus bordes
+*/
+int IntegerPointsOnSegment(const point &P1, const point &P2){
+    point P = P1-P2;
+    P.x = abs(P.x); P.y = abs(P.y);
+    
+    if(P.x == 0) return P.y;
+    if(P.y == 0) return P.x;
+    return (__gcd(P.x,P.y));
+}
+\end{code}
+Se asume que los vertices tienen coordenadas enteras. Sumar el valor de esta funcion para todas las aristas para obtener el numero total de punto en el borde del poligono.
 %\cppfile{geometria/dist_point_segment.cpp}
 
 %%%%%%%%%%%%%%%%%%GEOMETRIA%%%%%%%%%%%%%%%%%%%%%%
@@ -302,9 +339,6 @@ $T(n)=\sum_{i=1}^q{\sum_{j=0}^{m_i - 1}c_{ij} n^j r_i^n}$
 
 Las constantes $c_{ij}$ se determinan por los casos base.
 
-\subsection{Identidades de agustin y mario}
-
-
 \subsection{Combinatorio}
 \cppfile{math/combinatorio.cpp}
 
@@ -329,6 +363,19 @@ $$y=\sum_{j=1}^n (x_j*(\prod_{i=1, i\neq j}^n m_i)_{m_j}^{-1}*\prod_{i=1, i\neq 
 
 \subsection{Criba}
 \cppfile[19-39]{math/criba.cpp}
+
+\subsection{Deduccion Phi de Euler}
+a). $phi(p) = p - 1$. Where $p$ is prime. All the numbers from $1$ to $p - 1$ are coprime to p.
+\begin{labeling}
+
+\item [b).] $phi(a * b) = phi(a) * phi(b)$ where $a$ and $b$ are coprime.
+\item [c).] $phi(p^k) = p^k - p^{(k - 1)}$. Here all the numbers from $1$ to $p^k$ are coprime to $p^k$ except all the multiples of p, which are exactly $p^{(k -1)}$.
+Then $phi(n)$ would be $[ p_1^{k_1} - (p_1^{(k_1-1)} ) ] * ....... [p_m^{k_m} - (p_m^{(k_m-1)} )]$ . The expression for $n$ can also be written as $p_1^{k_1} * p_2^{k2} * .... * p_m^{k_m} * (1 - 1/p_1) * (1 - 1/p_2) .... * (1 - 1/p_m)$.
+\end{labeling}
+
+\subsection{Sumatoria de coprimos menores a N}
+$(phi(N)*N)/2$
+
 \subsection{Funciones de primos}
 Sea $n=\prod{p_i^{k_i}}$, fact(n) genera un map donde a cada $p_i$ le asocia su $k_i$
 \cppfile[33-125]{math/func.primos.cpp}
@@ -521,18 +568,17 @@ For this propose we can use RMQ problem, and the best algorithm for that, is to 
 \subsection{HLD}
 \cppfile{grafos/hld.cpp}
 \subsection{Centroid descomposition}
+Centroid of a Tree is a node which if removed from the tree would split it into a ‘forest’, such that any tree in the forest would have at most half the number of vertices in the original tree.
 \cppfile{grafos/centroide.cpp}
 \subsection{Euler cycle}
 \cppfile{grafos/euler.cpp}
 \subsection{diámetro y centro de un árbol}
 \cppfile{grafos/diameterANDcenter.cpp}
-\subsection{algoritmo hungaro}
 \subsection{union find dinámico}
 \cppfile{grafos/dynamic.conectivity.cpp}
 \subsection{truquitos estúpidos por ejemplo second MST es con LCA }
 \subsection{erdos galloi}
 \cppfile{grafos/erdosgalloi.cpp}
-\subsection{grafo funcional hallar k-esimo partiendo de un nodo}
 \subsection{Min-vertex cover en bipartitos(konig)}
 \cppfile[22-82]{grafos/min_vertex_cover_bipartite.cpp}
 \subsection{max-flow (min cost versión)}
@@ -784,7 +830,7 @@ x >= y	<=> x > y - EPS
 \cppfile{others/romano.cpp}
 \subsection{get k-th permutacion}
 \cppfile{others/getkthpermutation.cpp}
-\subsection{sliding window}
+%\subsection{sliding window}
 \subsection{permutaciones de un dado}
 \begin{code}
 // izquierda, derecha, arriba, al frente, abajo, atras
@@ -818,9 +864,9 @@ int p[][6] = {
 \end{code}
 \subsection{liebre y el tortugo}
 \cppfile{math/liebretortuga.cpp}
-\subsection{como usar printf}
-\subsection{java}
-\subsection{python}
+%\subsection{como usar printf}
+%\subsection{java}
+%\subsection{python}
 \subsection{template}
 \begin{code}
 #include <bits/stdc++.h>
